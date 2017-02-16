@@ -45,6 +45,14 @@ http://packages.ubuntu.com/source/zesty/dutch
 https://launchpad.net/ubuntu/+source/dutch
 
 
+## Tests
+
+Automated test should be added for:
+* character encoding
+* maximum word list and dictionary length
+* duplicate file paths in packages
+
+
 ## Fixme
 
 
