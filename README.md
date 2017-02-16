@@ -53,6 +53,12 @@ Automated test should be added for:
 * duplicate file paths in packages
 
 
+## Attention
+
+Attention should be given to:
+* upgrading external dependencies on myspell-nl
+
+
 ## Fixme
 
 
