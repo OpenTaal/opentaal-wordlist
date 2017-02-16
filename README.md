@@ -1,2 +1,2 @@
 # hunspell-nl
-Dutch dictionary for hunspell
+Dutch dictionary for Hunspell
