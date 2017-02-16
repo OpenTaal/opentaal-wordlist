@@ -1,0 +1,31 @@
+Language: nederlands (Dutch)
+Hash-Name: dutch
+Emacsen-Name: nederlands
+Casechars: [A-Za-z\300-\305\307\310-\317\322-\326\331-\334\340-\345\347\350-\357\361\362-\366\371-\374]
+Not-Casechars: [^A-Za-z\300-\305\307\310-\317\322-\326\331-\334\340-\345\347\350-\357\361\362-\366\371-\374]
+Otherchars: [']
+Many-Otherchars: yes
+Ispell-Args: -C
+Additionalchars: àâäçèéêëîïñöóôûüÀÂÄÇÈÉÊËÎÏÑÖÓÔÛÜ
+Extended-Character-Mode: 
+Coding-System: iso-8859-1
+
+Language: nederlands (Dutch)
+Hash-Name: dutch
+Emacsen-Name: nederlands8
+Casechars: [A-Za-z\300-\305\307\310-\317\322-\326\331-\334\340-\345\347\350-\357\361\362-\366\371-\374]
+Not-Casechars: [^A-Za-z\300-\305\307\310-\317\322-\326\331-\334\340-\345\347\350-\357\361\362-\366\371-\374]
+Otherchars: [']
+Many-Otherchars: yes
+Additionalchars: àâäçèéêëîïñöóôûüÀÂÄÇÈÉÊËÎÏÑÖÓÔÛÜ
+Ispell-Args: -C
+Extended-Character-Mode: 
+Coding-System: iso-8859-1
+
+
+
+
+
+
+
+

@@ -1,0 +1,259 @@
+# Affix file created by Richard Braakman <dark@xs4all.nl>
+# The author places it in the public domain.  Share and enjoy!
+
+# compoundwords off
+# allaffixes off
+
+defstringtype "iso" "nroff" ".txt"
+
+boundarychars \'
+boundarychars \-
+wordchars a A
+stringchar à À
+stringchar á Á
+stringchar â Â
+stringchar ä Ä
+stringchar å Å
+wordchars b B
+wordchars c C
+stringchar ç Ç
+wordchars d D
+wordchars e E
+stringchar è È
+stringchar é É
+stringchar ê Ê
+stringchar ë Ë
+wordchars [f-i] [F-I]
+stringchar î Î
+stringchar í Ï
+stringchar ï Ï
+wordchars [j-m] [J-M]
+wordchars ñ Ñ
+wordchars n N
+wordchars o O
+stringchar ö Ö
+stringchar ó Ó
+stringchar ô Ô
+wordchars [p-u] [P-U]
+stringchar û Û
+stringchar ü Ü
+stringchar ú Ú
+wordchars [v-z] [V-Z]
+
+#
+# TeX
+#
+altstringtype "tex" "TeX" ".tex" ".bib"
+
+altstringchar   "\\`a"  à
+altstringchar   "\\`A"  À
+altstringchar   "\\^a"  â
+altstringchar   "\\^A"  Â
+altstringchar   \"a  ä
+altstringchar   \"A  Ä
+altstringchar   "\\c c" ç
+altstringchar   "\\c C" Ç
+altstringchar   \\`e    è
+altstringchar   \\`E    È
+altstringchar   \\'e    é
+altstringchar   \\'E    É
+altstringchar   \\^e    ê
+altstringchar   \\^E    Ê
+altstringchar   \\"e    ë
+altstringchar   \\"E    Ë
+altstringchar   "\\^\\i "       î
+altstringchar   "\\^\\I "       Î
+altstringchar   "\\\"\\i "      ï
+altstringchar   "\\\"\\I "      Ï
+altstringchar   \\"o    ö
+altstringchar   \\"O    Ö
+altstringchar   \\'o    ó
+altstringchar   \\'O    Ó
+altstringchar   \\^u    û
+altstringchar   \\^U    Û
+altstringchar   \\"u    ü
+altstringchar   \\"U    Ü
+
+# Flags used:
+#          ABCDEFGHIJKLMNOPQRSTUVWXYZ
+#          **  * **** **** **********  
+
+prefixes
+
+flag G:
+    .  > GE         # lopen > gelopen
+
+flag A:
+    .  > AF         # nemen > afnemen
+
+flag V:
+    .  > VER        # slaan > verslaan
+
+flag O:
+    .  > ON         # aardig > onaardig
+
+flag U:
+    .  > UIT        # gang > uitgang
+
+flag Y:
+    .  > AAN        # leunen > aanleunen
+
+flag B:
+    .  > BE         # zien > bezien
+
+flag I:
+    .  > IN         # gang > ingang
+
+# te weinig gebruikt:
+# op, door, over, voor, ont, toe, om, weg, bij, na, her
+
+suffixes
+
+flag T:
+    . > T             # komt veel voor
+
+flag E:
+     . > E            # zwavelig > zwavelige
+
+flag R:
+     . > ER           # vlieg > vlieger
+
+flag W:
+    . > T      # red > redt, zwaai > zwaait
+    . > DE         # red > redde, zwaai > zwaaide
+    . > DEN        # red > redden, zwaai > zwaaiden
+
+# jammer dat de voltooide vormen niet hier te genereren zijn.
+flag D:
+    D D E N > -DEN,       # redden > red
+    D D E N > -DEN, T     # redden > redt
+    D D E N > -N,         # redden > redde
+    F F E N > -FEN,       # heffen > hef
+    F F E N > -FEN, T     # heffen > heft
+    F F E N > -FEN, TE    # heffen > hefte
+    F F E N > -FEN, TEN   # heffen > heften
+    P P E N > -PEN,       # knippen > knip
+    P P E N > -PEN, T     # knippen > knipt
+    P P E N > -PEN, TE    # knippen > knipte
+    P P E N > -PEN, TEN   # knippen > knipten
+    S S E N > -SEN,       # sissen > sis
+    S S E N > -SEN, T     # sissen > sist
+    S S E N > -SEN, TE    # sissen > siste
+    S S E N > -SEN, TEN   # sissen > sisten
+    V E N > -VEN, F     # wuiven > wuif
+    V E N > -VEN, FT    # wuiven > wuift
+    V E N > -VEN, FDE   # wuiven > wuifde
+    V E N > -VEN, FDEN  # wuiven > wuifden
+# staan nog niet in de lijst
+#    V E N > -N, R       # wuiven > wuiver
+#    V E N > -VEN, FSTER # wuiven > wuifster
+    K K E N > -KEN,       # lekken > lek
+    K K E N > -KEN, T     # lekken > lekt
+    K K E N > -KEN, TE    # lekken > lekte
+    K K E N > -KEN, TEN   # lekken > lekten
+    T T E N > -TEN,       # zetten > zet
+    T T E N > -TEN, TE    # zetten > zette
+    A Z E N > -ZEN, AS   # azen > aas
+    A Z E N > -ZEN, AST  # azen > aast
+    A Z E N > -ZEN, ASDE # azen > aasde
+ 
+flag N:
+    [^E] > EN         # bloem > bloemen
+    E > N             # gilde > gilden
+
+flag S:
+     [^SZ] > S        # appel > appels
+     S > -S, ZEN      # huis > huizen
+     Z > EN           # sovchoz > sovchozen (is dat Nederlands?)
+
+flag M:
+     A > 'S           # ra > ra's
+     B > BEN          # web > webben
+     D > DEN          # vod > vodden
+     F > -F, VEN      # korf > korven
+     G > GEN          # trog > troggen
+     I > 'S           # ski > ski's
+     K > KEN          # wak > wakken
+     L > LEN          # vel > vellen
+     M > MEN          # klem > klemmen
+     N > NEN          # man > mannen
+     O > OIEN         # vlo > vlooien
+     P > PEN          # kop > koppen
+     S > SEN          # bes > bessen
+     T > TEN          # put > putten
+     Y > 'S           # baby > baby's
+
+flag Q:
+     A A D > -AAD, ADEN  # gewaad > gewaden
+     A A G > -AAG, AGEN  # blaag > blagen
+     A A K > -AAK, AKEN  # haak > haken
+     A A L > -AAL, ALEN  # kapitaal > kapitalen
+     A A N > -AAN, ANEN  # haan > hanen
+     A A R > -AAR, AREN  # haar > haren
+     A A S > -AAS, AZEN  # blaas > blazen
+     A A T > -AAT, ATEN  # raat > raten
+     E E K > -EEK, EKEN  # beek > beken 
+     E E L > -EEL, ELEN  # paneel > panelen
+     E E M > -EEM, EMEN  # probleem > problemen
+     E E N > -EEN, ENEN  # steen > stenen
+     E E P > -EEP, EPEN  # streep > strepen
+     E E R > -EER, EREN  # beer > beren
+     E E T > -EET, ETEN  # beet > beten
+     I P > -IP, EPEN     # schip > schepen
+     O O G > -OOG, OGEN  # boog > bogen
+     O O L > -OOL, OLEN  # kool > kolen
+     O O M > -OOM, OMEN  # boom > bomen
+     O O N > -OON, ONEN  # patroon > patronen
+     O O P > -OOP, OPEN  # antiloop > antilopen
+     O O R > -OOR, OREN  # boor > boren
+     O O T > -OOT, OTEN  # noot > noten
+     U U R > -UUR, UREN  # zuur > zuren
+
+flag X:
+     . > ST           # groot > grootst
+     . > STE          # groot > grootste
+
+flag H:
+     . > HEID         # vlug > vlugheid
+     . > HEDEN        # vlug > vlugheden
+     H E I D > -ID, DEN  # zwemgelegenheid > zwemgelegenheden
+
+flag Z:
+     E N > -EN, ING   # lozen > lozing
+
+# verkleining + meervoud daarvan 
+flag J:
+     [BCDFHKPST] > JE    # kind > kindje
+     [BCDFHKPST] > JES    # kind > kindjes
+     A > ATJE        # extra > extraatje
+     A > ATJES       # extra > extraatjes
+     E > TJE         # snee > sneetje
+     E > TJES        # snee > sneetjes
+     N G > -G, KJE      # winterkoning > winterkoninkje
+     N G > -G, KJES     # winterkoning > winterkoninkjes
+     [^N] G > JE    # teug > teugje
+     [^N] G > JES   # teug > teugjes
+     I J > TJE       # rij > rijtje
+     I J > TJES      # rij > rijtjes
+     L > LETJE       # kapel > kapelletje
+     L > LETJES      # kapel > kapelletje
+     M > PJE         # rijm > rijmpje
+     M > PJES        # rijm > rijmpjes
+     N > TJE         # deken > dekentje
+     N > TJES        # deken > dekentjes
+#     M > METJE       # bom > bommetje  (komt minder voor)
+#     N > NETJE       # bon > bonnetje
+     O > OTJE        # cello > cellootje
+     O > OTJES       # cello > cellootjes
+     R > TJE         # vuur > vuurtje
+     R > TJES        # vuur > vuurtjes
+     U > UTJE        # menu > menuutje
+     U > UTJES       # menu > menuutjes
+     [WXY] > TJE     # duw > duwtje, vieux > vieuxtje, cowboy > cowboytje
+     [WXY] > TJES    # duw > duwtjes, vieux > vieuxtjes, cowboy > cowboytjes
+
+flag L:
+     . > ER           # lang > langer
+     . > ERE          # lang > langere
+     . > ST           # lang > langst
+     . > STE          # lang > langste
