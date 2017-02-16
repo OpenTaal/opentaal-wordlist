@@ -1,4 +1,4 @@
-# hunspell-nl
+# dutch
 
 Dutch word lists and dictionaries for Spell, Ispell, Aspell, Myspell and Hunspell
 
@@ -25,6 +25,10 @@ https://packages.qa.debian.org/d/dutch.html
 https://packages.debian.org/source/sid/dutch
 
 https://packages.debian.org/source/stretch/dutch
+
+https://qa.debian.org/cgi-bin/vcswatch?package=dutch
+
+https://buildd.debian.org/status/package.php?p=dutch
 
 
 ### Ubuntu
