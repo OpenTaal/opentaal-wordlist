@@ -147,7 +147,7 @@ kan het beste contact opgenomen worden met [TaalTik](https://taaltik.nl).
 This is the Dutch word list by [Stichting OpenTaal](https://www.opentaal.org).
 As long as full attribution is provided and the licenses are being respected,
 this list can be used freely. The exact conditions can be found in the file
-[LICENSE](LICENSE). Please, read these carefully.
+[LICENSE.txt](LICENSE.txt). Please, read these carefully.
 
 ![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
 

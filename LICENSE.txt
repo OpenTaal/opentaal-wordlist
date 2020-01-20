@@ -3,9 +3,9 @@ _for English, please see below_
 
 # Nederlandse licentiebepalingen
 
-U wordt vriendelijk verzocht om dit bestand genaamd `LICENSE` door te lezen en
-een kopie te behouden bij elke kopie van u van dit project of bestanden van dit
-project maakt.
+U wordt vriendelijk verzocht om dit bestand genaamd `LICENSE.txt` door te lezen
+en een kopie te behouden bij elke kopie van u van dit project of bestanden van
+dit project maakt.
 
 1. Naam: Nederlandse woordenlijst
 2. Auteur: Stichting OpenTaal
@@ -43,8 +43,8 @@ hierboven te tonen in het colofon van u drukwerk of digitale product of dienst.
 
 # English license stipulations
 
-You are kindly requested to read this file called `LICENSE` and to keep a copy
-of it with every copy you make of this project or files of this project.
+You are kindly requested to read this file called `LICENSE.txt` and to keep a
+copy of it with every copy you make of this project or files of this project.
 
 1. Name: Dutch word list
 2. Author: Stichting OpenTaal
