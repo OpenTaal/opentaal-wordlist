@@ -30,7 +30,7 @@ De woordenlijst bestaat de volgende type woorden:
 zoals `tafel`
 - ongekeurde basiswoorden bestaande uit eigennamen zoals `Jansen`, toponiemen
 zoals `Schin op Geul` en samenstellingen met een eigennaam zoals `Facebookgroep`
-- [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals `stoeltjes`
+- ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals `stoeltjes`
 
 Deze woorden zijn te vinden in een
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
@@ -38,6 +38,14 @@ Deze woorden zijn te vinden in een
 er in totaal 406.837 woorden. Let op, een woord kan een spatie bevatten, dat
 komt 4319 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort).
+
+De gekeurde en ongekeurde basiswoorden en de ongekeerde flexies zijn te vinden
+in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**,
+**[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** en
+**[flexies-ongekeurd.txt](flexies-ongekeurd.txt)**. Let op date deze verdeling
+in vorige versies en in deze versie niet heel strikt is! Dit gaat in een
+volgende _major release_ worden opgelost omdat er dan vanaf een nieuw database-
+systeem wordt gewerkt. Tot die tijd is het even behelpen met deze opdeling.
 
 Er is een apart bestand met delen van woorden die een spatie bevatten. Dit is
 een [TSV-bestand](https://en.wikipedia.org/wiki/Tab-separated_values) met in de
@@ -81,10 +89,15 @@ die **niet** deel uitmaken van
 zijn cijfers in super- en subscript zoals een `₂` in `CO₂-emissie` en `³` in
 `m³`. Als er een behoefte is aan bestanden uit deze woordenlijst die alleen maar
 ASCII-tekens bevatten, neem dan [contact](https://www.opentaal.org/contact) op
-met Stichting OpenTaal. Let op, dit heeft als impact dat bepaalde woorden
-ontdubbeld moeten worden, sommige woorden en foutcorrecties zullen verdwijnen.
-Omdat we het gebruik van Unicode aanbevelen, hebben we deze ondersteuning voor
-ASCII momenteel niet.
+met Stichting OpenTaal.
+
+Let op, dit heeft als impact dat bepaalde woorden ontdubbeld moeten worden,
+sommige woorden en foutcorrecties zullen verdwijnen. Omdat we het gebruik van
+Unicode aanbevelen, hebben we deze ondersteuning voor ASCII momenteel niet.
+
+Een ander project van OpenTaal biedt histogrammen van de letterfrequenties van
+de woordenlijst. Wanneer deze is bijgewerkt zal er hier een link naar worden
+gemaakt.
 
 
 ## Installatie
