@@ -1,52 +1,90 @@
-You are kindly requested to read this file "LICENSE" and
-to keep a copy of it with every copy you make of this project.
+_for English, please see below_
 
-1. Name: Dutch dictionary for Hunspell
-2. Version of word list used: 2.20G beta
-3. Requirements: Hunspell 1.2 and higher
-4. Spelling Seal of Dutch Language Union: The OpenTaal list of lemmas has 
-   received the Spelling Seal of Approval from the Dutch Language Union, the 
-   formal Dutch language institute. For more information please see: 
-   http://taalunieversum.org/keurmerk
-5. Copyrights: © 2006-2017 OpenTaal, © 2001-2005 Simon Brouwer e.a., 
-   © 1996 Nederlandstalige Tex Gebruikersgroep
-6. Licenses: OpenTaal aims to create and publish free Dutch language files. To 
-   enable the broadest (re)use, the language files are freely available under
-   the liberal licenses at the discretion of the user. We strongly recommend 
-   to read the applicable license before usage.
-   A. BSD 3-Clause License, as is defined at
+
+# Nederlandse licentiebepalingen
+
+U wordt vriendelijk verzocht om dit bestand genaamd `LICENSE` door te lezen en
+een kopie te behouden bij elke kopie van u van dit project of bestanden van dit
+project maakt.
+
+1. Naam: Nederlandse woordenlijst
+2. Auteur: Stichting OpenTaal
+3. Website: https://opentaal.org
+4. Licentie: BSD 3-Clause en/of CC BY 4.0
+
+Als u deze woordenlijst gebruikt bent u juridisch verplicht om de gegevens
+hierboven te tonen in het colofon van u drukwerk of digitale product of dienst.
+
+5. Licentiekeuze: Om zo groot mogelijk (her)gebruik mogelijk te maken, zijn deze
+   taalbestanden vrij beschikbaar onder liberale licenties naar descretie van de
+   gebruiker. We raden aan de relevante licenties door te lezen voor gebruik te
+   starten. Kies een of beide licenties die voor u het meest van toepassing is.
+   A) BSD 3-Clause License, as is defined at
    https://opensource.org/licenses/BSD-3-Clause (see also below)
-   B. Creative Commons, Attribution 4.0 (unported), as is defined at
-   https://creativecommons.org/licenses/by/4.0/deed.en (see also below)
-   Any code part of Hunspell is covered by their license.
-7. Support OpenTaal: OpenTaal is a non-profit volunteer project. With your 
-   (small) financial support OpenTaal will further expand its activities and 
-   enhance its professionalism. Your donation is welcome at
-   account number: 15.62.32.782, BIC: RABONL2U, IBAN: NL88RABO0156232782 of 
-   Stichting OpenTaal / OpenTaal Foundation. In the Netherlands your donations 
-   are tax deductible. OpenTaal Foundation has been designated by the Dutch Tax 
-   Administration as an Institution for General Benefit (algemeen nut beogende 
-   instelling or ANBI). Please see: http://belastingdienst.nl/anbi
-   Donations are also possible in Bitcoin at 1FSVU49SXdkkgdueHrix2raQYV148GRCVq
-8. Participate: Everyone is welcome to participate. Please give feedback, 
-   discuss on the mailing list or help out. By contributing to the project 
-   you agree that your contribution is available under free or/open source 
-   licenses. In case you wish, your name will be mentioned on the website. Your 
-   are invited to send us your written request.
-9. Rights of third parties: OpenTaal respects the rights of third parties and 
-   aims to keep its data freely available. Therefore you may not use protected 
-   sources of third parties, i.e. dictionaries, without their permission when 
-   you contribute to the project. It is permitted to use the materials of the 
-   Dutch Language Union, i.e. their spelling instruction and word list. In case 
-   you believe OpenTaal is violating your rights, we ask you to send us a 
+   B) Creative Commons, Attribution 4.0 (unported), as is defined at
+   https://creativecommons.org/licenses/by/4.0/legalcode.txt (see also below)
+6. Versie en datum: zie de bestanden version.txt en datetime.txt
+7. Geschiedenis auteursrecht: © 2006 - 2020 OpenTaal, © 2001 - 2005 Simon
+   Brouwer e.a., © 1996 Nederlandstalige Tex Gebruikersgroep
+8. Ondersteuning: Stichting OpenTaal is een vrijwilligersorganisatie die door de
+   Nederlandse Belastingdienst is aangemerkt als een algemeen nut beogende
+   instelling of ANBI, http://belastingdienst.nl/anbi . Hierdoor is kunnen uw
+   donaties via https://opentaal.org/vrienden-van-opentaal aftrekbaar zijn.
+9. Deelname: Iedereen is welkom bijdrages te leven. Door bij te dragen stemt u
+   in dat uw bijdragen onder vrije en/of opensource licenties beschikbaar komen.
+   Als ju wilt kan u naam vermeld worden op onze website.
+10.Rechten van derden: OpenTaal respecteert de rechten van derden en probeert
+   haar data vrij beschikbaar te houden. Daarom mag u geen beschermde bronnen
+   gebruiken om bij te dragen aan dit project. Het is toegestaan om spellings-
+   instructies en woordenlijst van de Nederlandse Taalunie te raadplegen. In het
+   geval dat u denkt dat OpenTaal rechten schent, vragen wij u om zo spoedig
+   mogelijk een gescheven kennisgeving toe te sturen.
+
+
+# English license stipulations
+
+You are kindly requested to read this file called `LICENSE` and to keep a copy
+of it with every copy you make of this project or files of this project.
+
+1. Name: Dutch word list
+2. Author: Stichting OpenTaal
+3. Website: https://opentaal.org
+4. License: BSD 3-Clause and/or CC BY 4.0
+
+When using this word list, you are legally obliged to display the data above in
+the colophon of your folio or your digital product or service.
+
+5. License choice: To enable the broadest (re)use, these language files are
+   freely available under the liberal licenses at the discretion of the user. We
+   strongly recommend to read the applicable license before usage. Choose one or
+   both licenses which apply best for you.
+   A) BSD 3-Clause License, as is defined at
+   https://opensource.org/licenses/BSD-3-Clause (see also below)
+   B) Creative Commons, Attribution 4.0 (unported), as is defined at
+   https://creativecommons.org/licenses/by/4.0/legalcode.txt (see also below)
+6. Version and date: see the files version.txt en datetime.txt
+7. Copyright history: © 2006 - 2020 OpenTaal, © 2001 - 2005 Simon Brouwer e.a.,
+   © 1996 Nederlandstalige Tex Gebruikersgroep
+8. Support: Stichting OpenTaal is a volunteer organisation which is designated
+   by the Dutch Tax Administration as an Institution for General Benefit
+   (algemeen nut beogende instelling or ANBI), http://belastingdienst.nl/anbi .
+   Hence, your donations via https://opentaal.org/vrienden-van-opentaal can be
+   tax deductible.
+9. Participate: Everyone is welcome to participate. By contributing to the
+   project you agree that your contribution is available under free or/open
+   source licenses. If you wish, your name will be mentioned on the website.
+10.Rights of third parties: OpenTaal respects the rights of third parties and
+   aims to keep its data freely available. Therefore you may not use protected
+   sources of third parties, i.e. dictionaries, without their permission when
+   you contribute to the project. It is permitted to consult the materials of
+   the Dutch Language Union, i.e. their spelling instruction and word list. In
+   case you believe OpenTaal is violating your rights, we ask you to send us a
    written notice as soon as possible.
-10.Contact: OpenTaal Foundation, http://opentaal.org, bestuur@opentaal.org
 
 
+# BSD 3-Clause License
 
-BSD 3-Clause License
-
-Copyright (c) 2017, OpenTaal
+Copyright (c) 2020, OpenTaal
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -75,6 +113,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+# Creative Commons CC-BY License
 
 Attribution 4.0 International
 
@@ -111,7 +150,7 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-	wiki.creativecommons.org/Considerations_for_licensors
+    wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
@@ -126,9 +165,9 @@ exhaustive, and do not form part of our licenses.
      rights in the material. A licensor may make special requests,
      such as asking that all changes be marked or described.
      Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More_considerations
-     for the public: 
-	wiki.creativecommons.org/Considerations_for_licensees
+     respect those requests where reasonable. More considerations
+     for the public:
+    wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
