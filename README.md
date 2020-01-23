@@ -30,22 +30,25 @@ De woordenlijst bestaat de volgende type woorden:
 zoals `tafel`
 - ongekeurde basiswoorden bestaande uit eigennamen zoals `Jansen`, toponiemen
 zoals `Schin op Geul` en samenstellingen met een eigennaam zoals `Facebookgroep`
-- ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals `stoeltjes`
+- ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals
+`stoeltjes`
 
 Deze woorden zijn te vinden in een
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
 **[wordlist.txt](wordlist.txt)**. Elke regel bevat een apart woord en dat zijn
-er in totaal 406.837 woorden. Let op, een woord kan een spatie bevatten, dat
+er in totaal 406.832 woorden. Let op, een woord kan een spatie bevatten, dat
 komt 4319 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort).
 
-De gekeurde en ongekeurde basiswoorden en de ongekeerde flexies zijn te vinden
-in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**,
-**[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** en
-**[flexies-ongekeurd.txt](flexies-ongekeurd.txt)**. Let op date deze verdeling
-in vorige versies en in deze versie niet heel strikt is! Dit gaat in een
-volgende _major release_ worden opgelost omdat er dan vanaf een nieuw database-
-systeem wordt gewerkt. Tot die tijd is het even behelpen met deze opdeling.
+De gekeurde en ongekeurde basiswoorden en de ongekeurde flexies zijn te vinden
+in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**
+(199.495), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (40.722)
+en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.682). Let op dat deze
+verdeling in vorige versies en in deze versie niet heel strikt is! In de
+gekeurde basiswoorden kunnen ook eigennamen en flexies zitten. Dit gaat in een
+volgende _major release_ worden opgelost omdat er dan vanaf een nieuw
+databasesysteem wordt gewerkt. Tot die tijd is het even behelpen met deze
+verdeling.
 
 Er is een apart bestand met delen van woorden die een spatie bevatten. Dit is
 een [TSV-bestand](https://en.wikipedia.org/wiki/Tab-separated_values) met in de
@@ -57,7 +60,7 @@ bestand staan ook woorden in die niet in de woordenlijst staan maar in verkorte
 vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen` en `-zus`
 in `tweelingbroer of -zus`.
 
-Ook is er een bestand met fout gespelde woorden. Dit is
+Ook is er een bestand met 16.164 fout gespelde woorden. Dit is
 **[errors.tsv](errors.tsv)** en is ook in TSV-formaat. In de tweede kolom staan
 nul of meerdere correcties, gescheiden met een puntkomma. De meest relevante
 correctie staat dan vooraan.
@@ -141,6 +144,12 @@ Of een woord wel of niet wordt geaccepteerd in Wordfeud of bepaalde andere
 woordspellen is niet de verantwoordelijkheid van Stichting OpenTaal. Hiervoor
 kan het beste contact opgenomen worden met [TaalTik](https://taaltik.nl).
 
+## Draag bij
+
+Help ons vrije en open Nederlandse schrijftools te ontwikkelen. Doneer
+belastingvrij aan onze ANBI via https://www.opentaal.org/vrienden-van-opentaal
+of contacteer ons als je woordenlijsten of databasevaardigheden te bieden hebt.
+
 
 # Dutch word list
 
@@ -163,7 +172,17 @@ This means that the words in this list are according to the official spelling.
 
 ## Contents
 
-TODO translate
+_Please, see the relevant section in Dutch_
+
+
+## Optional
+
+_Please, see the relevant section in Dutch_
+
+
+## Characters
+
+_Please, see the relevant section in Dutch_
 
 
 ## Installation
@@ -193,14 +212,22 @@ these spell checkers will be published.
 
 ## Keyboard
 
-TODO translate
+A keyboard for Android which uses this word list has been developed. Please, see
+this
+[article](https://www.opentaal.org/het-laatste-nieuws/projectnieuws/51-publicaties/221-anysoftkeyboard)
+on our website for more information. In the first quarter of 2020, this app will
+get an update and use the latest version of this word list.
 
 
 ## Wordfeud
 
-TODO translate
+Whether or not a word is accepted in the Dutch version of Wordfeud or certain
+other Dutch word games is not the responsibility of Stichting OpenTaal. For
+this, please contact [TaalTik](https://taaltik.nl).
 
 
-Please, help us create free and open Dutch writing tools. Donate tax free to our foundation at https://www.opentaal.org/vrienden-van-opentaal
+## Contribute
 
-
+Please, help us create free and open Dutch writing tools. Donate tax free to our
+foundation at https://www.opentaal.org/vrienden-van-opentaal or contact us is
+you have word lists to database skills to offer.
