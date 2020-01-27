@@ -1,4 +1,4 @@
-ALPHA RELEASE!
+BETA RELEASE!
 
 _for English, please see below_
 
@@ -60,7 +60,7 @@ bestand staan ook woorden in die niet in de woordenlijst staan maar in verkorte
 vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen` en `-zus`
 in `tweelingbroer of -zus`.
 
-Ook is er een bestand met 16.164 fout gespelde woorden. Dit is
+Ook is er een bestand met 16.173 fout gespelde woorden. Dit is
 **[errors.tsv](errors.tsv)** en is ook in TSV-formaat. In de tweede kolom staan
 nul of meerdere correcties, gescheiden met een puntkomma. De meest relevante
 correctie staat dan vooraan.
