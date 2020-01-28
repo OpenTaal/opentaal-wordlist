@@ -22,6 +22,9 @@ spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
+Het Keurmerk Spelling voor deze woordenlijst is van medio 2017, 2018. Volgende
+keuringen zullen met een specifieke datum worden vermeld.
+
 
 ## Inhoud
 
@@ -168,6 +171,9 @@ list has received from the Dutch Language Union
 This means that the words in this list are according to the official spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
+
+The Quality Mark Spelling for this word list has been given in 2017/2018.
+The next quality mark will be indicated with a more precise date.
 
 
 ## Contents
