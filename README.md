@@ -22,8 +22,9 @@ spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
-Het Keurmerk Spelling voor deze woordenlijst is van medio 2017, 2018. Volgende
-keuringen zullen met een specifieke datum worden vermeld.
+Het Keurmerk Spelling voor deze woordenlijst is van medio 2017, 2018. Sinds
+eind 2018 wordt dit keurmerk niet meer uitgegeven en zal bij volgende versies
+van deze woordenlijst niet meer van toepassing zijn.
 
 
 ## Inhoud
@@ -39,14 +40,14 @@ zoals `Schin op Geul` en samenstellingen met een eigennaam zoals `Facebookgroep`
 Deze woorden zijn te vinden in een
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
 **[wordlist.txt](wordlist.txt)**. Elke regel bevat een apart woord en dat zijn
-er in totaal 406.832 woorden. Let op, een woord kan een spatie bevatten, dat
+er in totaal 406.833 woorden. Let op, een woord kan een spatie bevatten, dat
 komt 4319 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort).
 
 De gekeurde en ongekeurde basiswoorden en de ongekeurde flexies zijn te vinden
 in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**
 (199.495), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (40.722)
-en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.682). Let op dat deze
+en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.683). Let op dat deze
 verdeling in vorige versies en in deze versie niet heel strikt is! In de
 gekeurde basiswoorden kunnen ook eigennamen en flexies zitten. Dit gaat in een
 volgende _major release_ worden opgelost omdat er dan vanaf een nieuw
@@ -173,7 +174,8 @@ This means that the words in this list are according to the official spelling.
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
 The Quality Mark Spelling for this word list has been given in 2017/2018.
-The next quality mark will be indicated with a more precise date.
+This quality mark has stopped since the end of 2018 and will not apply to future
+releases of this word list.
 
 
 ## Contents
