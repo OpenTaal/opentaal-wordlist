@@ -1,5 +1,3 @@
-BETA RELEASE!
-
 _for English, please see below_
 
 
