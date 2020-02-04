@@ -44,8 +44,8 @@ komt 4319 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
 
 De gekeurde en ongekeurde basiswoorden en de ongekeurde flexies zijn te vinden
 in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**
-(199.495), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (40.722)
-en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.683). Let op dat deze
+(199.495), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (40.730)
+en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.685). Let op dat deze
 verdeling in vorige versies en in deze versie niet heel strikt is! In de
 gekeurde basiswoorden kunnen ook eigennamen en flexies zitten. Dit gaat in een
 volgende _major release_ worden opgelost omdat er dan vanaf een nieuw

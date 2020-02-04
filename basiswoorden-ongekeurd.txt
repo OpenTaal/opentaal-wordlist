@@ -1,6 +1,7 @@
 11 septemberaanslag
 1e Exloërmond
 1F-status
+2019-nCoV
 27MC
 27MC'er
 27MC-vergunning
@@ -6482,6 +6483,7 @@ Cornips
 Cornjum
 Cornwerd
 Corolla
+coronavirus
 Coronie
 Corporaal
 Correa
@@ -23335,7 +23337,10 @@ Merlot
 Mermans
 Merodestraat
 Merovingenstraat
+MERS
+MERS-CoV
 Merselo
+MERS-virus
 Mert
 Mertens
 Merum
@@ -30753,6 +30758,8 @@ Saris
 Sarkozy
 Sarneel
 Sarpong
+SARS-patiënt
+SARS-virus
 Sarton
 Sartre
 Sarwanweg
@@ -39655,6 +39662,7 @@ Wubbels
 Wubben
 Wubbo
 Wubs
+Wuhan-virus
 Wuijster
 Wuijts
 Wuisman
