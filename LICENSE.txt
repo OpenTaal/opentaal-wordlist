@@ -12,7 +12,7 @@ dit project maakt.
 3. Website: https://opentaal.org
 4. Licentie: Revised BSD License en/of CC BY 3.0
 
-Mocht u vragen hebben over bronvermelding, neem a.u.b contact op met OpenTaal.
+Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
 
 5. Licentiekeuze: Om zo groot mogelijk (her)gebruik mogelijk te maken, zijn deze
    taalbestanden vrij beschikbaar onder liberale licenties naar descretie van de
@@ -50,7 +50,7 @@ copy of it with every copy you make of this project or files of this project.
 3. Website: https://opentaal.org
 4. License: Revised BSD License and/or CC BY 3.0
 
-In case you have any questions on source attribution, please contact OpenTaal.
+For questions regarding licenses or source attribution, please contact OpenTaal.
 
 5. License choice: To enable the broadest (re)use, these language files are
    freely available under the liberal licenses at the discretion of the user. We
