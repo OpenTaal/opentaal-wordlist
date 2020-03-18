@@ -36945,9 +36945,12 @@ EG-Verdragen
 Egyptenaars
 Egyptenaren
 egyptologen
+EHBO-cursussen
 EHBO-diploma's
 EHBO'ers
 EHBO-posten
+EHBO-teams
+EHBO-verenigingen
 Ehsans
 eibers
 eibertje
@@ -73572,6 +73575,7 @@ koeienstallen
 koeientongen
 koeienuiers
 koeienvlaaien
+koeieuiers
 koeioneer
 koeioneerde
 koeioneerden
@@ -97056,6 +97060,8 @@ ontbijtgranen
 ontbijtje
 ontbijtjes
 ontbijtkoeken
+ontbijtkoekje
+ontbijtkoekjes
 ontbijtlakens
 ontbijtpakketje
 ontbijtpakketten
@@ -104612,6 +104618,7 @@ papavervelden
 papbuiken
 papegaaiduikers
 papegaaienbekken
+papegaaieneieren
 papegaaitje
 papegaaitjes
 papen
@@ -106067,6 +106074,8 @@ peper-en-zoutstelletje
 peperhuisjes
 peperige
 peperiger
+peperkoeken
+peperkoekje
 peperkoekjes
 peperkorrels
 peperkorreltjes
@@ -140906,6 +140915,8 @@ uiensauzen
 uienschillen
 uiensnijders
 uiensoepen
+uiensoepje
+uiensoorten
 uierkwartieren
 uierontstekingen
 uiers
@@ -154437,6 +154448,7 @@ voormenselijke
 voormetingen
 voormiddagen
 voormuren
+voornaamheden
 voornaamst
 voornaamste
 voornaamsten
