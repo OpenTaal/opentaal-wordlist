@@ -8647,6 +8647,8 @@ AOW-premies
 AOW-uitgaven
 AOW-uitkeringen
 apachedansen
+Apache-gevechtshelikopters
+Apache-helikopters
 apachen
 Apachen
 apaches
@@ -25170,6 +25172,7 @@ chiefs
 Chiels
 chiffonnières
 chignons
+chihuahuafokkers
 chihuahua's
 chikwadraattoetsen
 Chileense
@@ -25190,6 +25193,7 @@ chineest
 Chings
 chinoiserieën
 chinoiseries
+Chinook-helikopters
 chinooks
 Chinooks
 chipcards
@@ -31809,10 +31813,12 @@ directer
 directere
 directeuren
 directeuren-grootaandeelhouders
+directeur-grootaandeelhouders
 directeurs
 directeurschappen
 directeursfuncties
 directeurs-generaal
+directeurs-grootaandeelhouders
 directeurskamers
 directeursposten
 directeurswoningen
@@ -40411,6 +40417,7 @@ fêteer
 fêteerde
 fêteerden
 fêteert
+fetisjclubs
 fetisje
 fetisjen
 fetisjisten
@@ -83208,6 +83215,7 @@ magazijnruimtes
 magazijnstellingen
 magazijntje
 magazijntjes
+magazijntrucks
 magazineachtige
 magazines
 Magdalena's
@@ -83269,9 +83277,11 @@ magnetometers
 magneto-optische
 magnetronmaaltijden
 magnetronnetje
+magnetronnetjes
 magnetronovens
 magnetrons
 magnetronschaaltje
+magnetronschaaltjes
 magnetronschalen
 magnifieke
 magnifieker
@@ -84200,7 +84210,9 @@ marktprocessen
 marktproducten
 marktprognoses
 marktrechten
+marktregels
 marktrentes
+marktresultaten
 marktrijpe
 marktrisico's
 marktschetsen
@@ -84221,6 +84233,7 @@ marktte
 markttechnische
 marktten
 markttendensen
+markttransacties
 markttrends
 marktverdelingsafspraken
 marktvergunningen
@@ -86034,6 +86047,7 @@ meluwe
 meluwen
 Melvins
 membraanfilters
+membraantechnieken
 membranen
 memels
 memento's
@@ -140428,6 +140442,7 @@ turnt
 turnverenigingen
 turnwedstrijden
 turnzalen
+turnzussen
 turtlenecks
 tussenbedrijven
 tussenbermen
@@ -157861,6 +157876,7 @@ webbetje
 webbetjes
 webbrowsers
 webcams
+webcamschuifjes
 webdesigners
 webdiensten
 webers

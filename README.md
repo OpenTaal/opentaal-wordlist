@@ -38,14 +38,14 @@ zoals `Schin op Geul` en samenstellingen met een eigennaam zoals `Facebookgroep`
 Deze woorden zijn te vinden in een
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
 **[wordlist.txt](wordlist.txt)**. Elke regel bevat een apart woord en dat zijn
-er in totaal 406.833 woorden. Let op, een woord kan een spatie bevatten, dat
-komt 4319 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
+er in totaal bijna 407.000 woorden. Let op, een woord kan een spatie bevatten,
+dat komt 4.300 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort).
 
 De gekeurde en ongekeurde basiswoorden en de ongekeurde flexies zijn te vinden
 in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**
-(199.495), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (40.730)
-en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (165.685). Let op dat deze
+(200.000), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (41.000)
+en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (170.000). Let op dat deze
 verdeling in vorige versies en in deze versie niet heel strikt is! In de
 gekeurde basiswoorden kunnen ook eigennamen en flexies zitten. Dit gaat in een
 volgende _major release_ worden opgelost omdat er dan vanaf een nieuw
@@ -56,20 +56,19 @@ Er is een apart bestand met delen van woorden die een spatie bevatten. Dit is
 een [TSV-bestand](https://en.wikipedia.org/wiki/Tab-separated_values) met in de
 tweede kolom een or meer woorden waar dit deel vandaag komt. Indien dat meerdere
 woorden zijn, zijn die gescheiden door een puntkomma. Dit bestand heet
-**[wordparts.tsv](parts-of-words.tsv)** en bevat 933 delen van woorden die vaak
-gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`. Let op, in dit
-bestand staan ook woorden in die niet in de woordenlijst staan maar in verkorte
-vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen` en `-zus`
-in `tweelingbroer of -zus`.
+**[wordparts.tsv](parts-of-words.tsv)** en bevat 1.000 delen van woorden die
+vaak gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`. Let op, in
+dit bestand staan ook woorden in die niet in de woordenlijst staan maar in
+verkorte vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen`
+en `-zus` in `tweelingbroer of -zus`.
 
-Ook is er een bestand met 16.173 fout gespelde woorden. Dit is
+Ook is er een bestand met 16.000 fout gespelde woorden. Dit is
 **[errors.tsv](errors.tsv)** en is ook in TSV-formaat. In de tweede kolom staan
 nul of meerdere correcties, gescheiden met een puntkomma. De meest relevante
 correctie staat dan vooraan.
 
-Het versienummer en de datum en tijd van bovenstaande bestanden is te vinden in
-respectievelijk de bestanden **[version.txt](version.txt)** en
-**[datetime.txt](datetime.txt)**.
+De datum, de tijd en het versienummer van bovenstaande bestanden is te vinden in
+**[datetimeversion.txt](datetimeversion.txt)**.
 
 
 ## Optioneel

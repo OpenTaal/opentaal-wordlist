@@ -1,7 +1,6 @@
 11 septemberaanslag
 1e Exloërmond
 1F-status
-2019-nCoV
 27MC
 27MC'er
 27MC-vergunning
@@ -1443,7 +1442,8 @@ Aoife
 Aouragh
 AOW-uitgave
 AP
-Apache-gevechtshelikopters
+Apache-gevechtshelikopter
+Apache-helikopter
 Apatou
 Apeldoorn
 Apeldoornaar
@@ -4017,6 +4017,7 @@ Bokito
 Bokkers
 Bokkum
 Bokma
+Bokmål
 Boksdoorn
 Boksdoornstraat
 Boksebeld
@@ -5955,6 +5956,7 @@ Chicago
 Chico
 Chico Mendesstraat
 Chiel
+chihuahuafokker
 Chiinau
 Chileens Lengtedal
 Chili
@@ -5964,6 +5966,7 @@ Chinees Laagland
 Chinezenbuurt
 Ching
 Chinook
+Chinook-helikopter
 Chiquita
 Chirac
 Chirino
@@ -6485,6 +6488,8 @@ Cornips
 Cornjum
 Cornwerd
 Corolla
+Coronacrisis
+coronatest
 coronavirus
 Coronie
 Corporaal
@@ -10481,6 +10486,7 @@ FBI
 F. Bordewijkstraat
 FCC
 F.C. Dondersstraat
+F-Droid
 Fé
 Feanwâlden
 Feartswâl
@@ -10597,6 +10603,7 @@ Ferwoude
 Feskens
 Festen
 Feteris
+fetisjclub
 Fetter
 Feunekes
 Feyenoord
@@ -12725,6 +12732,7 @@ Groen van Prinstererstraat
 Groen van Prinstererweg
 Groenveld
 Groenwold
+groepsimmuniteit
 Groes
 Groesbeek
 Groesbeeks
@@ -14523,6 +14531,7 @@ Hetebrij
 Het Eiland
 Heteren
 Het Erf
+Het Financieele Dagblad
 Het Fort
 Het Hof
 Het Hout
@@ -16909,6 +16918,8 @@ Jislum
 Jisp
 Jistrum
 Jitse
+Jitsi
+Jitsi Meet
 Jitske
 Jitte
 Jitze
@@ -22551,6 +22562,7 @@ Markstraat
 Markt
 Marktpad
 Marktplein
+marktregel
 Marktrock
 Marktsteeg
 Marktstraat
@@ -23231,6 +23243,8 @@ Melsele
 Melsen
 Melssen
 Melvin
+membraantechniek
+membraanvervuiling
 Membruggen
 Memel
 Memelink
@@ -25125,6 +25139,7 @@ Nieuwmunster
 Nieuw Namen
 Nieuw-Namen
 Nieuw-Nickerie
+Nieuwnoors
 Nieuwold
 Nieuwolda
 Nieuwpoort
@@ -25738,6 +25753,7 @@ NVvW
 N.W.
 NXP
 Nynke
+Nynorsk
 Nys
 Nyssa
 ó
@@ -25765,6 +25781,8 @@ Obispo
 Obrechtlaan
 Obrechtstraat
 obsessief-compulsief
+Occitaans
+Occitanië
 OCE
 Océ
 Ocean
@@ -30781,6 +30799,7 @@ Saris
 Sarkozy
 Sarneel
 Sarpong
+SARS-CoV-2
 SARS-epidemie
 SARS-patiënt
 SARS-virus
@@ -35487,6 +35506,7 @@ Turnhoutenaar
 Turnhouts
 Turnhoutsebaan
 Turnstraat
+turnzus
 Turpijn
 Tusk
 Tussenpad
@@ -38177,6 +38197,7 @@ Webb
 Webbekom
 Webbers
 Webbink
+webcamschuifje
 Weber
 Webers
 Weberstraat
@@ -39692,7 +39713,6 @@ Wubben
 Wubbo
 Wubs
 Wuhan
-Wuhan-virus
 Wuijster
 Wuijts
 Wuisman
