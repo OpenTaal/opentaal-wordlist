@@ -52,6 +52,7 @@
 20m3	20 m³;20 m3
 27jarige	27-jarige
 27mc	27 MC
+2-cilinider	2-cilinder
 2cm	2 cm
 2cv	2CV
 2-cylinder	2-cilinder
@@ -88,6 +89,7 @@
 400m2	400 m²;400 m2
 40+ers	40+'ers
 49km	49 km
+4-cilinider	4-cilinder
 4cm	4 cm
 4-cylinder	4-cilinder
 4GB	4 GB
@@ -127,6 +129,7 @@
 65+er	65+'er
 65+-ers	65+'ers
 65+ers	65+'ers
+6-cilinider	6-cilinder
 6cm	6 cm
 6-cylinder	6-cilinder
 6kg	6 kg
@@ -1605,6 +1608,7 @@ badineerdert
 badmintonnert	
 bagatelliseerdert	
 baggeerdert	
+bajessen	bajesen
 bakeerdert	
 bakenert	
 bakkeleiert	
@@ -11828,6 +11832,7 @@ schoolhoudert
 schoollokaties	schoollocaties
 schoolmeesteerdert	
 schoolzwemmert	
+schoonheidspecialiste	schoonheidsspecialiste
 schoonhoudert	
 schoonlikkert	
 schoonmakert	
@@ -13039,10 +13044,21 @@ tjingelert
 tjirpert	
 tjoepert	
 tjokkert	
+TL-armaturen	tl-armaturen
+TL-armatuur	tl-armatuur
+TL-balk	tl-balk
+TL-buis	tl-buis
+TL-buizen	tl-buizen
+TL-lampen	tl-lampen
+TL-lamp	tl-lamp
+TL-licht	tl-licht
+TL-verlichting	tl-verlichting
 toastert	
 tobbedansert	
 tochtert	
 tòch	tóch
+tocques	toques
+tocque	toque
 toebedelert	
 toebedenkert	
 toebehoordert	

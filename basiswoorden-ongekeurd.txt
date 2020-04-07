@@ -10,6 +10,7 @@
 3VO
 50PLUS-stemmer
 50Plus-voorman
+8-cilinder
 Aa
 AA
 Aad
@@ -1860,6 +1861,7 @@ Atlasstraat
 Atlasvlinder
 Atoomweg
 Atopia
+atovaquone
 Atringistraat
 Atsma
 Attema
@@ -2152,6 +2154,9 @@ Bairdstraat
 Bairiki
 Bais
 Bajema
+bajesbezoek
+bajesdirecteur
+bajesleven
 Bajkonoer
 Bakasroisiweg
 Bakboord
@@ -6687,6 +6692,7 @@ Custers
 Cuvelier
 Cuxhaven
 Cuyper
+cv-ruimte
 CWI
 CyanogenMod
 Cyclaamstraat
@@ -14811,6 +14817,7 @@ Hitzert
 Hitzum
 Hiwat
 Hjalmar
+HKU
 hl
 H.M.
 Ho
@@ -34981,6 +34988,7 @@ Tjuchem
 't Kempke
 't Laantje
 't Laar
+tl-lamp
 't Loo
 TMC
 TMF
@@ -40305,6 +40313,7 @@ Zirkoon
 Zirkoonstraat
 Zirkzee
 Zita
+zithaas
 Zitman
 Zittert-Lummen
 Ziva

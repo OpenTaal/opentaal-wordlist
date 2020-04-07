@@ -10904,6 +10904,7 @@ bajadères
 bajesboten
 bajesen
 bajesklanten
+bajesmuren
 bajonetaanvallen
 bajonetfittingen
 bajonetsluitingen
@@ -28455,6 +28456,7 @@ custoden
 custodes
 cutters
 cutterzuigers
+cv-installaties
 cv-ketels
 cv's
 cyberaanvallen
@@ -118153,6 +118155,8 @@ rotmoffen
 rotogravures
 rotonden
 rotondes
+rotondetje
+rotondetjes
 rotopmerkingen
 rotorbladen
 rotoren
@@ -160067,6 +160071,8 @@ wespendieven
 wespennesten
 wespensteken
 wespentailles
+wespje
+wespjes
 Wessemse
 wessi's
 West-Afrikaanse
@@ -164173,6 +164179,9 @@ zitbankje
 zitbankjes
 zitdagen
 zitelementen
+zithaasje
+zithaasjes
+zithazen
 zithoeken
 zithoekjes
 zitjes
@@ -164838,6 +164847,7 @@ zotternijtje
 zottigheden
 zottinnen
 zottinnetje
+zoude
 zoudt
 Zouhairs
 zoutachtige

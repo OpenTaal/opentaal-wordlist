@@ -120,7 +120,6 @@
 29-jarig
 29-jarige
 2-cilinder
-2-cilinider
 2de
 2e
 2G
@@ -182,7 +181,6 @@
 49-jarig
 49-jarige
 4-cilinder
-4-cilinider
 4e
 4G
 4GL
@@ -246,7 +244,6 @@
 69-jarig
 69-jarige
 6-cilinder
-6-cilinider
 6de-eeuws
 6e
 6e-eeuws
