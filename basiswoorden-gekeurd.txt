@@ -34093,9 +34093,7 @@ clustertarief
 clusterverband
 clustervorming
 clusterwapen
-cm2
 cm²
-cm3
 cm³
 cms
 CMYK
@@ -43428,9 +43426,7 @@ djilbab
 djinn
 djorken
 dj-sets
-dm2
 dm²
-dm3
 dm³
 d.m.v.
 DNA
@@ -104969,9 +104965,7 @@ lysol
 m
 m.
 M
-m2
 m²
-m3
 m³
 ma
 MA

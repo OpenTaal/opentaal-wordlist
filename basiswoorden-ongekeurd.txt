@@ -1859,11 +1859,14 @@ Atlas
 Atlasgebergte
 Atlasstraat
 Atlasvlinder
+at-notatie
+at-notitie
 Atoomweg
 Atopia
 atovaquone
 Atringistraat
 Atsma
+at-symbool
 Attema
 Attenhoven
 Attenrode
@@ -2157,6 +2160,7 @@ Bajema
 bajesbezoek
 bajesdirecteur
 bajesleven
+bajesmuur
 Bajkonoer
 Bakasroisiweg
 Bakboord
@@ -6358,6 +6362,7 @@ Concordiastraat
 Concourslaan
 Condorstraat
 Conen
+CO₂-neutraal
 Conference
 Confucius
 Confurius
@@ -6494,6 +6499,7 @@ Cornjum
 Cornwerd
 Corolla
 Coronacrisis
+coronadiploma
 coronatest
 coronavirus
 Coronie
@@ -6695,6 +6701,7 @@ Cuyper
 cv-ruimte
 CWI
 CyanogenMod
+cybercriticus
 Cyclaamstraat
 Cycladen
 Cyclamenstraat
@@ -8173,6 +8180,7 @@ Diunt
 Diva
 Divendal
 Divine
+diwaterstof
 Dix
 Djamel
 Djamila
@@ -8793,6 +8801,7 @@ Duc
 Duchateau
 Duckers
 Duco
+ducttape
 Dudink
 Dudok
 Dudoklaan
@@ -11437,6 +11446,7 @@ Gazet van Antwerpen
 GB
 GBA
 Gbit
+g/cm³
 Gdansk
 Gé
 Gea
@@ -12993,6 +13003,7 @@ Gwendolyn
 Gwyneth
 Gyan
 Gytsjerk
+H₂
 H5N8-virus
 Ha
 Haacht
@@ -14820,7 +14831,9 @@ Hjalmar
 HKU
 hl
 H.M.
+hm²
 Ho
+H₂O₂
 Hoang
 Hoangho
 Hoarnestreek
@@ -15953,6 +15966,7 @@ Ignatius
 Igoemenitsa
 Igor
 Iguaçu
+IJ
 Ijaw
 IJbergen
 IJburg
@@ -17947,6 +17961,8 @@ Kazen
 Kazerneplein
 Kazernestraat
 Kazim
+kbit/s
+kb/s
 KDE
 Kea
 Kea Boumanstraat
@@ -18296,6 +18312,7 @@ Keys
 Keyser
 Keyzer
 KGB
+kg/m³
 Khadija
 Khadiweg
 Khadra
@@ -18736,6 +18753,7 @@ Kluut
 Kluutstraat
 Kluvers
 Kluwer
+km²
 KMA
 KMar
 km/h
@@ -23837,6 +23855,8 @@ mkb-vrijstelling
 ml
 Mladic
 mm
+mm²
+mm³
 MMBase
 Mo
 Mobach
@@ -24279,6 +24299,8 @@ Mr.F. Lim A Postraat
 Mr. Thorbeckestraat
 Mr. Troelstrastraat
 Mr. van Coothstraat
+m/s2
+m/s²
 MSc
 MTV
 Muammar
@@ -24564,6 +24586,9 @@ Nanou
 Nanouk
 Nansenstraat
 Nantes
+Na₂O
+Na₂O₂
+NaOH
 Naomi
 Naoual
 Napels
@@ -24860,6 +24885,20 @@ Neuchâtel
 Neude
 Neudeflat
 Neuhaus
+neukbaar
+neukdier
+neukfeest
+neukhoer
+neukmachine
+neukpop
+neukritme
+neuksessie
+neukslaaf
+neukslet
+neuktempo
+neukvriend
+neukvriendin
+neukwerk
 Neuman
 Neumann
 Neu-Moresnet
@@ -25357,7 +25396,9 @@ Njoenkondrestraat
 NLNet
 nm
 NMa
+NO
 N.O.
+NO₂
 Noa
 Noach
 Noah
@@ -25647,6 +25688,7 @@ nostalgicus
 Nostradamus
 NOS-verslaggever
 Notarisappel
+@-notatie
 Noteboomstraat
 Noteborn
 Noten
@@ -25710,7 +25752,6 @@ Nubische Woestijn
 Nuchelmans
 Nudorp
 Nuenen
-Nuenen, Gerwen en Nederwetten
 Nuesink
 Nugter
 Nugteren
@@ -25763,6 +25804,7 @@ Nynke
 Nynorsk
 Nys
 Nyssa
+O₂
 ó
 Oane
 Obama
@@ -34073,6 +34115,7 @@ Sylvia
 Sylvian
 Sylvie
 Symantec
+@-symbool
 Symfonie
 Symfonielaan
 Symfoniestraat
@@ -40417,6 +40460,9 @@ Zorge
 Zorgnota
 Zorgvlied
 Zorgvlietstraat
+zorgwerker
+zorgwerkgever
+zorgwerknemer
 Zorn
 Zorreguieta
 Zottegem
@@ -40638,6 +40684,7 @@ Zuuk
 Zuurbier
 Zuurdijk
 Zuurstofstraat
+zuurwaterstof
 Zwaag
 Zwaagdijk
 Zwaagdijk-Oost

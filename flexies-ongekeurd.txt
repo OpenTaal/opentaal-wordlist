@@ -9855,6 +9855,8 @@ atletischer
 ATM-kaarten
 atmosferen
 atmosferische
+at-notaties
+at-notities
 atollen
 atolletje
 atomaire
@@ -9905,6 +9907,9 @@ atopische
 atria
 atriums
 atrofieerde
+at-symbolen
+at-symbooltje
+at-symbooltjes
 attaca's
 attacheerde
 attachees
@@ -9915,6 +9920,8 @@ attachékoffertjes
 attaqueerde
 attaques
 at-tekens
+at-tekentje
+at-tekentjes
 attendeer
 attendeerde
 attendeerden
@@ -26891,6 +26898,7 @@ conductoren
 conductors
 conductrices
 conduitestaten
+CO₂-neutrale
 confectieateliers
 confectiebedrijven
 confectiematen
@@ -27741,6 +27749,8 @@ cornervlaggen
 Cornés
 cornets
 corniches
+coronacijfers
+coronadiploma's
 coronaire
 coronale
 corona's
@@ -28462,6 +28472,7 @@ cv's
 cyberaanvallen
 cybercafés
 cybercriminelen
+cybercritica
 cyberdaders
 cybernetische
 cyberpunks
@@ -35704,6 +35715,7 @@ duchtte
 duchtten
 Duco's
 Ducs
+ducttapes
 duediligenceonderzoeken
 duelleer
 duelleerde
@@ -90831,6 +90843,8 @@ natrillende
 natriumarme
 natriumconcentraties
 natriumlampen
+natriumoxide
+natriumperoxide
 natrok
 natrokken
 natronzouten
@@ -91801,13 +91815,18 @@ neukende
 neukgaatje
 neukgaatjes
 neukgaten
+neukhoertje
 neuknissen
 neukpartijen
 neukpartijtje
+neukpartijtjes
+neukpopje
 neukstaven
 neukt
 neukte
 neukten
+neukvriendinnetje
+neukvriendje
 neumen
 neurale
 neuralgieën
@@ -92976,6 +92995,7 @@ nota's
 notatiebiljetten
 notatieformulieren
 notaties
+@-notaties
 notawisselingen
 notchbacks
 notebooks
@@ -133079,6 +133099,7 @@ Sylvia's
 Sylvies
 symbiotische
 symbolen
+@-symbolen
 symbolieken
 symbolisaties
 symbolische
@@ -133093,7 +133114,9 @@ symbolistische
 symbooldossiers
 symbooltekens
 symbooltje
+@-symbooltje
 symbooltjes
+@-symbooltjes
 symboolwaarden
 symfonieconcerten
 symfonieën
@@ -133349,6 +133372,7 @@ taalgerichte
 taalgevoelige
 taalgidsen
 taalgrapjes
+taalgrappen
 taalgrenzen
 taalgroepen
 taalhandelingen
@@ -134649,7 +134673,9 @@ tekent
 tekentafels
 tekentalenten
 tekentje
+@-tekentje
 tekentjes
+@-tekentjes
 tekenverzamelingen
 tekenvoorbeelden
 tekenzalen
@@ -145173,6 +145199,7 @@ veiligheidsrapporten
 veiligheidsredenen
 veiligheidsregelingen
 veiligheidsregels
+veiligheidsregio's
 veiligheidsrelevante
 veiligheidsriemen
 veiligheidsrisicogebieden
@@ -161698,6 +161725,7 @@ woonboerderijtje
 woonbootbewoners
 woonbootje
 woonboten
+woonboulevards
 woonbuurten
 wooncarrières
 wooncentra
@@ -164824,6 +164852,9 @@ zorgwekkender
 zorgwekkendere
 zorgwekkendst
 zorgwekkendste
+zorgwerkers
+zorgwerkgevers
+zorgwerknemers
 zorgwoningen
 zorgzaamst
 zorgzame

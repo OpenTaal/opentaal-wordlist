@@ -3,25 +3,25 @@
 0m	0 m
 0mdat	omdat
 0mm	0 mm
-1.000m2	1.000 m²;1.000 m2
-1000m2	1000 m²;1000 m2
-1000m3	1000 m³;1000 m3
-100m2	100 m²;100 m2
+1.000m2	1.000 m²
+1000m2	1000 m²
+1000m3	1000 m³
+100m2	100 m²
 10jarige	10-jarige
-10m2	10 m²;10 m2
-10m3	10 m³;10 m3
+10m2	10 m²
+10m3	10 m³
 12jarige	12-jarige
-12m2	12 m²;12 m2
+12m2	12 m²
 13jarige	13-jarige
 14jarige	14-jarige
-14m2	14 m²;14 m2
-150m2	150 m²;150 m2
+14m2	14 m²
+150m2	150 m²
 15jarige	15-jarige
-15m2	15 m²;15 m2
+15m2	15 m²
 16jarige	16-jarige
-16m2	16 m²;16 m2
+16m2	16 m²
 17jarige	17-jarige
-17m2	17 m²;17 m2
+17m2	17 m²
 18jarige	18-jarige
 19eeeuw	19e eeuw
 1cm	1 cm
@@ -29,11 +29,11 @@
 1km	1 km
 1kW	1 kW
 1m	1 m
-1m2	1 m²;1 m2
-1m²	1 m²;1 m2
+1m2	1 m²
+1m²	1 m²
 1m30	1,30 m
-1m3	1 m³;1 m3
-1m³	1 m³;1 m3
+1m3	1 m³
+1m³	1 m³
 1maal	1 maal
 1maand	1 maand
 1maart	1 maart
@@ -45,11 +45,11 @@
 1minuut	1 minuut
 1ml	1 ml
 1mm	1 mm
-200m2	200 m²;200 m2
+200m2	200 m²
 2019-nCoV	SARS-CoV-2
 20jarige	20-jarige
 20kHz	20 kHz
-20m3	20 m³;20 m3
+20m3	20 m³
 27jarige	27-jarige
 27mc	27 MC
 2-cilinider	2-cilinder
@@ -60,7 +60,7 @@
 2kg	2 kg
 2km	2 km
 2m	2 m
-2m3	2 m³;2 m3
+2m3	2 m³
 2maanden	2 maanden
 2mei	2 mei
 2meter	2 meter
@@ -73,11 +73,13 @@
 2oudswerkzaamheden	
 2-traps	
 2weken	2 weken
-300m2	300 m²;300 m2
+300m2	300 m²
+30m2	30 m²
+35m2	35 m²
 3cm	3 cm
 3kg	3 kg
 3km	3 km
-3m2	3 m²;3 m2
+3m2	3 m²
 3m	3 m
 3maanden	3 maanden
 3miljoen	3 miljoen
@@ -86,8 +88,9 @@
 3-traps	
 3-weekse	drieweekse
 3weken	3 weken
-400m2	400 m²;400 m2
+400m2	400 m²
 40+ers	40+'ers
+40m2	40 m²
 49km	49 km
 4-cilinider	4-cilinder
 4cm	4 cm
@@ -95,26 +98,27 @@
 4GB	4 GB
 4kg	4 kg
 4km	4 km
-4m2	4 m²;4 m2
+4m2	4 m²
 4m	4 m
 4miljard	4 miljard
 4miljoen	4 miljoen
 4mm	4 mm
 4uur	4 uur
-5000m2	5000 m²;5000 m2
-500m2	500 m²;500 m2
-500m3	500 m³;500 m3
+5000m2	5000 m²
+500m2	500 m²
+500m3	500 m³
 50+er	50+'er
 50+-ers	50+'ers
 50+ers	50+'ers
+50m2	50 m²
 55+-ers	55+'ers
 55+ers	55+'ers
 5cm	5 cm
 5jarigen	5-jarigen
 5kg	5 kg
 5km	5 km
-5m2	5 m²;5 m2
-5m3	5 m³;5 m3
+5m2	5 m²
+5m3	5 m³
 5m	5 m
 5meter	5 meter
 5mg	5 mg
@@ -124,26 +128,31 @@
 5ml	5 ml
 5mm	5 mm
 5-traps	
+600m2	600 m²
 60+-ers	60+'ers
 60+ers	60+'ers
+60m2	60 m²
 65+er	65+'er
 65+-ers	65+'ers
 65+ers	65+'ers
+65m2	65 m²
 6-cilinider	6-cilinder
 6cm	6 cm
 6-cylinder	6-cilinder
 6kg	6 kg
 6km	6 km
-6m3	6 m³;6 m3
+6m3	6 m³
 6m	6 m
 6maanden	6 maanden
 6mei	6 mei
 6miljoen	6 miljoen
 6mm	6 mm
 6-traps	
+70m2	70 m²
 75+-ers	75+'ers
 75+ers	75+'ers
 75km	75 km
+75m2	75 m²
 7cm	7 cm
 7kg	7 kg
 7km	7 km
@@ -154,6 +163,7 @@
 7-traps	
 80jarige	80-jarige
 80km	80 km
+80m2	80 m²
 82km	82 km
 85km	85 km
 88km	88 km
@@ -164,7 +174,7 @@
 8miljoen	8 miljoen
 8mm	8 mm
 90km	90 km
-90m2	90 m²;90 m2
+90m2	90 m²
 95km	95 km
 96kHz	96 kHz
 9cm	9 cm
@@ -3014,6 +3024,7 @@ categoriseerdert
 cateringszaak	cateringzaak
 cateringszaken	cateringzaken
 catharijne	Catharijne
+c++	C++
 CDA-er	CDA'er
 CDA-ers	CDA'ers
 cd`s	cd's
@@ -3090,6 +3101,8 @@ clicheerdert
 cliché's	clichés
 cliente`le	clientèle
 clusteerdert	
+cm2	cm²
+cm3	cm³
 CMS-systemen	CMS'en
 CO²	CO₂
 CO²-heffing	CO₂-heffing
@@ -3661,6 +3674,8 @@ djogo's	dyogo's
 dj`s	dj's
 djs	dj's
 DJ`s	dj's
+dm2	dm²
+dm3	dm³
 dna-onderzoek	DNA-onderzoek
 dobbeerdert	
 dobbelert	
@@ -4076,6 +4091,12 @@ dubbelslaart
 dubbelvouwert	
 dubbert	
 duchtert	
+ducktape	ducttape
+ducktapes	ducttapes
+ductape	ducttape
+ductapes	ducttapes
+duct-tape	ducttape
+duct-tapes	ducttapes
 duelleerdert	
 duidert	
 duikelert	
@@ -4636,6 +4657,7 @@ gaufreerdert
 Gaugin	Gauguin
 gaveregeling	
 gaves	
+g/cm3	g/cm³
 GDV-lokatie	GDV-locatie
 geaait	geaaid
 geaardt	geaard
@@ -5707,6 +5729,7 @@ giechelert
 gieerdert	
 giegagert	
 gies	Gies;gids
+Giessendam/Neder-Hardinxveld	Giessendam - Neder-Hardinxveld
 gijpert	
 gijzelert	
 gillert	
@@ -5893,8 +5916,8 @@ gunnert
 gutsert	
 gymmert	
 gymnastiseerdert	
+H2O	H₂O
 H²O	H₂O
-H2O	H₂O;water
 haaiert	
 haardert	
 haarklovert	
@@ -6212,6 +6235,7 @@ historiseerdert
 hitlergroet	Hitlergroet
 Hitler's	Hitlers
 hitsert	
+hm2	hm²
 hobbelert	
 hobbies	hobby's
 hobbyert	
@@ -7314,6 +7338,7 @@ keuurdert
 keuvelert	
 keveerdert	
 kezert	
+kg/m3	kg/m³
 kho	KHO
 kibbelert	
 kickboksert	
@@ -7462,6 +7487,7 @@ kluppelert
 kluppie	clubje
 klussert	
 klutsert	
+km2	km²
 knabbelert	
 knagert	
 knakkert	
@@ -8070,6 +8096,8 @@ lustert
 luwert	
 luxueuse	luxueuze
 lynchert	
+m2	m²
+m3	m³
 maaaaaaar	máár
 maaaaaanden	máánden
 maaaaaar	máár
@@ -8547,7 +8575,9 @@ MKB'ers	mkb'ers;Mkb'ers
 MKB-vrijstellingen	mkb-vrijstellingen;Mkb-vrijstellingen
 MKB-vrijstelling	mkb-vrijstelling;Mkb-vrijstelling
 m₂	m²
+mm2	mm²
 m₃	m³
+mm3	mm³
 m`n	m'n
 M`n	M'n
 mn	m'n;mijn
@@ -11808,6 +11838,7 @@ schilpad	schildpad
 schilp	Schilp
 schimmelert	
 schimpert	
+Schiphol/Rijk	Schiphol-Rijk
 schippeerdert	
 schitteerdert	
 schmieerdert	
@@ -13009,6 +13040,8 @@ Ticketbox	TicketBox
 tieerdert	
 tiërceerdert	
 tierelieerdert	
+tie-wraps	tiewraps
+tie-wrap	tiewrap
 tig-lassen	TIG-lassen
 tiglassen	TIG-lassen
 tijdrekkert	
@@ -14147,6 +14180,7 @@ vegert
 vegeteerdert	
 veilert	
 veiligheidlekken	veiligheidslekken
+veiligheidregio's	veiligheidsregio's
 veiligstellert	
 veinzert	
 veken	velen
