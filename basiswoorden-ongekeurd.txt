@@ -10,6 +10,9 @@
 3VO
 50PLUS-stemmer
 50Plus-voorman
+5G-mast
+5G-netwerk
+5G-terreur
 8-cilinder
 Aa
 AA
@@ -6500,6 +6503,8 @@ Cornwerd
 Corolla
 Coronacrisis
 coronadiploma
+coronalijer
+coronapens
 coronatest
 coronavirus
 Coronie
@@ -15874,6 +15879,7 @@ hybridetechniek
 hybridetechnologie
 hybrideversie
 hybridewagen
+hydroxychloroquine
 Hylke
 Hylkema
 Hymans
@@ -17488,6 +17494,7 @@ Kaj
 Kaja
 Kajuit
 Kakert
+kakhoofd
 Kal
 Kalahari
 Kalanderstraat
@@ -24885,6 +24892,7 @@ Neuchâtel
 Neude
 Neudeflat
 Neuhaus
+neukafspraak
 neukbaar
 neukdier
 neukfeest
@@ -24896,6 +24904,7 @@ neuksessie
 neukslaaf
 neukslet
 neuktempo
+neukteugel
 neukvriend
 neukvriendin
 neukwerk
@@ -27825,6 +27834,7 @@ Piet Mondriaan
 Piet Mondriaanlaan
 Piet Mondriaanstraat
 Pietro
+piëzo-element
 Pigge
 Pigmans
 Pijcke
@@ -28112,6 +28122,7 @@ Poelsstraat
 Poelstra
 Poelstraat
 Poelweg
+poephoofd
 Poepjes
 Poeran
 Poesele
@@ -31776,6 +31787,7 @@ Servet
 Servetstraat
 servicegeoriënteerd
 Servië
+servieswerk
 Servische Republiek
 Sesamstraat
 Sesink
@@ -35786,6 +35798,7 @@ UPC
 Upembapark
 Uphoff
 Uppelschoten
+uppie
 Uppsala
 Uraniumweg
 Uranus
@@ -37356,6 +37369,7 @@ Voesenek
 Voesten
 voetboogschutter
 Voetelink
+voetfetisj
 Voets
 Vogelaar
 Vogelaarwijk
@@ -38835,6 +38849,7 @@ WhatsApp-groep
 White
 Whitley
 Whitney
+WHO
 WI
 Wiarda
 Wiardi Beckmanhof
@@ -39684,6 +39699,7 @@ Woolthuis
 Woonbond
 Woonbonddirecteur
 Wooning
+woordensmederij
 Woort
 Woortman
 Wopereis
@@ -39718,6 +39734,7 @@ Woubrechtegem
 Woubrugge
 Woud
 Wouda
+woudbloem
 Woudbloem
 Woude
 Woudenberg
@@ -39847,6 +39864,7 @@ xtc-onderzoek
 xtc-transport
 Xu
 Xue
+XXVIII
 Yacht
 Yacoub
 Yael

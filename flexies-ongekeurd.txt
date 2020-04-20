@@ -33,6 +33,7 @@
 50-plussers
 50PLUS-stemmers
 55+-woningen
+5G-masten
 5-jarigen
 60+'ers
 60-jarigen
@@ -27753,6 +27754,8 @@ coronacijfers
 coronadiploma's
 coronaire
 coronale
+coronalijers
+coronapensen
 corona's
 coronavirussen
 Coroniaanse
@@ -68550,6 +68553,9 @@ kakers
 kaketoes
 kaketoetje
 kaketoetjes
+kakhoofden
+kakhoofdje
+kakhoofdjes
 kakikleurige
 kaki's
 kakiuniformen
@@ -91809,6 +91815,9 @@ netwerkverbanden
 netwerkverbindingen
 netwerkversies
 neuk
+neukafspraakje
+neukafspraakjes
+neukafspraken
 neukbewegingen
 neukend
 neukende
@@ -91825,6 +91834,7 @@ neukstaven
 neukt
 neukte
 neukten
+neukteugels
 neukvriendinnetje
 neukvriendje
 neumen
@@ -106958,6 +106968,7 @@ piezels
 piezeltje
 piezeltjes
 piëzo-elektrische
+piëzo-elementen
 piëzometers
 pigmenten
 pigmentvlekjes
@@ -108499,6 +108510,7 @@ poepertjes
 poepgaatje
 poepgaatjes
 poepgaten
+poephoofden
 poepje
 poepjes
 poepluiers
@@ -153328,6 +153340,7 @@ voetensteuntjes
 voetenvegers
 voetenzakken
 voeteuvels
+voetfetisjen
 voetfouten
 voetgangers
 voetgangersbruggen
