@@ -50,6 +50,30 @@
 20jarige	20-jarige
 20kHz	20 kHz
 20m3	20 m³
+24-uursbegeleiding	24 uursbegeleiding
+24-uursbereikbaarheid	24 uursbereikbaarheid
+24-uursbeschikbaarheid	24 uursbeschikbaarheid
+24-uursbewaking	24 uursbewaking
+24-uursconsultatie	24 uursconsultatie
+24-uursdienst	24 uursdienst
+24-uursdiensten	24 uursdiensten
+24-uurs-economie	24 uurseconomie
+24-uurseconomie	24 uurseconomie
+24-uursgemiddelde	24 uursgemiddelde
+24-uurshulp	24 uurshulp
+24-uursopvang	24 uursopvang
+24-uursprocedure	24 uursprocedure
+24-uursservice	24 uursservice
+24-uursstaking	24 uursstaking
+24-uursstructuur	24 uursstructuur
+24-uursverplichting	24 uursverplichting
+24-uursvoorziening	24 uursvoorziening
+24-uursvoorzieningen	24 uursvoorzieningen
+24-uurszorg	24 uurszorg
+24uurszorg	24 uurszorg
+25-meter	25 meter
+25meter	25 meter
+25-meterbad	25 meterbad
 27jarige	27-jarige
 27mc	27 MC
 2-cilinider	2-cilinder
@@ -107,10 +131,13 @@
 5000m2	5000 m²
 500m2	500 m²
 500m3	500 m³
+500meter	500 meter
 50+er	50+'er
 50+-ers	50+'ers
 50+ers	50+'ers
 50m2	50 m²
+50-meter	50 meter
+50meter	50 meter
 55+-ers	55+'ers
 55+ers	55+'ers
 5cm	5 cm
@@ -120,6 +147,7 @@
 5m2	5 m²
 5m3	5 m³
 5m	5 m
+5-meter	5 meter
 5meter	5 meter
 5mg	5 mg
 5miljard	5 miljard
@@ -136,6 +164,8 @@
 65+-ers	65+'ers
 65+ers	65+'ers
 65m2	65 m²
+65plusser	65-plusser;65+'er
+65plussers	65-plussers;65+'ers
 6-cilinider	6-cilinder
 6cm	6 cm
 6-cylinder	6-cilinder
@@ -1556,6 +1586,7 @@ ausculteerdert
 au serieux	au sérieux
 au-serieux	au sérieux
 au-sérieux	au sérieux
+aussie-Engels	Aussie-Engels
 autodatert	
 autoinbraken	auto-inbraken
 automatiseerdert	
@@ -2797,6 +2828,7 @@ BTW-	btw-
 BTW-carrousel	btw-carrousel
 BTW-claims	btw-claims
 BTW-code	btw-code
+btw-coden	btw-codes
 BTW-comité	btw-comité
 BTW-Comité	Btw-comité
 BTW-compensatie	btw-compensatie
@@ -2963,8 +2995,12 @@ cadootjes	cadeautjes
 caf	café
 cafe's	cafés
 café's	cafés
-caffeïne-arm	caffeïnearm
-caffeïne-arme	caffeïnearme
+caffeïne-arm	cafeïnearm
+caffeïnearm	cafeïnearm
+caffeïne-arme	cafeïnearme
+caffeïnearme	cafeïnearme
+caffeine	cafeïne
+caffeïne	cafeïne
 caissiere	caissière
 caissie`re	kassière
 caissieres	caissières
@@ -3312,7 +3348,6 @@ cureerdert
 curetteerdert	
 cursiveerdert	
 cutteerdert	
-CV	cv
 cyclosporine	ciclosporine
 Cyclosporine	Ciclosporine
 cylinder	cilinder
@@ -3366,6 +3401,9 @@ dauwert
 dauwtrappert	
 daveerdert	
 dazert	
+DDoS-aanval	ddos-aanval
+dDoS-aanvallen	ddos-aanval
+DDoS-aanvallen	ddos-aanvallen
 deactiveerdert	
 dealert	
 dealing room	dealingroom
@@ -4297,6 +4335,8 @@ etteerdert
 etymologiseerdert	
 euri	euro
 euri's	euro's
+eurocommissaris	Eurocommissaris
+eurocommissarissen	Eurocommissarissen
 europarlementarier	Europarlementariër
 Europarlementarier	Europarlementariër
 europarlementariër	Europarlementariër
@@ -7991,6 +8031,7 @@ loensert
 loerogert	
 logeerdert	logee
 logement-houders	logementhouders
+logementschip	logementsschip
 logenstraffert	
 logert	
 logé's	logés
@@ -10120,6 +10161,7 @@ oscilleerdert
 otteerdert	
 oudeman	oude man;Oudeman
 oudergewoonte	ouder gewoonte
+oud-eurocommissaris	oud-Eurocommissaris
 oud-oom	oudoom
 oud-ooms	oudooms
 oud-testamentische	oudtestamentische
@@ -10315,6 +10357,7 @@ overzittert
 overzwemmert	
 OV-exploitanten	ov-exploitanten
 OV-exploitatie	ov-exploitatie
+OV-Fiets	OV-fiets
 OV-gebruikers	ov-gebruikers
 OV-gebruik	ov-gebruik
 OV-halte	ov-halte
@@ -10873,13 +10916,13 @@ problematiseerdert
 procedeerdert	
 procesverbalen	processen-verbaal
 proclameerdert	
-pro deaan	pro-deaan
-prodeaan	pro-deaan
-pro-Deaan	pro-deaan
-pro deanen	pro-deanen
-prodeanen	pro-deanen
-pro-Deanen	pro-deanen
-pro-Dean	pro-deaan
+pro deaan	pro-Deaan
+pro-deaan	pro-Deaan
+prodeaan	pro-Deaan
+pro deanen	pro-Deanen
+pro-deanen	pro-Deanen
+prodeanen	pro-Deanen
+pro-Dean	pro-Deaan
 produceerdert	
 producert	
 productieuitval	productie-uitval
@@ -12728,6 +12771,7 @@ takkert
 talert	
 taliërt	
 talkies	walkietalkies
+tallegio	taleggio
 talmert	
 talmudisten	Talmoedisten
 talmud	Talmoed
@@ -14038,9 +14082,6 @@ utiliseerdert
 utrecht	Utrecht
 ù	ú
 uurs	
-uursdienst	
-uurseconomie	
-uursservice	
 uuuuuuren	úren
 u-vormig	U-vormig
 Uwes	Uwe
@@ -15189,6 +15230,7 @@ vlooiert
 vlottert	
 vluchtert	
 vluggeerdert	
+vmbo-ers	vmbo'ers
 vocaliseerdert	
 vochtert	
 voedeerdert	
@@ -16051,6 +16093,7 @@ yakboterthee	jakboterthee
 yak	jak
 yakmest	jakmest
 yaks	jaks
+yankee-Engels	Yankee-Engels
 yellert	
 ye	te
 youtube	YouTube

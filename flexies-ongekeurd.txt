@@ -19,7 +19,10 @@
 1-jarigen
 20 eurobiljetten
 21 julivieringen
+24 uursdiensten
+24 uursvoorzieningen
 25-jarigen
+25 meterbaden
 27MC'ers
 2CV's
 3-cijferige
@@ -30,10 +33,12 @@
 3D-visualisaties
 40-urige
 50+'ers
+50 meterbaden
 50-plussers
 50PLUS-stemmers
 55+-woningen
 5G-masten
+5G-netwerken
 5-jarigen
 60+'ers
 60-jarigen
@@ -10098,6 +10103,8 @@ autoconcerns
 autoconstructeurs
 autoconsumenten
 autocontroles
+autocorrelatiefuncties
+autocorrelaties
 autocoureurs
 autocraten
 autocratische
@@ -13050,6 +13057,7 @@ begijntje
 begijntjes
 begild
 begilde
+begincondities
 begindata
 begindatums
 beginfasen
@@ -23188,7 +23196,6 @@ btw-bepalingen
 btw-betalingen
 btw-carrousels
 btw-claims
-btw-coden
 btw-codes
 btw-constructies
 btw-declaraties
@@ -24063,6 +24070,8 @@ cafeetje
 cafeetjes
 cafégangers
 caféhouders
+cafeïnearme
+cafeïnehoudende
 cafeïnevrije
 cafépilsje
 café-restaurants
@@ -24078,7 +24087,6 @@ caféterrasje
 caféterrasjes
 caféterrassen
 café-uitbaters
-caffeïnearme
 cahiers
 cahiertje
 Caines
@@ -25658,8 +25666,10 @@ classicistischer
 classics
 classificatiebureaus
 classificaties
+classificatieschema's
 classificatiesystemen
 classificatoren
+classificatorische
 classificeer
 classificeerde
 classificeerden
@@ -26097,6 +26107,7 @@ collegecycli
 collegedagen
 collegedictaten
 collegegelden
+collegegeldverhogingen
 collegehengsten
 collegejaren
 collegekaarten
@@ -26414,6 +26425,7 @@ compenseerden
 compenseert
 compenserend
 compenserende
+comperatieve
 competeer
 competeerde
 competeerden
@@ -27752,9 +27764,12 @@ cornets
 corniches
 coronacijfers
 coronadiploma's
+coronadoden
 coronaire
 coronale
 coronalijers
+coronamaatregelen
+coronapatiënten
 coronapensen
 corona's
 coronavirussen
@@ -27804,6 +27819,7 @@ correctst
 correctste
 correlaten
 correlatiecoëfficiënten
+correlatiefuncties
 correlaties
 correlatieve
 correleer
@@ -27821,6 +27837,7 @@ correspondentes
 correspondentieadressen
 correspondentiekaarten
 correspondentiekaartjes
+correspondentieregels
 correspondenties
 correspondentievrienden
 correspondentievriendje
@@ -27836,6 +27853,7 @@ corrigeerden
 corrigeert
 corrigerend
 corrigerende
+corroboraties
 corrodeerde
 corrodeerden
 corrodeert
@@ -27976,6 +27994,8 @@ couverts
 couvertures
 couveusekinderen
 couveuses
+covariantiefuncties
+covarianties
 coverbanden
 coverbandje
 coverbandjes
@@ -29275,7 +29295,7 @@ Dawns
 Dax'
 daze
 dc's
-DDoS-aanvallen
+ddos-aanvallen
 Deacons
 deactiveerde
 deactiveert
@@ -30277,6 +30297,7 @@ denominatieven
 denomineerde
 denonceerde
 denotaties
+denotatieve
 densimeters
 dentale
 dentalen
@@ -35152,6 +35173,7 @@ drogisterijen
 drogisterijketens
 drogmans
 drogredenaars
+drogredenaties
 drogredenen
 drogredeneringen
 drollenvangers
@@ -38382,6 +38404,7 @@ ergernissen
 ergerniswekkende
 ergers
 ergert
+ergodische
 ergometers
 ergonen
 ergonomen
@@ -38799,7 +38822,7 @@ eurocenten
 eurocentjes
 eurocentrische
 eurocheques
-eurocommissarissen
+Eurocommissarissen
 eurocraten
 eurodollars
 euroflessen
@@ -39509,6 +39532,8 @@ extatische
 extatischer
 extensies
 extensieve
+extension
+extensionele
 extensiveerde
 extensiveringsgebieden
 exterieure
@@ -39564,6 +39589,8 @@ extremiteiten
 extrinsieke
 extroverte
 extroverter
+extrudeer
+extrudeert
 exuberante
 exuberanties
 ex-verslaafden
@@ -43199,6 +43226,9 @@ garandeert
 garanderend
 garanderende
 garanten
+garantie-autootje
+garantie-autootjes
+garantie-auto's
 garantiebedragen
 garantiebepalingen
 garantiebewijzen
@@ -52329,6 +52359,7 @@ gevilden
 gevinde
 gevindiceerd
 gevingerde
+gevingerlaste
 gevinkt
 gevinkte
 geviseerd
@@ -55670,6 +55701,7 @@ grommige
 grompotten
 gromt
 grondaankopen
+grondaanvallen
 grondaanwinningen
 grondachtige
 grondacties
@@ -59908,6 +59940,7 @@ hoefstallen
 hoeft
 Hoeilaartse
 Hoeise
+hoekaanvallers
 hoekballen
 hoekbanden
 hoekbanken
@@ -60335,6 +60368,7 @@ Hondurese
 honende
 Hongaarstalige
 Hongaren
+hongeraanvallen
 hongerbaantjes
 hongerbuikjes
 hongerde
@@ -60426,6 +60460,7 @@ honoreringen
 hoof
 hoofdaandeelhouders
 hoofdaannemers
+hoofdaanvallers
 hoofdaccenten
 hoofdacteurs
 hoofdactiviteiten
@@ -61106,6 +61141,7 @@ hospitaalsoldaten
 hospitaaltje
 hospitaaltjes
 hospitalen
+hospitalisaties
 hospitalisatieverzekeringen
 hospitaliseerde
 hospitanten
@@ -62818,6 +62854,7 @@ implementeerden
 implementeert
 implementerend
 implicaties
+implicatorer
 impliceer
 impliceerde
 impliceerden
@@ -65557,6 +65594,7 @@ intensieve
 intensiever
 intensievere
 intensifieerde
+intensionele
 intensiteiten
 intensiteitsverschillen
 intensivecareafdelingen
@@ -76245,6 +76283,7 @@ kruisbloemen
 kruisbloemige
 kruisbogen
 kruisboogschutters
+kruiscorrelaties
 kruisdraden
 kruisdragers
 kruiselingse
@@ -76320,6 +76359,7 @@ kruisvanen
 kruisverbanden
 kruisverenigingen
 kruisverhoren
+kruisvermogensspectra
 kruisvluchtwapens
 kruisvormen
 kruisvormige
@@ -77003,6 +77043,7 @@ kwantificeerden
 kwantificeert
 kwantitatieve
 kwantiteiten
+kwantoren
 kwantumcomputers
 kwantumkortingen
 kwantummechanische
@@ -81365,6 +81406,7 @@ logeetje
 logeetjes
 logementen
 logementhouders
+logementsschepen
 logenstraf
 logenstraffingen
 logenstraft
@@ -89761,6 +89803,8 @@ muurschilders
 muurtje
 muurtjes
 muurvaste
+muurversieringen
+muurverven
 muurvlakken
 muzelmannen
 muzen
@@ -91626,6 +91670,7 @@ neonlichten
 neonlichtjes
 neonreclames
 neoplatoonse
+neopositivisten
 neoprofs
 neorealisten
 neorealistische
@@ -96266,6 +96311,7 @@ ongeconcentreerde
 ongeconditioneerde
 ongecontroleerde
 ongecoördineerde
+ongecorreleerde
 ongecorrigeerde
 ongecultiveerde
 ongedachte
@@ -102924,6 +102970,7 @@ overgepompte
 overgepoot
 overgepraat
 overgeproduceerde
+overgereageerd
 overgereden
 overgereguleerde
 overgereikt
@@ -103480,8 +103527,11 @@ overprikkelende
 overprikkelingen
 overprikkelt
 overreacties
+overreageer
 overreageerd
 overreageerde
+overreageerden
+overreageert
 overrede
 overredend
 overredende
@@ -110788,7 +110838,7 @@ procurators
 procureurs
 procureurs-generaal
 procyclische
-pro-deanen
+pro-Deanen
 prodecanen
 prodemocratische
 pro-Deoadvocaten
@@ -112217,6 +112267,7 @@ purperreigers
 purperrode
 purperslakken
 purpert
+purschuimen
 pursers
 pushberichten
 pushend
@@ -114113,6 +114164,7 @@ redeneer
 redeneerde
 redeneerden
 redeneerfouten
+redeneerschema's
 redeneert
 redenen
 redenerend
@@ -130464,6 +130516,7 @@ stiptheidsacties
 stiptst
 stiptste
 stipulaties
+stipulatieve
 stipuleer
 stipuleerde
 stipuleerden
@@ -148465,6 +148518,7 @@ vermogensbelastingen
 vermogensbestanddelen
 vermogensbezitters
 vermogensdelicten
+vermogensdichtheden
 vermogenseffecten
 vermogensgrenzen
 vermogensheffingen
@@ -152930,6 +152984,7 @@ vluggerds
 vluggertjes
 vlugschriften
 vlugst
+vmbo'ers
 vmbo-examens
 vmbo-leerlingen
 vmbo-niveaus
@@ -154749,6 +154804,7 @@ voorstond
 voorstonden
 voorstoppers
 voorstraten
+voorstrijkmiddelen
 voorstudiën
 voorstudies
 voorstukjes
@@ -156324,6 +156380,7 @@ vullend
 vullende
 vullichamen
 vullingen
+vulmiddelen
 vulopeningen
 vulpasta's
 vulpenhouders
@@ -164726,6 +164783,7 @@ zoomobjectieven
 zoompje
 zoompjes
 zoomt
+zoönotische
 zoons
 zoontje
 zoontjes
@@ -165543,8 +165601,11 @@ zwemdiploma's
 zwemdokken
 zwemend
 zwemende
+zwemfinales
 zwemgelegenheden
+zwemgenoten
 zwemgordels
+zwemhulpmiddelen
 zweminrichtingen
 zweminstructeurs
 zwemkaarten
@@ -165553,11 +165614,13 @@ zwemkampioenschappen
 zwemkostuums
 zwemkunsten
 zwemlessen
+zwemliefhebbers
 zwemlocaties
 zwemmend
 zwemmende
 zwemmerige
 zwemmers
+zwemnummers
 zwemoefeningen
 zwemonderwijzers
 zwempakje
@@ -165566,34 +165629,54 @@ zwempakken
 zwemparadijzen
 zwempartijen
 zwempartijtje
+zwempartijtjes
 zwemplaatsen
 zwemplankje
 zwemplassen
 zwempoten
 zwemrecords
+zwemresultaten
+zwemschoentjes
 zwemscholen
 zwemseizoenen
 zwemsessies
 zwemshorts
 zwemslagen
 zwemsters
+zwemstijlen
+zwemstrandje
 zwemt
+zwemtassen
 zwemtechnieken
+zwemtickets
+zwemtijden
 zwemtochtje
+zwemtochtjes
 zwemtrainingen
+zwemuren
+zwemuurtje
+zwemuurtjes
+zwemvaardigheidsdiploma's
 zwemverboden
 zwemverenigingen
 zwemvesten
 zwemvestje
 zwemvestjes
 zwemvijvers
+zwemvleugels
 zwemvliesjes
 zwemvliezen
 zwemvoeten
 zwemvogels
+zwemvoorzieningen
 zwemwateren
+zwemwaterlocaties
+Zwemwaterprofiel
+zwemwaterprofielen
 zwemwaters
+zwemwatertjes
 zwemwedstrijden
+zwemzaken
 zwemzones
 zwendelaars
 zwendelarijen
@@ -165615,18 +165698,25 @@ zwenkwieltjes
 zwerend
 zwerende
 zwerf
+zwerfafvalprojecten
 zwerfauto's
 zwerfblokken
+zwerfdieren
 zwerfhonden
 zwerfhondje
+zwerfhondjes
 zwerfjongeren
+zwerfkapitalisten
 zwerfkatjes
 zwerfkatten
 zwerfkeien
 zwerfkeitje
+zwerfkeitjes
 zwerfkinderen
+zwerfpoezen
 zwerfstenen
 zwerfsters
+zwerfstromen
 zwerft
 zwerftochten
 zwerfvogels
@@ -165640,6 +165730,7 @@ zwermende
 zwermers
 zwermpje
 zwermpjes
+zwermpjess
 zwermpotten
 zwermt
 zwervelingen
@@ -165720,6 +165811,7 @@ zwijntjesjagers
 zwikboren
 zwikhouten
 zwikje
+zwikjes
 zwikkend
 zwikkende
 zwikt
