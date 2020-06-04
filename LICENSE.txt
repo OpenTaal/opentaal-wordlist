@@ -4,7 +4,7 @@ _for English, please see below_
 # Nederlandse licentiebepalingen
 
 U wordt vriendelijk verzocht om dit bestand genaamd `LICENSE.txt` door te lezen
-en een kopie te behouden bij elke kopie van u van dit project of bestanden van
+en een kopie te behouden bij elke kopie die u van dit project of bestanden van
 dit project maakt.
 
 1. Titel: Nederlandse woordenlijst
@@ -16,7 +16,7 @@ dit project maakt.
 Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
 
 6. Licentiekeuze: Om zo groot mogelijk (her)gebruik mogelijk te maken, zijn deze
-   taalbestanden vrij beschikbaar onder liberale licenties naar descretie van de
+   taalbestanden vrij beschikbaar onder liberale licenties naar discretie van de
    gebruiker. We raden aan de relevante licenties door te lezen voor gebruik te
    starten. Kies een of beide licenties die voor u het meest van toepassing is.
    A) Revised BSD License (3-clause license), as is defined at
@@ -31,13 +31,13 @@ Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
    donaties via https://opentaal.org/vrienden-van-opentaal aftrekbaar zijn.
 9. Deelname: Iedereen is welkom bijdrages te leven. Door bij te dragen stemt u
    in dat uw bijdragen onder vrije en/of opensource licenties beschikbaar komen.
-   Als ju wilt kan u naam vermeld worden op onze website.
+   Als u wilt kan uw naam vermeld worden op onze website.
 10.Rechten van derden: OpenTaal respecteert de rechten van derden en probeert
    haar data vrij beschikbaar te houden. Daarom mag u geen beschermde bronnen
    gebruiken om bij te dragen aan dit project. Het is toegestaan om spellings-
    instructies en woordenlijst van de Nederlandse Taalunie te raadplegen. In het
-   geval dat u denkt dat OpenTaal rechten schent, vragen wij u om zo spoedig
-   mogelijk een gescheven kennisgeving toe te sturen.
+   geval dat u denkt dat OpenTaal rechten schendt, vragen wij u om zo spoedig
+   mogelijk een schriftelijke kennisgeving toe te sturen.
 
 
 # English license stipulations
