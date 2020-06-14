@@ -26425,7 +26425,6 @@ compenseerden
 compenseert
 compenserend
 compenserende
-comperatieve
 competeer
 competeerde
 competeerden
@@ -39532,7 +39531,6 @@ extatische
 extatischer
 extensies
 extensieve
-extension
 extensionele
 extensiveerde
 extensiveringsgebieden
@@ -43226,9 +43224,9 @@ garandeert
 garanderend
 garanderende
 garanten
-garantie-autootje
-garantie-autootjes
-garantie-auto's
+garantieautootje
+garantieautootjes
+garantieauto's
 garantiebedragen
 garantiebepalingen
 garantiebewijzen
@@ -62854,7 +62852,6 @@ implementeerden
 implementeert
 implementerend
 implicaties
-implicatorer
 impliceer
 impliceerde
 impliceerden
@@ -103528,7 +103525,6 @@ overprikkelingen
 overprikkelt
 overreacties
 overreageer
-overreageerd
 overreageerde
 overreageerden
 overreageert
@@ -108548,6 +108544,7 @@ poenerige
 poenige
 poeniger
 poenigste
+poepangsten
 poepbroeken
 poepbruine
 poepdeftige
@@ -140761,6 +140758,7 @@ tweedes
 tweedeursautootje
 tweedeursauto's
 tweedeurskoelkasten
+tweedeverblijvers
 tweedimensionale
 tweedjasje
 tweedjasjes
@@ -152203,6 +152201,9 @@ vissersgemeenschappen
 vissershavens
 vissershaventje
 vissershaventjes
+vissershoeden
+vissershoedje
+vissershoedjes
 vissershuisjes
 vissershutjes
 vissershutten
@@ -165730,7 +165731,6 @@ zwermende
 zwermers
 zwermpje
 zwermpjes
-zwermpjess
 zwermpotten
 zwermt
 zwervelingen

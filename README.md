@@ -7,7 +7,7 @@ Dit is de Nederlandse woordenlijst van
 [Stichting OpenTaal](https://www.opentaal.org). Mits aan volledige
 bronvermelding wordt gedaan en de licenties worden gerespecteerd, is deze lijst
 vrij te gebruiken. De exacte voorwaarden zijn te vinden in het bestand
-[LICENSE](LICENSE). Lees deze goed door.
+[LICENSE.txt](LICENSE.txt). Lees deze goed door.
 
 ![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
 
@@ -27,48 +27,66 @@ van deze woordenlijst niet meer van toepassing zijn.
 
 ## Inhoud
 
-De woordenlijst bestaat de volgende type woorden:
-- gekeurde [basiswoorden](https://nl.wikipedia.org/wiki/Lemma_(naslagwerk))
-zoals `tafel`
-- ongekeurde basiswoorden bestaande uit eigennamen zoals `Jansen`, toponiemen
-zoals `Schin op Geul` en samenstellingen met een eigennaam zoals `Facebookgroep`
-- ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals
-`stoeltjes`
+De woordenlijst bestaat, naast de documentatie en licentie, uit de volgende
+bestanden:
+- `wordlist.txt`
+- `basiswoorden-gekeurd.txt`
+- `basiswoorden-ongekeurd.txt`
+- `flexies-ongekeurd.txt`
 
-Deze woorden zijn te vinden in een
+Deze zijn aangevuld met een aantal hulpbestanden:
+- `wordparts.tsv`
+- `corrections.tsv`
+- `romeinse-cijfers.txt`
+- `datetimeversion.txt`
+
+De complete woordenlijst is te vinden in het
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
-**[wordlist.txt](wordlist.txt)**. Elke regel bevat een apart woord en dat zijn
-er in totaal bijna 407.000 woorden. Let op, een woord kan een spatie bevatten,
-dat komt 4.300 keer voor. Alle woorden zijn verder alfabetisch gesorteerd met
-[`sort`](http://www.gnu.org/software/coreutils/sort).
+[wordlist.txt](wordlist.txt). Elke regel bevat een apart woord en in totaal zijn
+dat er meer dan 400.000 woorden. Let op, een woord kan een spatie bevatten en
+dat kom meer dan 4.000 keer voor. Alle woorden zijn alfabetisch gesorteerd met
+[`sort`](http://www.gnu.org/software/coreutils/sort). Dit bestand is
+samengesteld uit de volgende drie bestanden.
 
-De gekeurde en ongekeurde basiswoorden en de ongekeurde flexies zijn te vinden
-in respectievelijk **[basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt)**
-(200.000), **[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt)** (41.000)
-en **[flexies-ongekeurd.txt](flexies-ongekeurd.txt)** (170.000). Let op dat deze
-verdeling in vorige versies en in deze versie niet heel strikt is! In de
-gekeurde basiswoorden kunnen ook eigennamen en flexies zitten. Dit gaat in een
-volgende _major release_ worden opgelost omdat er dan vanaf een nieuw
-databasesysteem wordt gewerkt. Tot die tijd is het even behelpen met deze
-verdeling.
+De door de Taalunie gekeurde
+[basiswoorden](https://nl.wikipedia.org/wiki/Lemma_(naslagwerk)) zoals `tafel`
+zijn te vinden in [basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt). Dit zijn
+er ongeveer 200.000 stuks. Ongekeurde basiswoorden, eigennamen zoals `Jansen`,
+toponiemen zoals `Schin op Geul` en samenstellingen met een eigennaam zoals
+`Facebookgroep` zijn in het bestand
+[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt) te vinden. Dit zijn er
+ongeveer 41.000 stuks. In het bestand
+[flexies-ongekeurd.txt](flexies-ongekeurd.txt) zijn er ongeveer 170.000
+ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals
+`stoeltjes` te vinden.
+
+Let op dat deze verdeling in oude versies van deze woordenlijst niet heel strikt
+was. Daardoor kunnen in de gekeurde basiswoorden kunnen ook eigennamen en
+flexies zitten. Dit gaat in een volgende _major release_ worden opgelost omdat
+er dan vanaf een nieuw databasesysteem wordt gewerkt. Bijkomend voordeel is dat
+er dan ook informatie over woordtypen beschikbaar komt. Tot die tijd is het even
+behelpen met deze verdeling.
 
 Er is een apart bestand met delen van woorden die een spatie bevatten. Dit is
 een [TSV-bestand](https://en.wikipedia.org/wiki/Tab-separated_values) met in de
 tweede kolom een or meer woorden waar dit deel vandaag komt. Indien dat meerdere
 woorden zijn, zijn die gescheiden door een puntkomma. Dit bestand heet
-**[wordparts.tsv](parts-of-words.tsv)** en bevat 1.000 delen van woorden die
-vaak gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`. Let op, in
-dit bestand staan ook woorden in die niet in de woordenlijst staan maar in
-verkorte vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen`
-en `-zus` in `tweelingbroer of -zus`.
+[wordparts.tsv](parts-of-words.tsv) en bevat 1.000 delen van woorden die vaak
+gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`. Let op, in dit
+bestand staan ook woorden in die niet in de woordenlijst staan maar in verkorte
+vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen` en `-zus`
+in `tweelingbroer of -zus`.
 
 Ook is er een bestand met 16.000 fout gespelde woorden. Dit is
-**[errors.tsv](errors.tsv)** en is ook in TSV-formaat. In de tweede kolom staan
-nul of meerdere correcties, gescheiden met een puntkomma. De meest relevante
+[errors.tsv](errors.tsv) en is ook in TSV-formaat. In de tweede kolom staan nul
+of meerdere correcties, gescheiden met een puntkomma. De meest relevante
 correctie staat dan vooraan.
 
-De datum, de tijd en het versienummer van bovenstaande bestanden is te vinden in
-**[datetimeversion.txt](datetimeversion.txt)**.
+Verder staan in het bestand [romeinse-cijfers.txt](romeinse-cijfers.txt) 4.000
+Romeinse cijfers.
+
+De datum, de tijd en het versienummer van al deze bestanden is te vinden in
+[datetimeversion.txt](datetimeversion.txt).
 
 
 ## Optioneel
@@ -112,6 +130,14 @@ automatisch updaten. Voorbeelden hiervan zijn:
 - [wdutch](https://packages.debian.org/search?keywords=wdutch) voor Debian
 - [wdutch](https://raspberryconnect.com/sitesearch?q=wdutch) voor Raspbian
 
+Na installatie is de inhoud van `wordlist.txt` beschikbaar als het bestand
+
+    /usr/share/dict/dutch
+
+of via de symbolische link
+
+    /usr/share/dict/nederlands
+
 Het upstream bronpakket is https://packages.debian.org/stable/wdutch
 
 
@@ -126,7 +152,7 @@ beschikbaar zoals [Hunspell](https://hunspell.github.io) of
 OpenTaal maakt de Nederlandse ondersteuning voor deze spellingcontroles. Die is
 deels gebaseerd op deze woordenlijst maar ook op een veel maatwerkregels,
 vervoegingen en andere speciale gevallen. Daarnaast zijn deze geoptimaliseerde
-spellingcontroles ook nog veel sneller dan eigen implementaties. In het eerste
+spellingcontroles ook nog veel sneller dan eigen implementaties. In het tweede
 kwartaal van 2020 zal een nieuwe versie van de Nederlandse ondersteuning van
 spellingcontroles uit komen.
 
@@ -135,7 +161,7 @@ spellingcontroles uit komen.
 Voor Android is er een toetsenbord dat gebruik maakt van deze woordenlijst. Zie
 dit
 [artikel](https://www.opentaal.org/het-laatste-nieuws/projectnieuws/51-publicaties/221-anysoftkeyboard)
-op onze website voor meer informatie. In het eerste kwartaal van 2020 zal deze
+op onze website voor meer informatie. In het derde kwartaal van 2020 zal deze
 app een update krijgen en de laatste versie van deze woordenlijst gebruiken.
 
 
@@ -198,6 +224,14 @@ update it automatically. Examples of this are:
 - [wdutch](https://packages.debian.org/search?keywords=wdutch) for Debian
 - [wdutch](https://raspberryconnect.com/sitesearch?q=wdutch) for Raspbian
 
+After installation, the contents of `wordlist.txt` will be available as the file
+
+    /usr/share/dict/dutch
+
+or via the symbolic link
+
+    /usr/share/dict/nederlands
+
 The upstream source package is https://packages.debian.org/stable/wdutch
 
 
@@ -211,8 +245,8 @@ software for this such as [Hunspell](https://hunspell.github.io) or
 OpenTaal supports Dutch for these spell checkers. That is partly based on this
 word list but also on many custom rules, conjugations and other special cases.
 Additionally, these optimized spell checkers are much faster than own
-implementations. In the first quarter, a new version of the Dutch support for
-these spell checkers will be published.
+implementations. In the second quarter of 2020, a new version of the Dutch
+support for these spell checkers will be published.
 
 
 ## Keyboard
@@ -220,7 +254,7 @@ these spell checkers will be published.
 A keyboard for Android which uses this word list has been developed. Please, see
 this
 [article](https://www.opentaal.org/het-laatste-nieuws/projectnieuws/51-publicaties/221-anysoftkeyboard)
-on our website for more information. In the first quarter of 2020, this app will
+on our website for more information. In the third quarter of 2020, this app will
 get an update and use the latest version of this word list.
 
 
