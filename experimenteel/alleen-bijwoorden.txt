@@ -1,8 +1,6 @@
-1-op-1
 aaneen
 aanstonds
 abusievelijk
-a capella
 achter
 achteraan
 achteraf
@@ -22,15 +20,9 @@ achteruit
 achterwege
 achtmaal
 adagio
-ad fundum
 af
-a fortiori
-à gogo
 al
-à la carte
-à la minute
 aldaar
-al dente
 aldus
 algauw
 alhier
@@ -45,8 +37,6 @@ allerwegen
 allesbehalve
 alleszins
 allicht
-all-in
-all right
 allrisk
 almaar
 alom
@@ -60,7 +50,6 @@ alvast
 alwaar
 alweer
 alzo
-a.m.
 ambtshalve
 amper
 andante
@@ -69,13 +58,7 @@ andersom
 anderszins
 anderzijds
 anno
-anno Domini
 antikraak
-a posteriori
-a priori
-au bain-marie
-au sérieux
-avant la lettre
 barrevoets
 begrijpelijkerwijs
 belcanto
@@ -91,7 +74,6 @@ bijkans
 bijna
 bijster
 bijtijds
-bijv.
 bijvoorbeeld
 bijwijlen
 binnen
@@ -106,7 +88,6 @@ bis
 blindelings
 blootsvoets
 blootvoets
-bottom-up
 boudweg
 boven
 bovenaan
@@ -116,7 +97,6 @@ bovendien
 bovenin
 bovenop
 bovenuit
-break-even
 breeduit
 bruto
 buiten
@@ -126,17 +106,8 @@ buitengaats
 buitenom
 buitenshuis
 buitenspel
-bv.
-ca.
-casu quo
-ceteris paribus
 circa
-comme il faut
-coûte que coûte
-c.q.
 crescendo
-cum laude
-cum suis
 daar
 daaraan
 daarachter
@@ -189,10 +160,7 @@ daarvoor
 daarzonder
 dan
 dato
-de dato
 deels
-de facto
-de jure
 derdeklas
 derhalve
 dermate
@@ -222,7 +190,6 @@ donderdagmorgen
 donderdagnacht
 donderdagochtend
 dooreen
-door en door
 doorgaans
 doorheen
 doormidden
@@ -237,10 +204,8 @@ dusver
 echter
 edoch
 eenmaal
-een-op-een
 eens
 eensklaps
-een-twee-drie
 eenvoudigweg
 eer
 eerdaags
@@ -253,15 +218,10 @@ eertijds
 eindelijk
 elders
 elfmaal
-en détail
 enerzijds
-en face
 enfin
 enigermate
 enigszins
-en masse
-en plein public
-en profil
 enzovoort
 enzovoorts
 er
@@ -310,8 +270,6 @@ ervanaf
 ervandaan
 ervandoor
 ervoor
-etc.
-et cetera
 eveneens
 evengoed
 evenmin
@@ -320,10 +278,7 @@ evenwel
 evenzeer
 evenzo
 evenzogoed
-ex aequo
-ex cathedra
 excelsior
-ex dividend
 exit
 fiftyfifty
 foetsie
@@ -359,10 +314,8 @@ goedbeschouwd
 goeddeels
 goedschiks
 grofweg
-grosso modo
 grotendeels
 haast
-haastje-repje
 halfacht
 halfdrie
 halfeen
@@ -442,7 +395,6 @@ hoogst
 hoogstens
 hooguit
 hopelijk
-houtje-touwtje
 hunnentwege
 hutjemutje
 ibidem
@@ -454,28 +406,19 @@ ietwat
 ijlings
 immer
 immers
-in casu
 incognito
-in concreto
 inderdaad
 inderhaast
 indertijd
 ineen
 ineens
 infra
-in memoriam
 inmiddels
-in petto
 insgelijks
 integendeel
 intussen
 inzonderheid
-ipso facto
 item
-jasje-dasje
-just in time
-klip-en-klaar
-kopje-onder
 kortbij
 kortelings
 kortgeleden
@@ -492,13 +435,11 @@ langszij
 languit
 langzaamaan
 langzamerhand
-last but not least
 lento
 lichtelijk
 lichtjes
 liefst
 liever
-linea recta
 linksachter
 linksaf
 linksboven
@@ -508,7 +449,6 @@ loco
 logischerwijs
 logischerwijze
 lou
-low profile
 luidop
 maandag
 maandagavond
@@ -520,7 +460,6 @@ maandagochtend
 maandagvoormiddag
 maar
 maximum
-mea culpa
 mede
 medio
 mee
@@ -545,7 +484,6 @@ minimum
 minstens
 minus
 misschien
-m.m.
 mogelijkerwijs
 mogelijkerwijze
 mondjesmaat
@@ -557,7 +495,6 @@ morgennamiddag
 morgenochtend
 morgenvoormiddag
 morgenvroeg
-mutatis mutandis
 naartoe
 naderbij
 naderhand
@@ -565,7 +502,6 @@ nadien
 nagenoeg
 namelijk
 nauwelijks
-NB
 neder
 neer
 negenmaal
@@ -577,7 +513,6 @@ niet
 niets
 niettemin
 nimmer
-nl.
 nochtans
 node
 nog
@@ -593,12 +528,10 @@ noordwest
 normalerwijs
 normalerwijze
 normaliter
-nota bene
 nou
 nu
 offline
 offside
-om en om
 omheen
 omhoog
 omlaag
@@ -630,14 +563,11 @@ onzerzijds
 ooit
 ook
 oost
-oost-west
 opeen
 opeens
-op-en-top
 opnieuw
 opzij
 out
-out of the blue
 over
 overal
 overboord
@@ -659,25 +589,15 @@ pardoes
 pari
 pas
 pasgeleden
-per se
 pertang
 piano
-pico bello
 pleite
-plm.
 plotsklaps
 plus
 plusminus
-p.m.
 presto
 primo
-pro bono
-pro Deo
-pro forma
-pro memorie
-q.q.
 qua
-qualitate qua
 quasi
 quinto
 recentelijk
@@ -723,9 +643,7 @@ soms
 somtijds
 sowieso
 spelenderwijs
-spic en span
 staccato
-stante pede
 stapsgewijze
 starnakel
 steeds
@@ -734,7 +652,6 @@ stilaan
 stilletjes
 straal
 straks
-strijk-en-zet
 subiet
 tegelijk
 tegelijkertijd
@@ -767,7 +684,6 @@ toch
 toe
 toen
 toentertijd
-tongue in cheek
 trouwens
 tussenbeide
 tussendoor
@@ -779,8 +695,6 @@ tweehoog
 tweemaal
 überhaupt
 uiteen
-uit-en-te-na
-uit-en-ter-na
 uitentreuren
 uiteraard
 uitermate
@@ -789,7 +703,6 @@ ultra
 unisono
 unverfroren
 uptempo
-urbi et orbi
 uwentwege
 uwerzijds
 vaaglijk
@@ -830,14 +743,11 @@ verso
 veruit
 vervolgens
 vetjes
-vice versa
 viermaal
 vijfmaal
-vis-à-vis
 vivo
 vlakaf
 vlakbij
-vnl.
 voetstoots
 volledigheidshalve
 volop
@@ -877,7 +787,6 @@ vrijdagochtend
 vrijelijk
 vrijuit
 vrijwel
-v.v.
 waar
 waaraan
 waarachter
@@ -965,7 +874,6 @@ zoal
 zodoende
 zoek
 zoetjesaan
-zo-even
 zogezegd
 zohaast
 zojuist
@@ -991,4 +899,3 @@ zuidoost
 zuidwest
 zuidzuidwest
 zus
-zwart-op-wit

@@ -488,7 +488,6 @@ appliceren
 appliqueren
 apporteren
 appreciëren
-après-skiën
 aquajoggen
 aquarelleren
 arbeiden
@@ -527,7 +526,6 @@ babbelen
 babysitten
 backen
 backpacken
-back-uppen
 badderen
 baden
 badineren
@@ -1268,7 +1266,6 @@ coaten
 cocoonen
 coderen
 codificeren
-co-existeren
 coifferen
 coïteren
 collaboreren
@@ -1326,7 +1323,6 @@ contamineren
 contesteren
 continueren
 contracteren
-contra-indiceren
 contrasigneren
 contrasteren
 contribueren
@@ -1339,7 +1335,6 @@ convoceren
 coöpereren
 coöpteren
 coördineren
-copy-pasten
 correleren
 corresponderen
 corrigeren
@@ -1408,7 +1403,6 @@ decoreren
 deduceren
 deelhebben
 deelnemen
-de-escaleren
 defibrilleren
 defileren
 definiëren
@@ -1421,7 +1415,6 @@ degusteren
 dehydrateren
 dehydreren
 deinen
-de-installeren
 deinzen
 dekken
 delegeren
@@ -1537,7 +1530,6 @@ doctoreren
 documenteren
 doden
 doedelen
-doe-het-zelven
 doelen
 doelpunten
 doemdenken
@@ -1783,7 +1775,6 @@ elektrificeren
 elektriseren
 elektrocuteren
 elimineren
-e-mailen
 emailleren
 emanciperen
 embarkeren
@@ -1997,7 +1988,6 @@ frotteren
 fruiten
 frunniken
 frustreren
-ftp'en
 fucken
 fuiven
 fulmineren
@@ -2186,7 +2176,6 @@ grossieren
 gruizen
 gruwelen
 gruwen
-gsm'en
 gummen
 gunnen
 gutsen
@@ -2353,7 +2342,6 @@ hinderen
 hineininterpretieren
 hinkelen
 hinken
-hink-stap-springen
 hinniken
 hinten
 hippen
@@ -2426,7 +2414,6 @@ hypen
 hypnotiseren
 hypothekeren
 iaën
-i-bankieren
 idealiseren
 identificeren
 ignoreren
@@ -2702,7 +2689,6 @@ jengelen
 jennen
 jeremiëren
 jetskiën
-jeu-de-boulen
 jeuken
 jijen
 jobben
@@ -3103,7 +3089,6 @@ latten
 lauweren
 laven
 laveren
-lay-outen
 lazeren
 leasen
 lebberen
@@ -3310,7 +3295,6 @@ meediscussiëren
 meedoen
 meedraaien
 meedragen
-mee-eten
 meefeesten
 meefietsen
 meefinancieren
@@ -3491,7 +3475,6 @@ mountainbiken
 mouten
 moven
 moveren
-msn'en
 muggenziften
 muilkorven
 muiten
@@ -3506,7 +3489,6 @@ musiceren
 muteren
 muurklimmen
 naaien
-na-apen
 naasten
 nabauwen
 nabellen
@@ -3523,7 +3505,6 @@ nagelbijten
 nagelen
 nagenieten
 nahouden
-na-ijlen
 najagen
 naken
 nakijken
@@ -4628,7 +4609,6 @@ reikhalzen
 reilen
 reïncarneren
 reinigen
-re-integreren
 reizen
 rekenen
 rekken
@@ -4718,7 +4698,6 @@ rivaliseren
 robben
 rochelen
 rocken
-rock-'n-rollen
 roddelen
 rodelen
 roderen
@@ -5085,7 +5064,6 @@ smoren
 smousen
 smouten
 smouzen
-sms'en
 smullen
 smurfen
 snaaien
@@ -5395,7 +5373,6 @@ tafeldekken
 tafelen
 tafeltennissen
 taggen
-tai-chiën
 takelen
 takken
 talen
@@ -5594,7 +5571,6 @@ toedoen
 toedraaien
 toedragen
 toedrukken
-toe-eigenen
 toegaan
 toegeven
 toegooien
@@ -5743,7 +5719,6 @@ tussenvoegen
 tutoyeren
 tutten
 tutteren
-tv-kijken
 tweaken
 tweeten
 twijfelen
