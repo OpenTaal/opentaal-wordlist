@@ -1,0 +1,1 @@
+Alleen woorden die bestaan uit kleine letters a tot en met z. De lijsten per woordtype bevatten alleen de basisvorm van het betreffende woordtype. Deze bestanden zijn experimenteel, docht zijn bij gebruik de licentievoorwaarden van deze woordenlijst van toepassing.
