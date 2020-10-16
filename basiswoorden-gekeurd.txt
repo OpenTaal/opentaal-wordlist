@@ -1209,6 +1209,7 @@ aanmoedigingsbeleid
 aanmoedigingspremie
 aanmoedigingsprijs
 aanmoedigingssubsidie
+aanmoeten
 aanmonding
 aanmonsteren
 aanmonstering
@@ -40331,7 +40332,6 @@ degressief
 degustatie
 degustatiemenu
 degusteren
-de hele bubs
 dehumanisering
 dehydratatie
 dehydrateren
@@ -81159,7 +81159,6 @@ introversie
 introvert
 intrusie
 intuberen
-intuinen
 intuïtie
 intuïtief
 intuïtionisme
@@ -135615,7 +135614,6 @@ portvrij
 portvrijdom
 portwijn
 portzegel
-porum
 pos
 pose
 poseren
@@ -139401,6 +139399,7 @@ queueën
 quiche
 quickstep
 quidam
+quid pro quo
 quiëtisme
 quiëtist
 quiëtisten
@@ -139409,7 +139408,6 @@ quilten
 quinoa
 quinquagesima
 quinto
-qui pro quo
 Quirinaal
 quisling
 quitte
@@ -179404,7 +179402,6 @@ vernachelen
 vernachten
 vernagelen
 vernageling
-vernaggelen
 vernatting
 vernauwen
 vernauwing
@@ -195011,7 +195008,6 @@ zakbreuk
 zakcent
 zakcomputer
 zakdoek
-zakdoekjeleggen
 zakduit
 zakeditie
 zakelijk

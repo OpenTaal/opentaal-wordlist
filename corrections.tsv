@@ -8,7 +8,7 @@
 1000m2	1000 m²
 1000m3	1000 m³
 100m2	100 m²
-10A.-aansluiting	10A.aansluiting
+10A.-aansluiting	10A-aansluiting
 10jarige	10-jarige
 10m2	10 m²
 10m3	10 m³
@@ -20,6 +20,7 @@
 150m2	150 m²
 15jarige	15-jarige
 15m2	15 m²
+15plussers	15-plussers;15+'ers
 16jarige	16-jarige
 16m2	16 m²
 16-metergebied	16 metergebied
@@ -130,6 +131,7 @@
 400m2	400 m²
 40+ers	40+'ers
 40m2	40 m²
+45plussers	45-plussers;45+'ers
 49km	49 km
 4-cilinider	4-cilinder
 4cm	4 cm
@@ -151,14 +153,17 @@
 50+er	50+'er
 50+-ers	50+'ers
 50+ers	50+'ers
-50 km-zone	50kn-zone
+50 km-zone	50km-zone
 50m2	50 m²
 50-meter	50 meter
 50meter	50 meter
 50-meterbad	50 meterbad
+50plusser	50-plusser;50+'er
+50plussers	50-plussers;50+'ers
 55+-er	55+'er
 55+-ers	55+'ers
 55+ers	55+'ers
+55plussers	55-plussers;55+'ers
 5cm	5 cm
 5jarigen	5-jarigen
 5kg	5 kg
@@ -187,9 +192,9 @@
 65+ kaart	65+-kaart
 65+ kaarten	65+-kaarten
 65m2	65 m²
-65’plusser	65-plusser
+65’plusser	65-plusser;65+'er
 65plusser	65-plusser;65+'er
-65’plussers	65-plussers
+65’plussers	65-plussers;65+'ers
 65plussers	65-plussers;65+'ers
 6-cilinider	6-cilinder
 6cm	6 cm
@@ -209,6 +214,7 @@
 75+ers	75+'ers
 75km	75 km
 75m2	75 m²
+75plussers	75-plussers;75+'ers
 7-7-bereikbaarheid	7/7-bereikbaarheid
 7cm	7 cm
 7kg	7 kg
@@ -465,7 +471,6 @@ aanmoddeerdert
 aanmoedigert	
 aanmoesten	aan moesten
 aanmoet	aan moet
-aanmoeten	aan moeten
 aanmoetert	
 aanmonsteerdert	
 aanmuntert	
@@ -1741,7 +1746,9 @@ backert
 backpackert	
 back-uppert	
 backups	back-ups
+bacoven	bacoves
 bacovenwinkel	bacovewinkel
+bacovenwinkels	bacovewinkels
 baddeerdert	
 badert	
 badineerdert	
@@ -2712,6 +2719,7 @@ bloemert
 bloemlezert	
 bloemschikkert	
 bloesemert	
+bloetoet	bluetooth
 bloezert	
 bloggert	
 blokkeerdert	
@@ -3020,7 +3028,6 @@ BTW-vrijstelling	btw-vrijstelling;Btw-vrijstelling
 BTW-vrijstellingen	btw-vrijstellingen;Btw-vrijstellingen
 BTW-wetgeving	btw-wetgeving
 bubbelert	
-bubs	bups
 budgetteerdert	
 buffeerdert	
 buffelert	
@@ -3217,6 +3224,7 @@ chromeerdert
 chronometreerdert	
 Churchillaan	Churchilllaan
 cijfeerdert	
+cijferig	
 cijferige	
 cilinidervormig	cilindervormig
 circuleerdert	
@@ -3297,7 +3305,10 @@ collationeerdert
 collecteerdert	
 collectioneerdert	
 collectiviseerdert	
-collectors item	
+collectoritem	collector's item
+collectors item	collector's item
+collectors-item	collector's item
+collectorsitem	collector's item
 collega`s	collega's
 college's	colleges
 collet	kollet
@@ -5917,6 +5928,7 @@ gezorgdt	gezorgd
 gezorgt	gezorgd
 gezuivert	gezuiverd
 gezwaait	gezwaaid
+GGD's	GGD'en
 gidsert	
 giebelert	
 giechelert	
@@ -10503,7 +10515,7 @@ overpotert
 overpratert	
 overprikkelert	
 overreageerdert	
-overreageerd	overreageert
+overreageerd	overreageert;overgereageerd
 overredert	
 overreikert	
 overrijdert	
@@ -10814,6 +10826,7 @@ phytophtora	phytophthora;fytoftora
 Phytophtora	phytophthora;fytoftora
 pianospelert	
 picknickert	
+pictograms	pictogrammen
 pie`ce	pièce
 pie`ces	pièce
 pieerdert	
@@ -10948,7 +10961,6 @@ plukhaardert
 plukkert	
 plumeau's	plumeaus
 plundeerdert	
-plussert	
 pocheerdert	
 pochert	
 poedeerdert	
@@ -11003,7 +11015,7 @@ politieen	politie en
 politie-functionarissen	politiefunctionarissen
 politiehelicopter	politiehelikopter
 politiehelicopters	politiehelikopters
-politiek-correcten	
+politiek-correcten	politiek correcten
 politiek-correcte	politiek correcte
 politiekcorrecte	politiek correcte
 politiek-correct	politiek correct
@@ -11056,6 +11068,7 @@ portemonee	portemonnee
 portomonee	portemonnee
 portomonnee	portemonnee
 portretteerdert	
+porum	porem
 poseerdert	
 positioneerdert	
 postdateerdert	
@@ -12397,6 +12410,7 @@ simplificeerdert
 simuleerdert	
 singelert	
 sin	in
+Sint-	
 sint-bernardhonden	sint-bernardshonden
 sint-bernardhondje	sint-bernardshondje
 sint-bernardhondjes	sint-bernardshondjes
@@ -12406,7 +12420,6 @@ sint-bernhardhondje	sint-bernardshondje
 sint-bernhardhondjes	sint-bernardshondje
 sint-bernhardhond	sint-bernardshond
 sinteerdert	
-Sint-	Sint-Maarten;Sint Maarten;Sint-Niklaas;Sint-Willibrorduskerk
 sissert	
 situeerdert	
 sjabloneerdert	
@@ -12596,6 +12609,7 @@ snuisteerdert
 snuitert	
 snuivert	
 snurkert	
+Sobibor	Sobibór
 sociaal-economi-	
 sociaalethische	sociaal-ethische
 sociaalethisch	sociaal-ethisch
@@ -14349,6 +14363,7 @@ ukkies	ukjes
 ulcussen	ulcera
 UML-klassediagrammen	UML-klassendiagrammen
 UML-klassediagram	UML-klassendiagram
+Unesco	UNESCO
 UNESCO	Unesco
 UNICEF	Unicef
 unieerdert	
@@ -14517,6 +14532,7 @@ veeltoegepaste	veel toegepaste
 veende	
 veenden	
 veerdert	
+veertig-plussers	veertigplussers
 veestert	
 vegert	
 vegeteerdert	
@@ -14977,8 +14993,9 @@ vermurwert
 vernaaiert	
 vernachelert	
 vernachtert	
-vernagelert	
-vernaggelert	
+vernaggeld	vernacheld
+vernaggelen	vernachelen
+vernaggelt	vernachelt
 vernauwert	
 vernedeerdert	
 vernederlandsert	
@@ -15467,6 +15484,7 @@ vigileerdert
 vij	bij
 vijfen	vijven
 vijfsterren	vijf sterren
+vijftig-plussers	vijftigplussers
 vijftraps	
 vijlert	
 vijzelert	
@@ -16323,6 +16341,7 @@ wisselert
 wissert	
 wittert	
 witwassert	
+WMO-loket	Wmo-loket
 Wob-ambtenaren	WOB-ambtenaren
 Wob-informatie	WOB-informatie
 Wob-procedure	WOB-procedure
@@ -16417,8 +16436,10 @@ zaakske	zaakje
 zabbeerdert	
 zabbelert	
 zadelert	
-zagert	
-zakdoekje-leggen	zakdoekjeleggen
+zagert	zager
+zakdoekje-leggen	zakdoekje leggen
+zakdoekjeleggen	zakdoekje leggen
+zakdoekleggen	zakdoek leggen
 zakkenvullert	
 zakkert	
 zakskes	zakjes
@@ -16532,11 +16553,11 @@ z`n	z'n
 zodadelijk	zo dadelijk
 zodan	zoals
 zoekbrengert	
-zoekert	
+zoekert	zoeker
 zoekmakert	
 zoekrakert	
-zoemert	
-zoenert	
+zoemert	zoemer
+zoenert	zoener
 zoetert	
 zoetvijlert	
 zoëven	zo-even
@@ -16598,8 +16619,8 @@ Zò	Zó
 zuchtert	
 -zuid	
 zuidelijkert	
-zuigert	
-zuipert	
+zuigert	zuiger
+zuipert	zuiper
 zuiveerdert	
 zullert	
 Zululand	Zoeloeland
@@ -16623,7 +16644,7 @@ zwartwerkert
 zwatelert	
 zwavelert	
 zwedert	
-zweefvliegert	
+zweefvliegert	zweefvlieger
 zweerdert	
 zweers	Zweers;zwerend
 zwelden	zwollen
@@ -16632,20 +16653,20 @@ zwelert
 zwelgert	
 zwellert	
 zwemert	
-zwemmert	
+zwemmert	zwemmer
 zwendelert	
 zwengelert	
 zwenkert	
 zwepert	
 zwermert	
 zwermpjess	zwermpjes
-zwervert	
+zwervert	zwerver
 zwetert	
 zwetsert	
-zwevert	
+zwevert	zwever
 zwichtert	
 zwieerdert	
-zwiepert	
+zwiepert	zwieper
 zwijgert	
 zwijmelert	
 zwijmert	
