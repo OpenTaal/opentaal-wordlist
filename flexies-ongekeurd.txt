@@ -1,6 +1,7 @@
 06-dealers
 06-nummers
 0900-nummers
+0-jarigen
 100+'ers
 100-jarigen
 100-plussers
@@ -39,8 +40,13 @@
 19-jarigen
 1-jarigen
 20 eurobiljetten
+20-jarigen
 20 kilometergebieden
+21-jarigen
 21 julivieringen
+22-jarigen
+23-jarigen
+24-jarigen
 24 uursdiensten
 24 uursprocedures
 24 uursstakingen
@@ -49,32 +55,51 @@
 24 uursvoorzieningen
 25-jarigen
 25 meterbaden
+26-jarigen
 27MC'ers
+29-jarigen
 2-cijferige
 2CV's
+2-jarigen
 30+'ers
+30-jarigen
 30 kilometergebieden
+30km-zones
 30-plussers
+34-jarigen
 35+'ers
+35-jarigen
 35-plussers
+39-jarigen
 3-cijferige
 3D-printers
 3D-printertje
 3D-printertjes
 3D-scans
 3D-visualisaties
+3-jarigen
+40-jarigen
 40-plussers
 40-urige
+44-jarigen
+45-jarigen
 45-plussers
+49-jarigen
 4-cijferige
+4-jarigen
 50+'ers
 50 eurobiljetten
+50-jarigen
 50km-zones
 50 meterbaden
 50-plussers
 50PLUS-stemmers
+54-jarigen
+55-jarigen
 55-plussers
 55+-woningen
+58-jarigen
+59-jarigen
 5-cijferige
 5 eurobiljetten
 5G-masten
@@ -89,14 +114,17 @@
 65e
 65+'ers
 65-jarigen
+65+-kaarten
 65-plussers
 6-cijferige
 6-jarigen
 70+'ers
 70-jarigen
 70-plussers
+74-jarigen
 75e
 75+'ers
+75-jarigen
 75-plussers
 79-jarigen
 7-jarigen
@@ -2930,6 +2958,9 @@ achtende
 achtender
 achtenswaardige
 achtenswaardiger
+achtentwintigjarigen
+achtenvijftigjarigen
+achtenzestigjarige
 achteraangekomen
 achteraankomt
 achteraankwam
@@ -3045,7 +3076,6 @@ achterhoeden
 achterhoedes
 achterhoedespelers
 achterhoeken
-Achterhoekse
 achterhoofden
 achterhoud
 achterhoudende
@@ -3064,7 +3094,6 @@ achterkleinzonen
 achterkleinzoons
 achterkleppen
 achterklinkers
-achterkom
 achterkomt
 achterkozijnen
 achterkwabben
@@ -7471,7 +7500,6 @@ alkaliserend
 alkaliserende
 alken
 Alkmaarders
-Alkmaarse
 alkoven
 Allans
 Allards
@@ -7652,7 +7680,6 @@ alpenweiden
 alpenweides
 Alpha's
 Alphenaartje
-Alphense
 Alphons'
 Alphonsus'
 alpiene
@@ -7797,6 +7824,7 @@ amateurfilms
 amateurfotografen
 amateurgezelschappen
 amateuristische
+amateuristischer
 amateurkoks
 amateurkoren
 amateurkunsten
@@ -7939,9 +7967,7 @@ amerikanismen
 amerikanisten
 Amerika's
 A-merken
-Amerongense
 Amers
-Amersfoortse
 ameublementen
 amfetaminen
 amfetaminepillen
@@ -8016,7 +8042,6 @@ amputeerden
 amputeert
 Amro's
 Amrs
-Amstelveense
 Amsterdammers
 Amsterdammertje
 Amsterdammertjes
@@ -8126,7 +8151,6 @@ anderdaagse
 anderhalfverdieners
 anderhalve
 Anderlechtenaren
-Anderlechtse
 Anderlechtsupporters
 Anders'
 andersdenkenden
@@ -8729,7 +8753,6 @@ apathische
 apathischer
 apatriden
 Apeldoorners
-Apeldoornse
 apen
 apenbroodbomen
 apengezichten
@@ -9237,7 +9260,6 @@ arenden
 Arendina's
 Arend-Jans
 Arendjes
-Arendonkse
 arendsblikken
 arendsjongen
 arendsnesten
@@ -9708,7 +9730,6 @@ asregens
 asresten
 assagaaien
 assegaaien
-Asseltse
 assemblagefabrieken
 assemblagehallen
 assemblagelijnen
@@ -11633,7 +11654,7 @@ barema's
 barend
 barende
 barenden
-Barendrechtse
+Barendrechters
 baretemblemen
 baretje
 baretjes
@@ -11665,7 +11686,6 @@ barmhartigere
 barmhartigheden
 barmhartigste
 barnevelders
-Barneveldse
 barnumachtige
 barografen
 barokcomponisten
@@ -12803,7 +12823,6 @@ beekforellen
 beekje
 beekjes
 beeklopen
-Beekse
 beekvalleien
 beekvalleitjes
 beeldanalyses
@@ -13596,7 +13615,6 @@ beiert
 beigeachtige
 beignetje
 beignets
-Beijumer
 Beijumers
 beijver
 beijverd
@@ -13782,6 +13800,7 @@ beklagende
 beklagenswaarde
 beklagenswaardige
 beklagenswaardiger
+beklagenswaards
 beklante
 beklap
 beklappers
@@ -14565,6 +14584,7 @@ Belles
 belletjes
 bellettristen
 bellettristische
+beloega's
 beloer
 beloerd
 beloerde
@@ -18348,7 +18368,6 @@ bijgeschoven
 bijgeschreven
 bijgeslapen
 bijgesleept
-bijgesleepte
 bijgeslepen
 bijgesneden
 bijgespeeld
@@ -18409,7 +18428,6 @@ bijhielden
 bijholten
 bijholteontstekingen
 bijholtes
-bijhoor
 bijhoort
 bijhorend
 bijhorende
@@ -21616,6 +21634,7 @@ bosmieren
 bosmiertje
 bosmuizen
 bosnegergemeenschappen
+Bosnegers
 Bosniërs
 bosnimfen
 bosonen
@@ -24966,6 +24985,7 @@ centrumdemocraten
 centrumfuncties
 centrumgebieden
 centrumgemeenten
+centrumgemeentes
 centrumlinkse
 centrumpartijen
 centrumplannen
@@ -25908,6 +25928,7 @@ clusterde
 clusterden
 clusterfouten
 clustergemeenten
+clustergemeentes
 clusterhoofdpijnen
 clusterknooppunten
 clustermanagers
@@ -30542,7 +30563,7 @@ dertienen
 dertienjarigen
 dertienkoppige
 dertigers
-dertigjarige
+dertigjarigen
 dertigkilometerborden
 dertigplussers
 dertigtallen
@@ -35014,10 +35035,10 @@ driedraadse
 driedubbele
 drieduizendste
 drieën
-drieëndertigjarige
 drieënhalve
 drie-enige
-drieëntwintigjarige
+drieëntwintigjarigen
+drieënzestigjarigen
 driefasesystemen
 drieg
 driegangenmenu's
@@ -36706,7 +36727,7 @@ eendvogels
 eeneiige
 eenendertigde
 eenentwintigde
-eenentwintigjarige
+eenentwintigjarigen
 eengezinshuizen
 eengezinswoningen
 eenhandige
@@ -36726,7 +36747,8 @@ eenhoorns
 eenhorens
 eenhuizige
 eenieders
-eenjarige
+eenjarigen
+éénjarigen
 eenkamerappartementje
 eenkamerwoningen
 eenkamerwoninkje
@@ -37239,6 +37261,8 @@ eilandenstaatje
 eilandenstaten
 eilanders
 eilandgebieden
+eilandgemeenten
+eilandgemeentes
 eilandje
 eilandjes
 eilandrepublieken
@@ -37270,7 +37294,6 @@ einddoelen
 einddoelstellingen
 eindejaarsfeesten
 eindejaarspremies
-eindelijke
 eindeloopbaanregelingen
 eindeloze
 eindereeksen
@@ -39829,6 +39852,8 @@ faciliteerde
 faciliteert
 faciliteitengemeenten
 faciliteitengemeentes
+faciliteitsgemeenten
+faciliteitsgemeentes
 faciliterende
 facits
 facsimileetje
@@ -40449,6 +40474,7 @@ Femmies
 Femmy's
 Fems
 f'en
+fenakistiscopen
 Fenders
 Feniciërs
 feniksen
@@ -41972,6 +41998,7 @@ forelletjes
 foren
 forensden
 forensengemeenten
+forensengemeentes
 forensentreinen
 forensische
 forenst
@@ -42960,6 +42987,7 @@ fuserende
 fusieberichten
 fusiebewegingen
 fusiegemeenten
+fusiegemeentes
 fusiegeruchten
 fusiegesprekken
 fusiegolven
@@ -50409,8 +50437,6 @@ gerestaureerden
 geresteerd
 gerestitueerd
 gerestitueerde
-gerestoreerd
-gerestoreerde
 gerestyled
 geresulteerd
 geresulteerde
@@ -54872,8 +54898,11 @@ grafiekbladen
 grafieken
 grafiekje
 grafiekjes
+grafietblokken
 grafietpotloden
 grafietreactoren
+grafietregens
+grafietstaafje
 grafische
 grafischer
 grafjes
@@ -55411,6 +55440,8 @@ grijsrijders
 grijst
 grijstinten
 grijswaarden
+grijswatercircuits
+grijswatersystemen
 grijswitte
 grijs-witte
 grijszwarte
@@ -60732,7 +60763,6 @@ hoofdleveranciers
 hoofdlieden
 hoofdliggers
 hoofdlocaties
-hoofdloze
 hoofdluizen
 hoofdmaaltijden
 hoofdmannen
@@ -61524,6 +61554,8 @@ h's
 hst's
 h'tje
 h'tjes
+HTML-bestanden
+HTML-pagina's
 hts'ers
 Hubertina's
 Huberts
@@ -61644,6 +61676,7 @@ huisartsenkringen
 huisartsenposten
 huisartsenpraktijken
 huisartspraktijken
+huisartsverwijzingen
 huisbanken
 huisbankiers
 huisbarretje
@@ -62442,6 +62475,7 @@ iatrosofen
 i-bankierde
 Ibans
 Iberiërs
+IB'ers
 ibissen
 IBM's
 Ibrahims
@@ -62458,17 +62492,97 @@ iconografische
 iconologische
 icoontjes
 ic's
+ICT-aanbieders
+ICT-aanpassingen
+ICT-activiteiten
 ICT-afdelingen
+ICT-ambities
+ICT-applicaties
+ICT-aspecten
+ICT-basisvaardigheden
 ICT-bedrijven
+ICT-beheerders
+ICT-budgetten
+ICT-clusters
+ICT-coaches
+ICT-competenties
+ICT-componenten
+ICT-concepten
+ICT-contracten
+ICT-coördinatoren
+ICT-cursussen
+ICT-deskundigen
+ICT-diensten
+ICT-dienstverleners
+ICT-doelen
 ict'ers
 ICT'ers
+ICT-experts
+ICT-faciliteiten
+ICT-functies
+ICT-gelden
+ICT-gemeenten
+ICT-gerelateerde
 ICT-hulpmiddelen
+ICT-incidenten
+ICT-infrastructuren
+ICT-initiatieven
+ICT-innovaties
+ICT-instrumenten
+ICT-investeringen
+ICT-kansen
+ICT-leermiddelen
+ICT-leveranciers
+ICT-maatregelen
+ICT-managers
+ICT-medewerkers
+ICT-mensen
+ICT-methoden
+ICT-middelen
+ICT-mogelijkheden
+ICT-netwerken
+ICT-octrooien
+ICT-omgevingen
+ICT-ondernemers
+ICT-ondernemingen
+ICT-ondersteunde
+ICT-onderzoekers
+ICT-ontwikkelingen
+ICT-opdrachten
+ICT-opleidingen
+ICT-oplossingen
+ICT-organisaties
+ICT-pioniers
+ICT-plannen
+ICT-problemen
+ICT-processen
+ICT-producten
+ICT-professionals
+ICT-programma's
 ICT-projecten
+ICT-rijke
+ICT-services
+ICT-specialisten
+ICT-standaarden
+ICT-starters
+ICT-stelsels
+ICT-studenten
 ICT-systemen
+ICT-taken
+ICT-technieken
+ICT-technologieën
 ICT-toepassingen
+ICT-tools
+ICT-trajecten
 ICT-trends
+ICT-uitgaven
+ICT-vaardigheden
 ICT-vacatures
 ICT-voorzieningen
+ICT-vormen
+ICT-vraagstukken
+ICT-werkplekken
+ICT-zaken
 ic-verpleegkundigen
 Ida's
 id-banen
@@ -67931,6 +68045,7 @@ jongleerders
 jongleert
 jongleurs
 jongmaatjes
+jongmeerderjarigen
 jongs
 jongsten
 jongt
@@ -70984,6 +71099,7 @@ keukenraampje
 keukenraampjes
 keukenramen
 keukenrobots
+keukenrobotten
 keukenrollen
 keukens
 keukenspullen
@@ -73053,6 +73169,7 @@ kloostergebouwen
 kloostergeloften
 kloostergemeenschappen
 kloostergemeenten
+kloostergemeentes
 kloostergewaden
 kloostergewelven
 kloosterkapellen
@@ -77050,6 +77167,7 @@ kwakkelend
 kwakkelende
 kwakkelige
 kwakkeliger
+kwakkelkleuters
 kwakkels
 kwakkelt
 kwakkeltje
@@ -78503,6 +78621,7 @@ laspistolen
 lasplaten
 lasprocessen
 lasrobots
+lasrobotten
 lasrupsen
 lassend
 lassende
@@ -78561,8 +78680,6 @@ lastminuteaanbiedingen
 lastminutereizen
 lastpakken
 lastposten
-lastte
-lastten
 lastvrije
 lastwagens
 lasverbindingen
@@ -79156,6 +79273,16 @@ leervakken
 leervergunningen
 leervragen
 leerwegen
+leer-werkbanen
+leerwerkbedrijven
+leer-werkbedrijven
+leer-werkloketten
+leerwerkplaatsen
+leer-werkplaatsen
+leer-werkplekken
+leerwerkprojecten
+leer-werkprojecten
+leer-werkstages
 leer-werktrajecten
 leerwijzen
 leerzaamst
@@ -81997,6 +82124,7 @@ looprekje
 looprekjes
 looprekken
 looprobots
+looprobotten
 looprondes
 looprondje
 looprondjes
@@ -86240,6 +86368,7 @@ melkrechten
 melkrepen
 melkrijders
 melkrobots
+melkrobotten
 melksalons
 melkslijters
 melkspijzen
@@ -90106,6 +90235,7 @@ muziekprojecten
 muziekrecensenten
 muziekrecensies
 muziekrobots
+muziekrobotten
 muzieksalons
 muziekscènes
 muziekscholen
@@ -90348,11 +90478,14 @@ nabewerkingen
 nabewerkt
 nabije
 nabijer
+nabijere
 nabijgekomen
 nabijkomend
 nabijkomende
 nabijkomt
 nabijkwam
+nabijst
+nabijste
 Nabils
 nableef
 nableven
@@ -91741,8 +91874,12 @@ negendaagse
 negende-eeuwse
 negendelige
 negenden
-negenendertigjarige
-negenentwintigjarige
+negenendertigjarigen
+negenentachtigjarige
+negenentwintigjarigen
+negenenveertigjarigen
+negenenvijftigjarigen
+negenenzeventigjarigen
 negenjarigen
 negenkoppige
 negenmaands
@@ -91753,7 +91890,6 @@ negentiende-eeuwers
 negentiende-eeuwse
 negentienjarigen
 negentigers
-negentigjarige
 negentigtallen
 negentje
 negentjes
@@ -92804,6 +92940,7 @@ nikkeltje
 nikkeltjes
 nikkelvrije
 nikkers
+nikkertje
 nikkertjes
 Nikkies
 Nikki's
@@ -93372,6 +93509,7 @@ nukkiger
 nukkigste
 nulhypothesen
 nulhypotheses
+nuljarigen
 nullen
 nulletje
 nulletjes
@@ -93846,6 +93984,8 @@ oeuvres
 oeverbegroeiingen
 oeverbeschermingen
 oeverbeschoeiingen
+oevergemeenten
+oevergemeentes
 oeverkanten
 oeverlopers
 oeverloze
@@ -96119,6 +96259,7 @@ onderwatermicrofoons
 onderwateropnamen
 onderwateropnames
 onderwaterrobots
+onderwaterrobotten
 onderwaterschepen
 onderwatertunnels
 onderwaterzettingen
@@ -99554,8 +99695,6 @@ opborrelde
 opborrelden
 opborrelende
 opborrelt
-opbotst
-opbotste
 opbouwde
 opbouwden
 opbouwend
@@ -100045,6 +100184,7 @@ operatielittekens
 operatiepatiënten
 operatieplannen
 operatierobots
+operatierobotten
 operaties
 operatietafels
 operatietechnieken
@@ -101196,6 +101336,7 @@ oppaskindje
 oppaskindjes
 oppasmoeders
 oppasrobots
+oppasrobotten
 oppassende
 oppassender
 oppasseressen
@@ -110129,6 +110270,7 @@ pratter
 prauwen
 prauwtje
 prauwtjes
+praxinoscopen
 pr-bureaus
 preadviezen
 preadviseerde
@@ -111314,6 +111456,7 @@ proefflesjes
 proefgebieden
 proefgedraaid
 proefgemeenten
+proefgemeentes
 proefgereden
 proefgevaren
 proefgroepen
@@ -114796,7 +114939,12 @@ regentschapsraden
 regenvallen
 regenverzekeringen
 regenvlagen
+regenwaterafvoeren
+regenwaterafvoerpijpen
+regenwatercircuits
 regenwaterputten
+regenwaterriolen
+regenwatersystemen
 regenwolken
 regenwormen
 regenwouden
@@ -114908,6 +115056,7 @@ regiocoördinatoren
 regiodirecteuren
 regiofondsen
 regiogemeenten
+regiogemeentes
 regiogrenzen
 regio-indelingen
 regiokantoren
@@ -117025,6 +117174,7 @@ rioolsystemen
 riooltje
 riooltjes
 rioolwaterzuiveringen
+rioolwaterzuiveringsinstallatielocaties
 rioolwaterzuiveringsinstallaties
 rioolzuiveringsinstallaties
 Rio's
@@ -123141,6 +123291,7 @@ seksorgies
 sekspartners
 sekspoppen
 seksrobots
+seksrobotten
 seksscènes
 seksschandalen
 seksshops
@@ -126981,6 +127132,7 @@ spamfilters
 spammails
 spammers
 spamrobots
+spamrobotten
 spanaders
 spanbanden
 spanbandje
@@ -130938,6 +131090,7 @@ stofstormen
 stoft
 stofte
 stoften
+stofuitstoten
 stofvrije
 stofwisselingsprocessen
 stofwisselingsstoornissen
@@ -133734,6 +133887,8 @@ taalgevoelige
 taalgidsen
 taalgrapjes
 taalgrappen
+taalgrensgemeenten
+taalgrensgemeentes
 taalgrenzen
 taalgroepen
 taalhandelingen
@@ -136426,6 +136581,7 @@ testritje
 testritjes
 testritten
 testrobots
+testrobotten
 testruimten
 testruimtes
 testscores
@@ -136555,6 +136711,7 @@ Thailandse
 Thalia's
 thallusplanten
 Thamars
+thaumatropen
 Thea's
 theateraffiches
 theaterartiesten
@@ -140477,6 +140634,8 @@ tsarevitsjen
 tsarina's
 tsaristische
 tseetseevliegen
+T-shirtje
+T-shirtjes
 T-shirts
 Tsjaadse
 Tsjadische
@@ -141080,10 +141239,10 @@ tweedrachtige
 tweedranken
 twee-eiige
 tweeën
-tweeëndertigjarige
 tweeënhalve
-tweeëntwintigjarige
+tweeëntwintigjarigen
 tweeënveertigste
+tweeënzestigjarigen
 twee-eurostukken
 tweefasestructuren
 tweefasige
@@ -145213,6 +145372,7 @@ vechtpartijtjes
 vechtpetje
 vechtpetten
 vechtrobots
+vechtrobotten
 vechtscheidingen
 vechtspelletjes
 vechtsporten
@@ -145419,7 +145579,7 @@ veertiende-eeuwse
 veertienen
 veertienjarigen
 veertigers
-veertigjarige
+veertigjarigen
 veertigplussers
 veertigtallen
 veertigurenweken
@@ -149353,6 +149513,8 @@ verregenden
 verregent
 verreik
 verreikende
+verreikends
+verreikers
 verreikt
 verreikte
 verreikten
@@ -151954,10 +152116,14 @@ vierende
 vierendeelde
 vierendeelden
 vierendeelt
+vierendertigjarigen
 vierenhalve
-vierentwintigjarige
+vierentwintigjarigen
 vierentwintiguurs
-vierenveertigjarige
+vierenveertigjarigen
+vierenvijftigjarigen
+vierenzestigjarigen
+vierenzeventigjarigen
 viergangenmenu's
 vierhandige
 vierhoeken
@@ -152069,18 +152235,21 @@ vijfdegeneratietalen
 vijfdelige
 vijfden
 vijfdes
+vijfendertigjarigen
 vijfendertigplussers
 vijfenhalve
 vijfentachtigplussers
 vijfentachtigste
-vijfentwintigjarige
+vijfentwintigjarigen
 vijfenveertigjarigen
 vijfenveertigplussers
 vijfenveertigste
+vijfenvijftigjarigen
 vijfenvijftigplussers
 vijfenvijftigste
+vijfenzestigjarigen
 vijfenzestigplussers
-vijfenzeventigjarige
+vijfenzeventigjarigen
 vijfenzeventigplussers
 vijfeurobiljetten
 vijffrankstukken
@@ -152109,9 +152278,10 @@ vijftiende-eeuwse
 vijftienen
 vijftienjarigen
 vijftienkoppige
+vijftienplussers
 vijftigers
 vijftigeurobiljetten
-vijftigjarige
+vijftigjarigen
 vijftigplussers
 vijftigtallen
 vijfvingerige
@@ -159244,7 +159414,6 @@ weghaalt
 weghad
 weghang
 weghangt
-wegheeft
 weghelften
 weghelpt
 weghing
@@ -162175,6 +162344,8 @@ woongedeelten
 woongedeeltes
 woongelegenheden
 woongemeenschappen
+woongemeenten
+woongemeentes
 woongroepen
 woonhuisje
 woonhuisjes
@@ -164001,7 +164172,7 @@ zesdeklassers
 zesdelige
 zesden
 zesdes
-zesentwintigjarige
+zesentwintigjarigen
 zeshoeken
 zeshoekige
 zeshoekjes
@@ -164022,7 +164193,7 @@ zestienkoppige
 zestienkwadraten
 zestienplussers
 zestigers
-zestigjarige
+zestigjarigen
 zestigpluskaarten
 zestigplussers
 zestigtallen
@@ -164094,6 +164265,7 @@ zevendaagse
 zevendelige
 zevenden
 zevendes
+zevenentwintigjarigen
 zevenhoeken
 zevenhoekige
 zevenjarigen
@@ -164111,6 +164283,7 @@ zeventiende-eeuwse
 zeventienjarigen
 zeventienplussers
 zeventigers
+zeventigjarigen
 zeventigplussers
 zeventigtallen
 zeventje
@@ -165158,6 +165331,7 @@ zoorder
 zoorst
 zoos
 zootjes
+zoötropen
 Z-opleidingen
 Zorans
 Zora's

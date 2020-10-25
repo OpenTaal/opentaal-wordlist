@@ -114,6 +114,7 @@
 30-kilometergebied	30 kilometergebied
 30-kilometergebieden	30 kilometergebieden
 30-km-zone	30km-zone
+30-km-zones	30km-zones
 30m2	30 m²
 35m2	35 m²
 3cm	3 cm
@@ -707,10 +708,8 @@ acellereren	accelereren
 acepteren	accepteren
 achenebisj	achenebbisj
 achenibbisj	achenebbisj
-achteraangaart	
-achteraankomert	
-achteraanlopert	
-achteraanzittert	
+achteraangaan	achteraan gaan
+achteraanzitten	achteraan zitten
 achterafplaatsert	
 achterblijvert	
 achterdenkert	
@@ -719,6 +718,7 @@ achtergezet	achter gezet
 achterhalert	
 achterhoudert	
 achterklappert	
+achterkom	achter kom
 achterkomen	achter komen
 achterlappert	
 achterlatert	
@@ -1277,6 +1277,7 @@ afspringert
 afspuitert	
 afstammert	
 afstampert	
+afstandsvervoer	langeafstandsvervoer
 afstappert	
 afstekert	
 afstekkert	
@@ -1663,6 +1664,7 @@ Atjees	Atjehs
 Atjeese	Atjehse
 Atjese	Atjehse
 atomiseerdert	
+atoompjess	atoompjes
 atrofieerdert	
 attache	attaché;attachee
 attached	bijgesloten
@@ -2048,6 +2050,7 @@ beleerdert
 belegeerdert	
 beleggert	
 beleidsniveau's	beleidsniveaus
+beleidswijzing	beleidswijziging
 belemmeerdert	
 belendert	
 belenert	
@@ -2200,6 +2203,7 @@ besefd	beseft
 beseffert	
 besjoemelert	
 beslaart	
+beslagneming	inbeslagneming
 beslapert	
 beslechtert	
 beslisd	beslist
@@ -2498,6 +2502,7 @@ bij-effect	bijeffect
 bij-effecten	bijeffecten
 bijgelegt	bijgelegd
 bijgeschaaft	bijgeschaafd
+bijgesleepte	erbij gesleepte
 bijgesteldt	bijgesteld
 bijgestelt	bijgesteld
 bijgevert	
@@ -2511,6 +2516,7 @@ bijgroeiert
 bijhalert	
 bijhangert	
 bijharkert	
+bijhoor	erbij hoor
 bijhoudert	
 Bijiage	Bijlage
 bijiagen	bijlagen
@@ -2717,8 +2723,10 @@ bloeiert
 bloemenstalen	
 bloemert	
 bloemlezert	
+bloempjess	bloempjes
 bloemschikkert	
 bloesemert	
+bloesempjess	bloesempjes
 bloetoet	bluetooth
 bloezert	
 bloggert	
@@ -2752,6 +2760,7 @@ bobbies	bobby's
 bobijnert	
 bobsleeërt	
 bodemert	
+bodempjess	bodempjes
 bodybuildert	
 boeerdert	
 boe-geroep	boegeroep
@@ -2769,6 +2778,7 @@ boetert
 boete's	boetes
 boetseerdert	
 boezemert	
+boezempjess	boezempjes
 boffert	
 bogert	
 bokjespringert	
@@ -2800,6 +2810,7 @@ boodschappert
 boodschappies	boodschapjes
 boogywoogy	boogiewoogie
 booi	boot;boei
+boompjess	boompjes
 boordert	
 boordroeiert	
 bootert	
@@ -2862,6 +2873,7 @@ brandschildeerdert
 brandstichtert	
 brandweercorps	brandweerkorps
 brandweercorpsen	brandweerkorpsen
+brasempjess	brasempjes
 brassert	
 braveerdert	
 breakdancert	
@@ -3192,7 +3204,9 @@ certificeerdert
 chambreerdert	
 changeerdert	
 chanteerdert	
+chapattimeel	chapatimeel
 chaperonneerdert	
+chappatimeel	chapatimeel
 chargeerdert	
 charmeerdert	
 charteerdert	
@@ -4219,8 +4233,13 @@ dreutelert
 drevelert	
 d`r	haar
 dribbelert	
+drieen	drieën
 drie-en-een-half	drie en een half
+drieeneenhalf	drie en een half
+drieeneenhalve	drie en een halve
+drieentwintig	drieëntwintig
 driegert	
+drie-jarige	driejarige
 driekwartier	drie kwartier
 driesterren-	drie-
 drietraps	
@@ -4250,6 +4269,7 @@ droogvallert
 droogwrijvert	
 droogzwemmert	
 droogzwieerdert	
+droompjess	droompjes
 dropouts	drop-outs
 droppelert	
 droppert	
@@ -4378,6 +4398,7 @@ eigend	eigen;eigent
 eigenert	
 eigengewin	eigen gewin
 eigenrisico	eigen risico
+eindelijke	eindelijk
 einderonde	eindronde
 eindert	
 eindigert	
@@ -4399,12 +4420,14 @@ electriciteitsprijs	elektriciteitsprijs
 electriciteitsverbruik	elektriciteitsverbruik
 electriciteitsvoorziening	elektriciteitsvoorziening
 electrische	elektrische
+electro-encefalogram	elektro-encefalogram
 elekra	elektra
 elektrificeerdert	
 elektriseerdert	
 elektrocuteerdert	
 elektrolyseerdert	
 Elen	Ellen
+elf-jarige	elfjarige
 elfstedenstad	Elfstedenstad
 elideerdert	
 elimineerdert	
@@ -5580,6 +5603,8 @@ gereserveert	gereserveerd
 geresolveert	geresolveerd
 gerespecteert	gerespecteerd
 gerestaureert	gerestaureerd
+gerestoreerde	gerestaureerde
+gerestoreerd	gerestaureerd
 geresulteert	geresulteerd
 geret	gered
 geretourneerdt	geretourneerd
@@ -6074,6 +6099,7 @@ grijnslachert
 grijnzert	
 grijpert	
 grijsrijdert	
+grijswater	grijs water
 grijzert	
 grilleerdert	
 grillert	
@@ -6154,6 +6180,7 @@ Halloween-feest	halloweenfeest
 halloween	Halloween
 Halloween-tocht	halloweentocht
 hallucineerdert	
+halmpjess	halmpjes
 halsteerdert	
 halucineer	hallucineer
 halucineert	hallucineert
@@ -6223,6 +6250,7 @@ headbangert
 headhuntert	
 hèbben	hébben
 hebbert	
+hechtenisneming	inhechtenisneming
 hechtert	
 heeeeeeeeeeeeeel	héél
 heeeeeeeeeeeeel	héél
@@ -6494,6 +6522,8 @@ honingraden	honingraten
 honkballert	
 honkert	
 honoreerdert	
+hoofdloos	hoofdeloos
+hoofdloze	hoofdeloze
 hoofdoekjes	hoofddoekjes
 hoofdrekenert	
 hoofdschuddert	
@@ -6532,6 +6562,15 @@ houwert
 hovenieerdert	
 howdo	houdoe
 hozert	
+htm	HTM
+html-bestanden	HTML-bestanden
+html-code	HTML-code
+html-editor	HTML-editor
+html	HTML
+Html	HTML
+html-pagina	HTML-pagina
+html-pagina's	HTML-pagina's
+html-versie	HTML-versie
 huib	Huib
 huichelert	
 huilebalkert	
@@ -8068,6 +8107,8 @@ lardeerdert
 lassert	
 lasteerdert	
 lastigvallert	
+lastte	gelastte
+lastten	gelastten
 latert	
 latiniseerdert	
 lattert	
@@ -8118,6 +8159,20 @@ leegzuigert
 leerdert	
 leerkrachtencorps	leerkrachtenkorps
 leerlingverpleegkundigen	leerling-verpleegkundigen
+leerwerkbaan	leer-werkbaan
+leerwerkbanen	leer-werkbanen
+leerwerkboek	leer-werkboek
+leerwerkloket	leer-werkloket
+leerwerkloketten	leer-werkloketten
+leerwerkovereenkomst	leer-werkovereenkomst
+leerwerkplan	leer-werkplan
+leerwerkplekbegeleider	leer-werkplekbegeleider
+leerwerkplekken	leer-werkplekken
+leerwerkplek	leer-werkplek
+leerwerkplicht	leer-werkplicht
+leerwerkrecht	leer-werkrecht
+leerwerkstages	leer-werkstages
+leerwerktrajecten	leer-werktrajecten
 leerwerktraject	leer-werktraject
 leewiekert	
 legaliseerdert	
@@ -8166,6 +8221,7 @@ levenbeschouwelijke	levensbeschouwelijke
 levencyclus	levenscyclus
 Levencyclus	Levenscyclus
 levensbeeindiging	levensbeëindiging
+levenswaard	levens waard
 leverd	levert
 leverpatienten	leverpatiënten
 leverpatient	leverpatiënt
@@ -8959,6 +9015,7 @@ muteerdert
 mutileerdert	
 mutske	mutsje
 muurbeschilderingen	muurschilderingen
+muurbloempjess	muurbloempjes
 muziekaal	muzikaal
 muziekcorpsen	muziekkorpsen
 muziekcorps	muziekkorps
@@ -9860,6 +9917,7 @@ oogskes	oogjes
 oogstert	
 óok	óók
 òòk	óók
+oompjess	oompjes
 oooooooh	óh
 Oooooooo	
 Oooooooooh	
@@ -9902,6 +9960,10 @@ opbomert
 opboordert	
 opborrelert	
 opborstelert	
+opbotsen	
+opbotst	
+opbotste	
+opbotsten	
 opbouwert	
 opbradert	
 opbrandert	
@@ -10780,6 +10842,7 @@ penselert
 pensioneerdert	
 pé	pee
 pepeerdert	
+peperboompjess	peperboom
 percipieerdert	
 percoleerdert	
 percuteerdert	
@@ -11147,6 +11210,7 @@ prevaleerdert
 prevelert	
 priegelert	
 priemert	
+priempjess	priempjes
 prijkert	
 prijsgevert	
 prijske	prijsje
@@ -11235,6 +11299,7 @@ pruilert
 pruimendant	pruimedant
 pruimen-eau-de-vie	pruimeneau-de-vie
 pruimert	
+pruimpjess	pruimpjes
 prularia	prullaria
 prutsert	
 pruttelert	
@@ -11702,6 +11767,7 @@ restaureerdert
 resteerdert	
 restert	
 restitueerdert	
+restoreren	restaureren
 restylert	
 resulteerdert	
 resumeerdert	
@@ -11989,6 +12055,7 @@ ruizelert
 rukkert	
 rummikub	Rummikub
 rumoeerdert	
+rundervlees	rundvlees
 runnert	
 russificeerdert	
 rustert	
@@ -12154,6 +12221,7 @@ scheidsrechteerdert
 scheldert	
 schelert	
 schellert	
+schelmpjess	schelmpjes
 schematiseerdert	
 schemeerdert	
 schendert	
@@ -12162,6 +12230,7 @@ schen	schenk;schend
 schepert	
 scheppert	
 schermert	
+schermpjess	schermpjes
 schermutselert	
 scherpert	
 scherpstellert	
@@ -12276,6 +12345,7 @@ schuilgaart
 schuilhoudert	
 schuimbekkert	
 schuimert	
+schuimpjess	schuimpjes
 schuinert	
 schuitjevaardert	
 schuivert	
@@ -12724,6 +12794,7 @@ spijtert
 spijzert	
 spijzigert	
 spikkelert	
+spilgemeeenten	spilgemeenten
 spilkoersert	
 spillert	
 spinnenrag	spinrag
@@ -12946,6 +13017,8 @@ strakkies	straks
 straktrekkert	
 stralert	
 strandert	
+strategieen	strategieën
+strategien	strategieën
 streakert	
 strekkert	
 strelert	
@@ -12959,6 +13032,7 @@ stretchert
 strevert	
 stribbelert	
 striemert	
+striempjess	striempjes
 strijdert	
 strijkert	
 strikkert	
@@ -12976,6 +13050,7 @@ strossert
 strubbelert	
 structureerdert	
 struikelert	
+struikwaard	Struikwaard
 struinert	
 studeerdert	
 studentenkorpsen	studentencorpsen
@@ -13076,6 +13151,7 @@ tai-chiërt
 tailleerdert	
 takelert	
 takert	
+takkenwijf	takkewijf
 takkert	
 talert	
 taliërt	
@@ -13394,6 +13470,7 @@ thuya's	thuja's
 tichelert	
 Ticketbox	TicketBox
 tieerdert	
+tien-jarige	tienjarige
 tiërceerdert	
 tierelieerdert	
 tie-wraps	tiewraps
@@ -13610,6 +13687,7 @@ tongert
 tongzoenert	
 tonnert	
 tooiert	
+toompjess	toompjes
 toonzettert	
 toornert	
 toostert	
@@ -13797,6 +13875,7 @@ tv-kijkert
 tv-programma`s	tv-programma's
 tw	
 twaalfeneenhalfjarig	
+twaalf-jarige	twaalfjarige
 twee-aderige	tweeaderige
 twee-aderig	tweeaderig
 twee-armige	tweearmige
@@ -13809,8 +13888,15 @@ Tweede Kamer-leden	Tweede Kamerleden
 Tweede-Kamer-leden	Tweede Kamerleden
 Tweedekamer	Tweede Kamer
 tweede-kansonderwijs	tweedekansonderwijs
+tweeendertig	tweeëndertig
 twee-en-een-half	twee en een half
+tweeeneenhalf	twee en een half
 tweeëneenhalf	tweeënhalf
+tweeeneenhalve	twee en een halve
+tweeenhalf	tweeënhalf
+tweeen	tweeën
+tweeentwintig	tweeëntwintig
+twee-jarige	tweejarige
 tweeliter	tweeliter-
 tweetraps	
 tweeverblijvers	tweedeverblijvers
@@ -15068,7 +15154,6 @@ verrassert
 verrechtsert	
 verrechtvaardigert	
 verregenert	
-verreikert	
 verreizert	
 verrekenert	
 verrekkert	
@@ -15483,6 +15568,7 @@ vigeerdert
 vigileerdert	
 vij	bij
 vijfen	vijven
+vijf-jarige	vijfjarige
 vijfsterren	vijf sterren
 vijftig-plussers	vijftigplussers
 vijftraps	
@@ -15820,6 +15906,7 @@ voorwendert
 voorwerkert	
 voorwerpert	
 voorzeggert	
+voorzetraampjess	voorzetraampjes
 voorzettert	
 voorzicht	voorzichtig
 voorziert	
@@ -15832,6 +15919,7 @@ voostel	voorstel
 vordeerdert	
 vormert	
 vormgevert	
+vormpjess	vormpjes
 vorsert	
 vos-cursussen	voscursussen
 vos-cursus	voscursus
@@ -15942,6 +16030,7 @@ wallebakkert
 wallert	
 wallonnes	Waals
 walmert	
+walmpjess	walmpjes
 walsert	
 wammert	
 wanboffert	
@@ -15980,6 +16069,7 @@ wateerdert
 watercypres	watercipres
 waterfietsert	
 watergolvert	
+waterleidingsnet	waterleidingnet
 waterpassert	
 waterskiërt	
 watertandert	
@@ -16086,6 +16176,7 @@ weghakkert
 weghalert	
 weghangert	
 weghebbert	
+wegheeft	weg heeft
 weghelpert	
 weghollert	
 weghonert	
@@ -16424,8 +16515,10 @@ yak	jak
 yakmest	jakmest
 yaks	jaks
 yankee-Engels	Yankee-Engels
+yan	yang;Yan
 yellert	
 ye	te
+ying	yin
 youtube	YouTube
 yvonne	Yvonne
 zaaaaaalig	zálig
@@ -16445,6 +16538,7 @@ zakkert
 zakskes	zakjes
 zakske	zakje
 zaligert	
+zalmpjess	zalmpjes
 zalvert	
 -zal	zal
 zamelert	
@@ -16471,6 +16565,7 @@ zeeëgeltje	zee-egeltje
 zeeëgel	zee-egel
 zééér	zéér
 zeefdrukkert	
+zeempjess	zeempjes
 zeepmerkert	
 zeergeëerde	zeer geëerde
 zeergeëerd	zeer geëerd
@@ -16512,6 +16607,7 @@ zeulert
 zeuurdert	
 zeveerdert	
 zeven-en-een-half	zeven en een half
+zeventien-jarige	zeventienjarige
 zeventraps	
 zichtert	
 ziedert	
@@ -16581,6 +16677,7 @@ zo`n	zo'n
 Zo`n	Zo'n
 zoodoende	zodoende
 zoomert	
+zoompjess	zoompjes
 zooöloog	zoöloog
 zoooooooooooo	zó
 zooooooooooo	zó
