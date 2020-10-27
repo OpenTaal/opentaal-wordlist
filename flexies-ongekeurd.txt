@@ -62,6 +62,7 @@
 2CV's
 2-jarigen
 30+'ers
+30+-fuiven
 30-jarigen
 30 kilometergebieden
 30km-zones
@@ -137,12 +138,14 @@
 8-vormige
 9-jarigen
 A1-locaties
+A3's
 A3'tje
 A3'tjes
 A4'tje
 A4'tjes
 A5'je
 A5'jes
+A5's
 Aads
 Aafjes
 Aafkes
@@ -358,6 +361,7 @@ aandachtstrekkers
 aandachtstrepen
 aandachtsvelden
 aandachttrekkende
+aandachttrekkendste
 aandachttrekkers
 aandaken
 aandam
@@ -551,8 +555,9 @@ aaneenhoudt
 aaneenkleeft
 aaneenklonk
 aaneenklonken
+aaneenknoop
 aaneenknoopt
-aaneenplakken
+aaneenplak
 aaneenplakt
 aaneenreeg
 aaneenregen
@@ -573,6 +578,7 @@ aaneensmeed
 aaneensmeedde
 aaneensmeedden
 aaneensmeedt
+aaneenvoeg
 aaneenvoegde
 aaneenvoegden
 aaneenzet
@@ -2514,6 +2520,7 @@ aardperen
 aardplaten
 aardplooien
 aardpolen
+aardrijken
 aardrijkskundeboeken
 aardrijkskundelessen
 aardrijkskundigen
@@ -2631,6 +2638,7 @@ abc-boekje
 abcessen
 abc's
 abc'tje
+abc'tjes
 Abdallahs
 Abdelaziz'
 Abdelkaders
@@ -3006,6 +3014,7 @@ achterbuurtkindje
 achterbuurtkindjes
 achterbuurvrouwen
 achterdekken
+achterdeklagen
 achterdelen
 achterdeuren
 achterdeurtje
@@ -3199,6 +3208,7 @@ achteroverleunend
 achteroverleunende
 achteroverligt
 achteroverslaat
+achteroversloeg
 achteroverval
 achterovervalt
 achteroverviel
@@ -4122,6 +4132,11 @@ afdekbare
 afdekkend
 afdekkende
 afdekkingen
+afdeklaagje
+afdeklaagjes
+afdeklagen
+afdeklatten
+afdeklijsten
 afdekplaten
 afdekt
 afdekte
@@ -5132,6 +5147,7 @@ afgietseldiertjes
 afgietsels
 afgiftekantoren
 afgiften
+afgifteprijzen
 afgiftes
 afging
 afgingen
@@ -5278,6 +5294,7 @@ afhuur
 afhuurde
 afhuurden
 afhuurt
+afigurale
 afjaag
 afjaagde
 afjaagt
@@ -5383,6 +5400,8 @@ afknabbelden
 afknabbelt
 afknakt
 afknakte
+afknal
+afknalt
 afknap
 afknappers
 afknapt
@@ -5629,8 +5648,12 @@ afmattende
 afmattender
 afmattendste
 afmattingen
+afmeer
 afmeerde
 afmeerden
+afmeerpalen
+afmeert
+afmeervoorzieningen
 afmeet
 afmeld
 afmeldde
@@ -6592,6 +6615,7 @@ aftuurde
 aftuurden
 aftuurt
 aftyp
+afunctionele
 afvaar
 afvaardig
 afvaardigde
@@ -7231,6 +7255,8 @@ ajuinbollen
 ajuinen
 ajuintje
 ajuintjes
+A-junioren
+A-juniors
 akanten
 akela's
 akeleien
@@ -7351,6 +7377,7 @@ Albinezen
 albino's
 Albions
 Alblasserdamse
+Alblasserwaardse
 Albrandswaardse
 albumbladen
 albumlijsten
@@ -7599,6 +7626,7 @@ allesoverkoepelende
 allesoverstijgende
 allesreinigers
 allesvernietigende
+allesvernietigendste
 allesverslindende
 allesverwoestende
 allesverzengende
@@ -8656,6 +8684,7 @@ antitrustwetten
 anti-Vietnamdemonstraties
 anti-Vietnamese
 antivirale
+antivirusbedrijven
 antivirusprogramma's
 antiwesterse
 antizionistische
@@ -8717,6 +8746,7 @@ antwoordmodellen
 antwoordmogelijkheden
 antwoordnummers
 antwoordt
+A-nummers
 anussen
 ANVR-reisbureaus
 Anwars
@@ -9379,6 +9409,8 @@ armleggers
 armlengten
 armlengtes
 armleuningen
+armleuninkje
+armleuninkjes
 armmeesters
 armoedecijfers
 armoedeprobleemcumulatiegebieden
@@ -9899,6 +9931,7 @@ atelierruimtes
 ateliers
 ateliertje
 atelierwoningen
+atemporele
 aten
 aterlingen
 Ates
@@ -14170,6 +14203,7 @@ belastingkwesties
 belastingmaatregelen
 belastingmeevallers
 belastingmiddelen
+belastingmisdrijven
 belastingniveaus
 belastingobjecten
 belastingontduikende
@@ -28784,6 +28818,8 @@ dagmarsen
 dagmaten
 dagmeisjes
 dagmenu's
+dagmenuutje
+dagmenuutjes
 dagmerken
 dagnummers
 dagopbrengsten
@@ -30565,6 +30601,7 @@ dertienkoppige
 dertigers
 dertigjarigen
 dertigkilometerborden
+dertigplusfuiven
 dertigplussers
 dertigtallen
 dertigvoudige
@@ -36722,7 +36759,9 @@ eendrachtige
 eendrachtiger
 eendrachtigere
 eenduidige
+éénduidige
 eenduidiger
+éénduidiger
 eendvogels
 eeneiige
 eenendertigde
@@ -37024,6 +37063,7 @@ effectueerde
 effectueerden
 effectueert
 effectvolle
+effectvoller
 effende
 effenden
 effendi's
@@ -37434,6 +37474,7 @@ eiseressen
 eisers
 Eises
 eist
+eistadia
 eiste
 eisten
 eitjes
@@ -38350,6 +38391,7 @@ epsilons
 EQ-testen
 equalizers
 equaties
+Equatoriaal-Guinese
 equatoriale
 equilibristen
 equinoctiale
@@ -40152,6 +40194,7 @@ fantasietjes
 fantasieverhaaltjes
 fantasieverhalen
 fantasievolle
+fantasievoller
 fantasiewerelden
 fantasiewereldje
 fantasmagorieën
@@ -49273,6 +49316,7 @@ genotsrechten
 genotuleerd
 genotuleerde
 genotvolle
+genotvoller
 genotypen
 genotypes
 genotypische
@@ -57634,6 +57678,7 @@ hardzeilers
 hare krisjna's
 harembroeken
 harems
+Harenkarspelse
 Harense
 Harfsense
 harige
@@ -61209,6 +61254,7 @@ horecamedewerkers
 horecaondernemers
 horecaondernemingen
 horecapanden
+horecaprijzen
 horeca-uitbaters
 horecavoorzieningen
 horecazaken
@@ -65579,6 +65625,8 @@ instandhoudend
 instandhoudingsdoelen
 instandhoudingsdoelstellingen
 instandhoudingsverklaringen
+instantaans
+instantane
 instantaneetje
 instantaneetjes
 instantanés
@@ -66785,6 +66833,7 @@ I-profielen
 Iqra's
 IQ-testen
 IQ-tests
+Irakese
 Irakezen
 Ira's
 Ireens
@@ -67373,6 +67422,7 @@ Jara's
 jardinières
 Jareds
 jaren
+jarendertighuizen
 jarenlange
 jarenoude
 jargons
@@ -69387,9 +69437,10 @@ kanslozer
 kansmodellen
 kansovereenkomsten
 kansrekeningen
-kansrijke
 kansrijken
 kansrijker
+kansrijkere
+kansrijkste
 kansspelautomaten
 kansspelen
 kansspelletjes
@@ -72796,6 +72847,7 @@ kleurprofielen
 kleurrijke
 kleurrijker
 kleurrijkere
+kleurrijks
 kleurrijkst
 kleurrijkste
 kleurruimtes
@@ -72916,6 +72968,7 @@ klimaatgordels
 klimaatinstallaties
 klimaatkamers
 klimaatmodellen
+klimaatneutrale
 klimaatomstandigheden
 klimaatonderhandelingen
 klimaatonderzoekers
@@ -73365,6 +73418,7 @@ knalletje
 knalletjes
 knalpijpen
 knalpotten
+knalprijzen
 knalrode
 knalseinen
 knalsignalen
@@ -77278,6 +77332,8 @@ kwaliteitsverklaringen
 kwaliteitsverliezen
 kwaliteitsverschillen
 kwaliteitsvolle
+kwaliteitsvoller
+kwaliteitsvollere
 kwaliteitswerken
 kwaliteitswijnen
 kwaliteitszenders
@@ -78137,6 +78193,7 @@ landbouworganisaties
 landbouwoverschotten
 landbouwpercelen
 landbouwpraktijken
+landbouwprijzen
 landbouwproducten
 landbouwproefstations
 landbouwprojecten
@@ -78992,6 +79049,7 @@ leeftijdgenootje
 leeftijdgenootjes
 leeftijdgenoten
 leeftijdgrenzen
+leeftijdloost
 leeftijdloze
 leeftijdsaanduidingen
 leeftijdsafhankelijke
@@ -85430,6 +85488,7 @@ medressen
 medusa's
 Medy's
 meeat
+meeaten
 meebeleefd
 meebepaald
 meebepalend
@@ -85621,6 +85680,8 @@ meekeek
 meekijkend
 meekijkende
 meekijkt
+meeklinkt
+meeklonken
 meekom
 meekomend
 meekomende
@@ -85733,6 +85794,7 @@ meeprofiteert
 méér
 meeraderige
 meeralen
+Meerbeekse
 meerboeien
 meercellige
 meerdaagse
@@ -85783,6 +85845,7 @@ meergezinshuizen
 meergezinswoningen
 meergranenbroodje
 meerhoofdige
+Meerhoutse
 meerij
 meerijd
 meerijdend
@@ -87515,6 +87578,8 @@ mikten
 mikwa's
 mikwes
 Milaanse
+Milanese
+Milanezen
 Milano's
 Milans
 Mila's
@@ -92520,6 +92585,7 @@ niet-acute
 niet-aflatende
 niet-aftrekbare
 niet-agrarische
+niet-agressieve
 niet-alcoholische
 niet-alledaagse
 niet-ambtelijke
@@ -93888,6 +93954,8 @@ oefenwedstrijdjes
 oefenzaaltje
 oefenzalen
 Oeffeltse
+Oegandese
+Oegandezen
 Oegaritische
 oehoes
 oehoetje
@@ -96869,6 +96937,7 @@ ongemengde
 ongemerkte
 ongemerkter
 ongemeubileerde
+ongemodereerde
 ongemoeide
 ongemonteerde
 ongemotiveerden
@@ -96886,6 +96955,8 @@ ongeneselijke
 ongenietbaarder
 ongenietbare
 ongenode
+ongenodigde
+ongenodigds
 ongenoegens
 ongenoegzame
 ongenoemde
@@ -98132,6 +98203,7 @@ ontraadselde
 ontraadselden
 ontraadselt
 ontraadt
+ontraceerbare
 ontradend
 ontradende
 ontrafel
@@ -98923,6 +98995,7 @@ onverdeelbare
 onverdeelde
 onverdiende
 onverdienstelijke
+onverdoofde
 onverdraaglijke
 onverdraaglijker
 onverdraaglijkst
@@ -99019,6 +99092,7 @@ onvertakte
 onverteerbaarder
 onverteerbare
 onverteerde
+onvertraagde
 onvervaarde
 onvervalste
 onvervangbare
@@ -104741,10 +104815,12 @@ pailletten
 paintballde
 paintballt
 pairs
+Pajottenlandse
 pakbare
 pakbonnen
 pakbons
 pakezels
+pakhuisbedrijven
 pakhuisknechten
 pakhuisknechts
 pakhuismeesters
@@ -106116,6 +106192,7 @@ pcb's
 pc-gebruikers
 pc-makers
 pc'tje
+pc'tjes
 pdf-bestanden
 pdf-documenten
 pdf'je
@@ -107427,6 +107504,7 @@ pijlgiften
 pijlinktvisjes
 pijlinktvissen
 pijlkokers
+pijlloze
 pijlpunten
 pijlrechte
 pijlsnelle
@@ -108388,6 +108466,7 @@ platneuzen
 platonische
 platonischer
 Plato's
+platribbige
 platronde
 plats
 plats du jour
@@ -108615,6 +108694,7 @@ pleziervaartuigen
 plichtbewuste
 plichten
 plichtgetrouwe
+plichtige
 plichtmatige
 plichtmatigheden
 plichtplegingen
@@ -109908,6 +109988,7 @@ postimpressionisten
 postimpressionistische
 postincunabelen
 postindustriële
+postinitiële
 postjes
 postjesjagers
 postkaarten
@@ -112392,6 +112473,7 @@ publicrelationsmedewerkers
 publieke
 publiekelijke
 publiekgerichte
+publiek-private
 publiekrechtelijke
 publieks
 publieksacties
@@ -112663,6 +112745,7 @@ puriteinse
 puriteinser
 Purmerendse
 purperachtige
+purperblauwe
 purperde
 purperden
 purperkleurige
@@ -116403,6 +116486,8 @@ reutertje
 reutje
 reutjes
 reuzegezellige
+reuzegrappige
+reuzegrappigs
 reuzegrote
 reuzekleine
 reuzeleuke
@@ -117191,6 +117276,7 @@ ripsen
 ript
 ripte
 risicoanalyses
+risicoaversies
 risicobedrijven
 risicobeoordelingen
 risicobeperkende
@@ -117648,6 +117734,7 @@ roestplaatsen
 roestplekje
 roestplekjes
 roestplekken
+roestrode
 roeststokken
 roestte
 roestten
@@ -119367,6 +119454,7 @@ ruziezoekende
 ruziezoekers
 rvs-wasbakken
 RWA-gemalen
+Rwandese
 Rwandezen
 RWA-pompen
 RWZI-locaties
@@ -132525,6 +132613,7 @@ studentenfeestje
 studentenfeestjes
 studentenfilms
 studentenflats
+studentenfuiven
 studentengrappen
 studentengroepen
 studentengroepje
@@ -133116,8 +133205,9 @@ succeskansen
 succesnummers
 succespercentages
 succesproducten
-succesrijke
+succesrijken
 succesrijker
+succesrijkste
 successen
 successiebelastingen
 successieoorlogen
@@ -133135,6 +133225,8 @@ succesvolste
 succubi
 succulente
 succursalen
+Sudanese
+Sudanezen
 sudder
 sudderde
 sudderden
@@ -133400,6 +133492,7 @@ superprijzen
 superrijke
 superrijken
 supers
+superslechte
 superslimme
 supersnelle
 supersnelrechtzaken
@@ -133419,6 +133512,7 @@ supertalenten
 supertankers
 supertijden
 supertrio's
+superverse
 superviseerde
 superviserend
 supervisies
@@ -135348,6 +135442,7 @@ telefoniediensten
 telefonienetten
 telefonienetwerken
 telefonieplatformen
+telefonieprijzen
 telefoniesystemen
 telefonische
 telefonisten
@@ -135626,6 +135721,7 @@ tempelwijdingen
 temper
 temperamenten
 temperamentvolle
+temperamentvoller
 temperatuurafhankelijke
 temperatuurbepalingen
 temperatuurcurves
@@ -137222,6 +137318,7 @@ tijdigere
 tijdingen
 tijdinkje
 tijdintervallen
+tijdinvariante
 tijdje
 tijdjes
 tijdklokje
@@ -138070,6 +138167,8 @@ toekomstperspectieven
 toekomstprojecten
 toekomstscenario's
 toekomstschetsen
+toekomstvaste
+toekomstvaster
 toekomstverkenningen
 toekomstverwachtingen
 toekomstvisies
@@ -140281,6 +140380,7 @@ triolen
 trioletten
 triomfale
 triomfalistische
+triomfante
 triomfantelijke
 triomfantelijker
 triomfantelijkste
@@ -140487,6 +140587,7 @@ troosteressen
 troosters
 troostgronden
 troostliederen
+troostmeisjes
 troostprijsje
 troostprijsjes
 troostprijzen
@@ -140494,6 +140595,7 @@ troostreden
 troostredes
 troostrijke
 troostrijker
+troostrijks
 troostrijkste
 troostte
 troostten
@@ -141173,6 +141275,7 @@ tv-stations
 tv-sterren
 tv-studio's
 tv'tje
+tv'tjes
 tv-toestellen
 tv-uitzendingen
 tv-zenders
@@ -141240,6 +141343,7 @@ tweedranken
 twee-eiige
 tweeën
 tweeënhalve
+tweeëntachtigste
 tweeëntwintigjarigen
 tweeënveertigste
 tweeënzestigjarigen
@@ -141484,6 +141588,8 @@ ufologen
 ufootje
 ufootjes
 ufo's
+Ugandese
+Ugandezen
 ugli's
 Ugurs
 uhd's
@@ -143818,6 +143924,7 @@ uitwaaierend
 uitwaaierende
 uitwaaiert
 uitwaait
+uitwasbare
 uitwasem
 uitwasemde
 uitwasemden
@@ -144048,6 +144155,8 @@ uitzondert
 uitzong
 uitzongen
 uitzoog
+uitzoom
+uitzoomt
 uitzuig
 uitzuigers
 uitzuigingen
@@ -151876,6 +151985,8 @@ veterschoenen
 vetert
 vetertjes
 vetes
+vetgansje
+vetgansjes
 vetganzen
 vetgedrukte
 vetgehalten
@@ -152567,6 +152678,7 @@ viseert
 visetende
 viseters
 visfilets
+visfuiken
 visgaten
 visgebieden
 visgerechten
@@ -152623,6 +152735,7 @@ visliefhebbers
 vislijnen
 vislijntje
 visloze
+vislozer
 vismaaltijden
 vismaatjes
 vismannen
@@ -153508,6 +153621,7 @@ vocalises
 vocalisten
 vocaties
 vocatieven
+vochtafdrijvende
 vochtblaasjes
 vochtgehalten
 vochtgehaltes
@@ -156607,6 +156721,7 @@ vroegste
 vroegtijdige
 vroegtijdiger
 vroegtijdigere
+vroegtwintigste-eeuwse
 vroegwijze
 vrolijke
 vrolijken
@@ -157190,6 +157305,8 @@ waardigst
 waardinnen
 waardinnetje
 waardplanten
+waargebeurde
+waargebeurds
 waargemaakt
 waargemaakte
 waargenomen
@@ -158550,6 +158667,7 @@ wedergaf
 wedergaven
 wedergeboorten
 wedergeboortes
+wedergeborens
 wedergeeft
 wedergegeven
 wedergekeerd
@@ -158661,6 +158779,8 @@ wedvluchten
 weedgebruikers
 weeë
 weeën
+weeër
+weeëre
 weef
 weefde
 weefden

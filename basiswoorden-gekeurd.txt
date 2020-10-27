@@ -4714,7 +4714,6 @@ afgiftekantoor
 afgiftekoers
 afgiftelocatie
 afgifteplicht
-afgifteprijzen
 afgifteproces
 afgiftepunt
 afgiftesnelheid
@@ -6766,7 +6765,6 @@ ajuin
 ajuinachtig
 ajuinbol
 ajuinzaad
-A-junioren
 ajuus
 akant
 A-kant
@@ -8900,7 +8898,6 @@ anti-Vietnamdemonstratie
 anti-Vietnamees
 antiviraal
 antivirus
-antivirusbedrijven
 antiviruspakket
 antivirusproducten
 antivirusprogramma
@@ -17325,7 +17322,6 @@ belastingkwestie
 belastingmaatregel
 belastingmeevaller
 belastingmiddel
-belastingmisdrijven
 belastingmoraal
 belastingnadeel
 belastingniveau
@@ -74633,7 +74629,6 @@ horecapaviljoen
 horecapersoneel
 horecaplein
 horecaportier
-horecaprijzen
 horecaproject
 horecaruimte
 horecasector
@@ -91435,7 +91430,6 @@ knaller
 knaloranje
 knalpijp
 knalpot
-knalprijzen
 knalrood
 knalroze
 knalsein
@@ -97906,7 +97900,6 @@ landbouwplastic
 landbouwpolder
 landbouwpolitiek
 landbouwpraktijk
-landbouwprijzen
 landbouwproduct
 landbouwproductie
 landbouwproductiviteit
@@ -129441,7 +129434,6 @@ pakbon
 pakezel
 pakgoed
 pakhuis
-pakhuisbedrijven
 pakhuisknecht
 pakhuismeester
 pakijs
@@ -166031,7 +166023,6 @@ telefoniemarkt
 telefonienet
 telefonienetwerk
 telefonieplatform
-telefonieprijzen
 telefoniesysteem
 telefonisch
 telefonist
