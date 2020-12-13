@@ -465,6 +465,7 @@ actinide
 Action
 activiteitentracker
 Acton
+ACU
 Ad
 AD
 Ada
@@ -601,6 +602,7 @@ afiguraal
 Afistraat
 Afke
 afkruisen
+aflossingsschema
 Afman
 afmeerpaal
 afmeervoorziening
@@ -3434,7 +3436,6 @@ Bestman
 Bests
 Bestseweg
 besturingssysteemversie
-bestuurdersverenging
 Bestuursstaf
 Besuijen
 Beswerd
@@ -7004,6 +7005,7 @@ Coljee
 Collard
 Collaris
 Colleen
+collega-bewindsman
 collega-politicus
 Collendoorn
 Collet
@@ -11600,7 +11602,6 @@ Ewoud
 Ewout
 Exalto
 examentaak
-ex-bewindslied
 ex-deliquent
 ex-dienstplichtige
 ex-drugsverslaafde
@@ -12160,10 +12161,10 @@ Fokkema
 Fokkemast
 Fokken
 fokkenschoot
+fokkenval
 Fokkerlaan
 Fokkerstraat
 Fokkert
-fokkeval
 Fokkinga
 Fokkink
 Fokko
@@ -12753,7 +12754,6 @@ Gé
 Gea
 Gebben
 Gebbink
-gebeiden
 Gebhardt
 Gebint
 Geboers
@@ -17678,7 +17678,7 @@ Insulindestraat
 INT
 Intel
 intensioneel
-intensive care-bezetting
+intensivecarebezetting
 Interfax
 Internationaal Strafhof
 internetencyclopedie
@@ -18952,7 +18952,9 @@ Kaarderstraat
 Kaarschot
 kaasanjer
 Kaaskerke
+kaaskrul
 Kaasmarkt
+kaasstengel
 Kaastra
 Kaat
 Kaatee
@@ -19183,6 +19185,7 @@ Kanariestraat
 Kanbier
 Kandahar
 Kandhai
+kandidaat-bewindsman
 kandidaatland
 Kane
 Kaneelstraat
@@ -22735,6 +22738,7 @@ Lijsterhof
 Lijsterlaan
 Lijsterstraat
 Lijsterweg
+lijstvertrekker
 Lijten
 Lijzenga
 Lijzijde
@@ -29796,7 +29800,6 @@ niet-representatief
 níéts
 niet-sportief
 Nietveld
-niet-verwisselba
 niet-verwisselbaar
 Nietzsche
 Nieuwaal
@@ -30536,7 +30539,6 @@ Nuria
 Nurmohamed
 Nürnberg
 Nusselder
-Ñusta
 Nuth
 Nutma
 Nutricia
@@ -31538,6 +31540,7 @@ Oud-Avereest
 Oud-Beijerland
 Oud-Beijerlander
 Oud-Beijerlands
+oud-bewindspersoon
 Oud-Castilië
 Oud-Dijk
 Ouddorp
@@ -32363,7 +32366,6 @@ Penders
 Penelope
 Penélope
 Penghueilanden
-penisonvriendelijk
 Pennekamp
 Penners
 Pennewaard
@@ -32577,7 +32579,7 @@ Piccolopad
 Pico
 Pieck
 Pieke
-piekeval
+piekenval
 Pieksma
 Pielage
 pieleman
@@ -38021,6 +38023,7 @@ Spinelstraat
 Spinetstraat
 Spinhoven
 Spinhuisstraat
+spinnakerboom
 Spinnekop
 Spinnerij
 Spinnerijstraat
@@ -38905,6 +38908,7 @@ Sunparks
 súper
 Supercharger
 supersportief
+superverspreider
 Supheert
 Suppers
 supralitoraal
