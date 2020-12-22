@@ -27980,6 +27980,7 @@ cornervlaggen
 Cornés
 cornets
 corniches
+coronabrandhaarden
 coronacijfers
 coronadiploma's
 coronadoden
@@ -30456,6 +30457,7 @@ denivelleerde
 denivelleert
 Deniz'
 denk
+dénk
 denkbaarder
 denkbare
 denkbeelden
@@ -62683,7 +62685,8 @@ IB'ers
 ibissen
 IBM's
 Ibrahims
-IC-bedden
+ic-afdelingen
+ic-bedden
 Ichtegemse
 ichtyologen
 icings
@@ -62695,6 +62698,10 @@ iconografieën
 iconografische
 iconologische
 icoontjes
+ic-opnamen
+ic-opnames
+ic-patiënten
+ic-plaatsen
 ic's
 ICT-aanbieders
 ICT-aanpassingen
@@ -70783,6 +70790,7 @@ kenschetste
 kenschetsten
 kenspreuken
 kent
+ként
 kentallen
 kentauren
 kentekenbewijzen
@@ -79542,13 +79550,10 @@ leervergunningen
 leervragen
 leerwegen
 leer-werkbanen
-leerwerkbedrijven
 leer-werkbedrijven
 leer-werkloketten
-leerwerkplaatsen
 leer-werkplaatsen
 leer-werkplekken
-leerwerkprojecten
 leer-werkprojecten
 leer-werkstages
 leer-werktrajecten
@@ -109552,8 +109557,7 @@ politiekantoortje
 politiekantoren
 politiek-bestuurlijke
 politiek-bureaucratische
-politiek correcte
-politiek corrrecten
+politiek correcten
 politiek-culturele
 politiek-diplomatieke
 politieke
@@ -109562,7 +109566,7 @@ politiek-filosofische
 politiek-financiële
 politiek-historische
 politiek-ideologische
-politiek incorrecte
+politiek incorrecten
 politiek-inhoudelijke
 politiek-juridische
 politiek-maatschappelijke
@@ -117826,6 +117830,7 @@ rodeo's
 roder
 Rodericks
 Roderiks
+rodewijnglazen
 Rodgers
 Rodins
 Rodi's
@@ -154357,6 +154362,7 @@ vogelnamen
 vogelnesten
 vogelnestje
 vogelnestkastje
+vogelpindakazen
 vogelpopulaties
 vogelresten
 vogelrijke
@@ -162370,6 +162376,7 @@ wittende
 wittere
 witters
 Witteveense
+wittewijnglazen
 wittige
 witvissen
 witvoeten
@@ -164185,6 +164192,7 @@ zegsters
 zegsvrouwen
 zegswijzen
 zegt
+zégt
 zeide
 zeikende
 zeikerds
@@ -164881,6 +164889,7 @@ Zierikzeese
 ziertje
 ziertjes
 ziet
+zíét
 Zieuwentse
 zifters
 ziftingen

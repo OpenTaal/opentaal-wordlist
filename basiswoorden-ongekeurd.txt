@@ -7208,6 +7208,7 @@ Cornips
 Cornjum
 Cornwerd
 Corolla
+coronabrandhaard
 Coronacrisis
 coronadashboard
 coronadiploma
@@ -8611,7 +8612,6 @@ Denis
 Denise
 Denissen
 Deniz
-dénk
 dénken
 Denk-voorman
 Denk Vrijweg
@@ -17264,13 +17264,17 @@ Ibiza
 IBM
 Ibrahim
 Ibrahimi
+ic-afdeling
 Icarusblauwtje
 Icarusstraat
-IC-bed
+ic-bed
 Ichtegem
 Icke
 Ickenroth
 iCloud
+ic-opname
+ic-patiënt
+ic-plaats
 ICT-aanbod
 ICT-aanpassing
 ICT-activiteit
@@ -17290,7 +17294,6 @@ ICT-beurs
 ICT-capaciteit
 ICT-cluster
 ICT-coach
-ICT-coache
 ICT-competentie
 ICT-component
 ICT-concept
@@ -17432,7 +17435,9 @@ Idzerda
 Idzes
 Idzinga
 Iedema
+íédere
 iederéén
+íédereen
 Ieke
 íémand
 Iens
@@ -19647,7 +19652,6 @@ Kenneth
 Kenny
 Keno
 Kent
-ként
 kental
 kentekenpapieren
 kentekenplaatfabrikant
@@ -19909,6 +19913,7 @@ Kievitweg
 Kiewiet
 Kiewit
 Kiezebrink
+kíézen
 Kiffen
 Kigali
 Kijkduinstraat
@@ -24319,7 +24324,7 @@ Marly
 Marmara
 Marmerstraat
 Marne
-Marne-la-Valée
+Marne-la-Vallée
 Marne-Rijnkanaal
 Marnestraat
 Marnix
@@ -29766,6 +29771,7 @@ Niels Bohrstraat
 Niels Bohrweg
 Nielsen
 Nieman
+níémand
 Niemantsverdriet
 Niemeijer
 Nien
@@ -30975,7 +30981,6 @@ Onne
 Onnen
 Onnink
 Onno
- onomatopee
 Onondaga
 Onos
 onrespectvol
@@ -32986,8 +32991,9 @@ Polfliet
 Polhout
 Polhuis
 politiek correct
-politiek corrrecte
+politiek correcte
 politiek incorrect
+politiek incorrecte
 politiek-religieus
 Polkastraat
 Pollaert
@@ -33199,6 +33205,7 @@ Prattenburg
 praxinoscoop
 Preanger
 Preangerstraat
+precíés
 Precious
 Predilpas
 Preesman
@@ -34765,6 +34772,7 @@ Roderwolde
 Rode Torenpas
 Rodeweg
 Rodewijk
+rodewijnglas
 Rode Zee
 Rodger
 Rodi
@@ -38011,7 +38019,6 @@ Spijkman
 Spijksma
 Spijkstra
 Spike
-spilgemeeente
 Spiljard
 Spilstraat
 Spilt
@@ -42441,6 +42448,7 @@ Vogelkersstraat
 Vogelkop
 Vogellaan
 Vogelmelk
+vogelpindakaas
 Vogelplein
 Vogelpoel
 Vogelsang
@@ -44619,6 +44627,7 @@ Witteveen
 Witte Volta
 Witteweg
 Wittewierum
+wittewijnglas
 Witte Zee
 Witting
 Witveldweg
@@ -45296,7 +45305,6 @@ Zegge
 Zeggelaar
 Zeggeveen
 Zeggeweg
-zégt
 Zegveld
 Zegveldstraat
 Zegwaard
@@ -45451,6 +45459,7 @@ Ziekenhuisstraat
 Zieleman
 Zielstra
 Zieltjens
+zíén
 Ziengs
 Zierikzee
 Zierikzeestraat
@@ -46045,6 +46054,3 @@ Zwoller
 Zwolseweg
 Zwolsman
 Zzv
-β-roseliet
-β-uranofaan
-γ-camera

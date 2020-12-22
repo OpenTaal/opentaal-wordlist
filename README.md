@@ -121,6 +121,14 @@ Een ander project van OpenTaal biedt histogrammen van de letterfrequenties van
 de woordenlijst. Wanneer deze is bijgewerkt zal er hier een link naar worden
 gemaakt.
 
+Karakters die worden gebruikt zijn:
+- `a` t/m `z` en `å` `ç` `ñ`
+- `A` t/m `Z` en `Å`
+- `ä` `ë` `ï` `ö` `ü` en `â`  `ê`  `î`  `ô`  `û`
+- `á`  `é`  `í`  `ó`  `ú` en `à` `è`
+- `0` t/m `9` en `²` `³` `₂`
+- `'` `.` `-` `/` `+` `&` `@` `€`
+
 
 ## Installatie
 
@@ -128,7 +136,6 @@ Besturingssystemen bieden softwarepakketten die deze woordenlijst installeren en
 automatisch updaten. Voorbeelden hiervan zijn:
 - [wdutch](https://packages.ubuntu.com/search?keywords=wdutch) voor Ubuntu
 - [wdutch](https://packages.debian.org/search?keywords=wdutch) voor Debian
-- [wdutch](https://raspberryconnect.com/sitesearch?q=wdutch) voor Raspbian
 
 Na installatie is de inhoud van `wordlist.txt` beschikbaar als het bestand
 
@@ -138,7 +145,7 @@ of via de symbolische link
 
     /usr/share/dict/nederlands
 
-Het upstream bronpakket is https://packages.debian.org/stable/wdutch
+Voor andere besturingssystemen, zie https://repology.org/project/dutch/versions
 
 
 ## Spellingcontrole
@@ -222,7 +229,6 @@ Operating systems offer software packages which install this word list and
 update it automatically. Examples of this are:
 - [wdutch](https://packages.ubuntu.com/search?keywords=wdutch) for Ubuntu
 - [wdutch](https://packages.debian.org/search?keywords=wdutch) for Debian
-- [wdutch](https://raspberryconnect.com/sitesearch?q=wdutch) for Raspbian
 
 After installation, the contents of `wordlist.txt` will be available as the file
 
@@ -232,7 +238,7 @@ or via the symbolic link
 
     /usr/share/dict/nederlands
 
-The upstream source package is https://packages.debian.org/stable/wdutch
+For other operating systems, see https://repology.org/project/dutch/versions
 
 
 ## Spell checking
