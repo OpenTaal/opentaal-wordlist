@@ -9,7 +9,7 @@ bronvermelding wordt gedaan en de licenties worden gerespecteerd, is deze lijst
 vrij te gebruiken. De exacte voorwaarden zijn te vinden in het bestand
 [LICENSE.txt](LICENSE.txt). Lees deze goed door.
 
-![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
+![logo Stichting OpenTaal](images/logo-shape-trans-640x360.png?raw=true)
 
 Deze woordenlijst is samengesteld door ontelbare individuele bijdragen,
 specifieke delen uit bronnen zonder auteursrecht en intensieve eindredactie. De
@@ -192,7 +192,7 @@ As long as full attribution is provided and the licenses are being respected,
 this list can be used freely. The exact conditions can be found in the file
 [LICENSE.txt](LICENSE.txt). Please, read these carefully.
 
-![logo Stichting OpenTaal](images/logo-shape-white-640x360.png?raw=true)
+![logo Stichting OpenTaal](images/logo-shape-trans-640x360.png?raw=true)
 
 This word list has been compiled from countless individual contributions,
 specific parts from sources without copyright and intense final editing. This
