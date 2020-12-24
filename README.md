@@ -178,8 +178,8 @@ of contacteer ons als je woordenlijsten of databasevaardigheden te bieden hebt.
 # Dutch word list
 
 This is the Dutch word list by [Stichting OpenTaal](https://www.opentaal.org).
-As long as full attribution is provided and the licenses are being respected,
-this list can be used freely. The exact conditions can be found in the file
+As long as full attribution is provided and the licenses are respected, this
+list can be used freely. The exact conditions can be found in the file
 [LICENSE.txt](LICENSE.txt). Please, read these carefully.
 
 ![logo Stichting OpenTaal](images/logo-shape-trans-640x360.png?raw=true)
@@ -189,7 +189,7 @@ specific parts from sources without copyright and intense final editing. This
 list has received from the Dutch Language Union
 ([Taalunie](http://taalunie.org)) the Quality Mark Spelling
 ([Keurmerk Spelling](http://taalunieversum.org/inhoud/spelling-meer-hulpmiddelen/keurmerk)).
-This means that the words in this list are according to the official spelling.
+This means that the words in this list conforms to the official spelling.
 
 ![logo Keurmerk Spelling](images/keurmerk.png?raw=true)
 
