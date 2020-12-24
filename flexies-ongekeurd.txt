@@ -3082,6 +3082,7 @@ achtergrondartikels
 achtergrondbeelden
 achtergrondconcentraties
 achtergronddocumenten
+achtergronddossiers
 achtergronden
 achtergrondfactoren
 achtergrondgegevens
@@ -11177,6 +11178,7 @@ baktemperaturen
 bakten
 baktijden
 baktroggen
+bakvetten
 bakvisje
 bakvisjes
 bakvissen
@@ -21521,6 +21523,7 @@ bordjes
 bordpunten
 bordpuntje
 bordspelen
+bordspellen
 bordspelletje
 bordspelletjes
 bordurend
@@ -25925,6 +25928,7 @@ Clements
 Cléments
 Cleo's
 clerici
+clevere
 clichébeelden
 clicheerde
 clicheert
@@ -50540,6 +50544,7 @@ gerelaxte
 gerelayeerd
 gerelayeerde
 gereld
+gereleased
 gereleaset
 gereleveerd
 gereleveerde
@@ -67477,6 +67482,10 @@ Jakobus'
 jaks
 Jakubs
 Jalals
+jalapeñohybrides
+jalapeñopepers
+jalapeño's
+jalapeñosoorten
 Jalils
 jaloerse
 jaloerser
@@ -67869,6 +67878,7 @@ jeugdcriminelen
 jeugdculturen
 jeugddebatten
 jeugddelinquenten
+jeugddossiers
 jeugddromen
 jeugdelftallen
 jeugdervaringen
@@ -68479,7 +68489,6 @@ judoka's
 judolessen
 judoot
 judopakken
-judot
 judowedstrijden
 Judy's
 juffen
@@ -70032,6 +70041,8 @@ karbonkelen
 karbonkelneuzen
 karbonkels
 karbonkelstenen
+karbonkeltje
+karbonkeltjes
 karbouwen
 karde
 kardelen
@@ -70463,6 +70474,7 @@ kavelsloten
 kavelt
 kaveltje
 kaveltjes
+kawa's
 Kawa's
 kawinabands
 kawina's
@@ -78828,6 +78840,7 @@ laptops
 laptoptassen
 lapzalf
 lapzalfde
+lapzalft
 lapzwansen
 Lara's
 lardeer
@@ -88424,6 +88437,7 @@ misdaadbendes
 misdaadblogs
 misdaadboeken
 misdaadcijfers
+misdaaddossiers
 misdaadfamilies
 misdaadfilms
 misdaadjournalisten
@@ -117150,6 +117164,7 @@ rijksdaalders
 rijksdagen
 rijksdelen
 rijksdiensten
+rijkserkende
 rijksgebieden
 rijksgebouwen
 rijksgebouwendiensten
@@ -135085,6 +135100,7 @@ techgiganten
 techneuten
 technici
 technieken
+techniekers
 techniektrainingen
 technische
 technisch-economische
@@ -144497,9 +144513,14 @@ undercoveroperaties
 underdogs
 underperformers
 understatements
+UNESCO-conventies
+UNESCO-leerstoelen
 unfaire
 unheimische
 unica
+UNICEF-ambassadeurs
+UNICEF-comités
+UNICEF-gala's
 unicums
 unieerde
 uniefs

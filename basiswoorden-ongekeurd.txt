@@ -1299,6 +1299,7 @@ Andelst
 Anderen
 ánderen
 anderhalfjarige
+anderhalvemetersamenleving
 Anderlecht
 Anderlechts
 Anderlechtse
@@ -2034,6 +2035,7 @@ Atika
 Atilla
 Atjeh
 Atjeher
+Atjehoorlog
 Atjehstraat
 Atlanta
 Atlanteeër
@@ -6757,6 +6759,7 @@ Cleutjens
 Clève
 Cleveland
 Cleven
+clever
 Cleveringa
 Clevers
 CLI
@@ -10449,7 +10452,6 @@ Eendrachtstraat
 Eendrachtsweg
 éénduidig
 éénduidigheid
-één duizendste
 Eeneind
 eenendertigjarig
 eenendertigjarige
@@ -18021,6 +18023,10 @@ Jakobus
 Jakoetië
 Jakub
 Jalal
+jalapeño
+jalapeñohybride
+jalapeñopeper
+jalapeñosoort
 Jalil
 Jalink
 Jalloh
@@ -19466,6 +19472,7 @@ Kaur
 Kavalaans
 Kavelaars
 Kavelpad
+kawa
 Kawa
 Kaweide
 Kaw Sabakoestraat
@@ -29408,6 +29415,7 @@ NAVO-missie
 NAVO-norm
 NAVO-systeem
 NAVO-top
+NAVO-troepenmacht
 Nawal
 Nawijn
 Nazareth
@@ -30599,6 +30607,7 @@ Oceanië
 Oceaniër
 OCenW
 Ochten
+ochtenddosis
 Ockeloen
 Ockels
 Ockenburg
@@ -34448,6 +34457,7 @@ Rijksbrandweeracademie
 Rijkschroeff
 Rijkse
 Rijksen
+rijkserkend
 Rijksgebouwendienst
 Rijksluchtvaartdienst
 Rijksmuseum
@@ -38207,6 +38217,8 @@ Stampersgat
 Stamps
 Stams
 Stan
+standaarddosering
+standaarddosis
 Standaardmolen
 Standdaarbuiten
 Standerdmolen
@@ -39288,6 +39300,7 @@ Teakhout
 Tebbens
 techbedrijf
 Technics
+technieker
 Techniekweg
 technologiesite
 technologiespecialist
@@ -40032,6 +40045,7 @@ Toelen
 Toelsieramstraat
 Toemen
 Toenalaan
+toendertijd
 Toepad
 Toepoel
 Toering
@@ -40778,9 +40792,18 @@ Ummels
 UMTS
 Una
 Uneken
+UNESCO
+UNESCO-commissie
+UNESCO-conventie
+UNESCO-hoofdkwartier
+UNESCO-leerstoel
+UNESCO-lijst
+UNESCO-verdrag
 Unger
-Unicef
-Unicef-gala
+UNICEF
+UNICEF-ambassadeur
+UNICEF-comité
+UNICEF-gala
 Uniceflaan
 Unicode
 Unilever

@@ -24,7 +24,6 @@ Het Keurmerk Spelling voor deze woordenlijst is van medio 2017, 2018. Sinds
 eind 2018 wordt dit keurmerk niet meer uitgegeven en zal bij volgende versies
 van deze woordenlijst niet meer van toepassing zijn.
 
-
 ## Inhoud
 
 De woordenlijst bestaat, naast de documentatie en licentie, uit de volgende
@@ -88,7 +87,6 @@ Romeinse cijfers.
 De datum, de tijd en het versienummer van al deze bestanden is te vinden in
 [datetimeversion.txt](datetimeversion.txt).
 
-
 ## Optioneel
 
 Het is mogelijk om in een volgende versie meerdere bestanden op te nemen,
@@ -101,7 +99,6 @@ bijvoorbeeld bestanden met woorden:
 - die om verwarring te voorkomen niet geschikt zijn voor spellingcontrole
 
 Het is ook mogelijk om maatwerkbestanden in een versie op te nemen.
-
 
 ## Karakters
 
@@ -129,7 +126,6 @@ Karakters die worden gebruikt zijn:
 - `0` t/m `9` en `²` `³` `₂`
 - `'` `.` `-` `/` `+` `&` `@` `€`
 
-
 ## Installatie
 
 Besturingssystemen bieden softwarepakketten die deze woordenlijst installeren en
@@ -147,30 +143,24 @@ of via de symbolische link
 
 Voor andere besturingssystemen, zie https://repology.org/project/dutch/versions
 
-
 ## Spellingcontrole
 
 Deze woordenlijst moet **niet** gebruikt woorden voor een (zelfgebouwde)
 spellingcontrole. Het controleren van spelling en aanbieden van suggesties is
-voor het Nederlands totaal niet triviaal. Hiervoor is speciale software
-beschikbaar zoals [Hunspell](https://hunspell.github.io) of
-[Nuspell](https://nuspell.github.io).
+in het algemeen en vooral voor het Nederlands verre van eenvoudig. Gebruik hier
+speciale software voor zoals [Hunspell](https://hunspell.github.io) of
+[Nuspell](https://nuspell.github.io). In veel software zoals Chrome, Firefox,
+Thunderbird, LibreOffice en Adobe-producten is dit al geïntegreerd.
 
-OpenTaal maakt de Nederlandse ondersteuning voor deze spellingcontroles. Die is
-deels gebaseerd op deze woordenlijst maar ook op een veel maatwerkregels,
-vervoegingen en andere speciale gevallen. Daarnaast zijn deze geoptimaliseerde
-spellingcontroles ook nog veel sneller dan eigen implementaties. In het tweede
-kwartaal van 2020 zal een nieuwe versie van de Nederlandse ondersteuning van
-spellingcontroles uit komen.
+OpenTaal maakt hiervoor de Nederlandse spellingcontrole, zie 
+https://github.com/OpenTaal/opentaal-hunspell voor meer informatie.
 
 ## Toetsenbord
 
 Voor Android is er een toetsenbord dat gebruik maakt van deze woordenlijst. Zie
 dit
 [artikel](https://www.opentaal.org/het-laatste-nieuws/projectnieuws/51-publicaties/221-anysoftkeyboard)
-op onze website voor meer informatie. In het derde kwartaal van 2020 zal deze
-app een update krijgen en de laatste versie van deze woordenlijst gebruiken.
-
+op onze website voor meer informatie.
 
 ## Wordfeud
 
@@ -207,21 +197,17 @@ The Quality Mark Spelling for this word list has been given in 2017/2018.
 This quality mark has stopped since the end of 2018 and will not apply to future
 releases of this word list.
 
-
 ## Contents
 
 _Please, see the relevant section in Dutch_
-
 
 ## Optional
 
 _Please, see the relevant section in Dutch_
 
-
 ## Characters
 
 _Please, see the relevant section in Dutch_
-
 
 ## Installation
 
@@ -240,13 +226,14 @@ or via the symbolic link
 
 For other operating systems, see https://repology.org/project/dutch/versions
 
-
 ## Spell checking
 
 This word list should **not** be used for (self made) spell checking. Checking
-spelling and offering suggestions is for Dutch not trivial at all. Use special
-software for this such as [Hunspell](https://hunspell.github.io) or
-[Nuspell](https://nuspell.github.io).
+spelling and offering suggestions in general and especially for Dutch is far
+from easy. Use special software for this such as
+[Hunspell](https://hunspell.github.io) or [Nuspell](https://nuspell.github.io).
+This is already integrated in software such as Chrome, Firefox, Thunderbird,
+LibreOffice and Adobe products.
 
 OpenTaal supports Dutch for these spell checkers. That is partly based on this
 word list but also on many custom rules, conjugations and other special cases.
@@ -254,22 +241,21 @@ Additionally, these optimized spell checkers are much faster than own
 implementations. In the second quarter of 2020, a new version of the Dutch
 support for these spell checkers will be published.
 
+OpenTaal provides the Dutch spelling checker for this, see
+https://github.com/OpenTaal/opentaal-hunspell for more information.
 
 ## Keyboard
 
 A keyboard for Android which uses this word list has been developed. Please, see
 this
 [article](https://www.opentaal.org/het-laatste-nieuws/projectnieuws/51-publicaties/221-anysoftkeyboard)
-on our website for more information. In the third quarter of 2020, this app will
-get an update and use the latest version of this word list.
-
+on our website for more information.
 
 ## Wordfeud
 
 Whether or not a word is accepted in the Dutch version of Wordfeud or certain
 other Dutch word games is not the responsibility of Stichting OpenTaal. For
 this, please contact [TaalTik](https://taaltik.nl).
-
 
 ## Contribute
 

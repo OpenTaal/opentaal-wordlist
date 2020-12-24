@@ -8,13 +8,13 @@ en een kopie te behouden bij elke kopie die u van dit project of bestanden van
 dit project maakt.
 
 1. Titel: Nederlandse woordenlijst
-2. Maker: OpenTaal
-3. Website: https://opentaal.org
-4. Rechten: Revised BSD License en/of CC BY 3.0
-5. Datum en versie: zie het bestand datetimeversion.txt
+2. Maker: OpenTaal https://opentaal.org
+3. Rechten: Revised BSD License en/of CC BY 3.0
+4. Datum en versie: zie het bestand datetimeversion.txt
 
 Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
 
+5. Bron: https://github.com/OpenTaal/opentaal-wordlist
 6. Licentiekeuze: Om zo groot mogelijk (her)gebruik mogelijk te maken, zijn deze
    taalbestanden vrij beschikbaar onder liberale licenties naar discretie van de
    gebruiker. We raden aan de relevante licenties door te lezen voor gebruik te
@@ -23,11 +23,14 @@ Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
    https://opensource.org/licenses/BSD-3-Clause (see also below)
    B) Creative Commons, Attribution 3.0 Unported (CC BY 3.0), as is defined at
    https://creativecommons.org/licenses/by/3.0/legalcode.txt (see also below)
-7. Makergeschiedenis: © 2006 - 2020 OpenTaal, © 2001 - 2005 Simon Brouwer e.a.,
-   © 1996 Nederlandstalige Tex Gebruikersgroep
+7. Makergeschiedenis:
+   © 2020 OpenTaal (Simon Brouwer, Sander van Geloven)
+   © 2006 - 2010 OpenTaal (Ruud Baars, Simon Brouwer)
+   © 2001 - 2005 Simon Brouwer e.a.
+   © 1996 Nederlandstalige TeX Gebruikersgroep
 8. Ondersteuning: Stichting OpenTaal is een vrijwilligersorganisatie die door de
    Nederlandse Belastingdienst is aangemerkt als een algemeen nut beogende
-   instelling of ANBI, http://belastingdienst.nl/anbi . Hierdoor is kunnen uw
+   instelling of ANBI, https://belastingdienst.nl/anbi . Hierdoor is kunnen uw
    donaties via https://opentaal.org/vrienden-van-opentaal aftrekbaar zijn.
 9. Deelname: Iedereen is welkom bijdrages te leven. Door bij te dragen stemt u
    in dat uw bijdragen onder vrije en/of opensource licenties beschikbaar komen.
@@ -46,13 +49,13 @@ You are kindly requested to read this file called `LICENSE.txt` and to keep a
 copy of it with every copy you make of this project or files of this project.
 
 1. Title: Dutch word list
-2. Creator: OpenTaal
-3. Website: https://opentaal.org
-4. Rights: Revised BSD License and/or CC BY 3.0
-5. Date and version: see the file datetimeversion.txt
+2. Creator: OpenTaal https://opentaal.org
+3. Rights: Revised BSD License and/or CC BY 3.0
+4. Date and version: see the file datetimeversion.txt
 
 For questions regarding licenses or source attribution, please contact OpenTaal.
 
+5. Source: https://github.com/OpenTaal/opentaal-wordlist
 6. License choice: To enable the broadest (re)use, these language files are
    freely available under the liberal licenses at the discretion of the user. We
    strongly recommend to read the applicable license before usage. Choose one or
@@ -61,11 +64,14 @@ For questions regarding licenses or source attribution, please contact OpenTaal.
    https://opensource.org/licenses/BSD-3-Clause (see also below)
    B) Creative Commons, Attribution 3.0 Unported (CC BY 3.0), as is defined at
    https://creativecommons.org/licenses/by/3.0/legalcode.txt (see also below)
-7. Creator history: © 2006 - 2020 OpenTaal, © 2001 - 2005 Simon Brouwer e.a.,
-   © 1996 Nederlandstalige Tex Gebruikersgroep
+7. Creator history:
+   © 2020 OpenTaal (Simon Brouwer, Sander van Geloven)
+   © 2006 - 2010 OpenTaal (Ruud Baars, Simon Brouwer)
+   © 2001 - 2005 Simon Brouwer and others
+   © 1996 Nederlandstalige TeX Gebruikersgroep
 8. Support: Stichting OpenTaal is a volunteer organisation which is designated
    by the Dutch Tax Administration as an Institution for General Benefit
-   (algemeen nut beogende instelling or ANBI), http://belastingdienst.nl/anbi .
+   (algemeen nut beogende instelling or ANBI), https://belastingdienst.nl/anbi .
    Hence, your donations via https://opentaal.org/vrienden-van-opentaal can be
    tax deductible.
 9. Participate: Everyone is welcome to participate. By contributing to the
