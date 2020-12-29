@@ -29,15 +29,15 @@ van deze woordenlijst niet meer van toepassing zijn.
 De woordenlijst bestaat, naast de documentatie en licentie, uit de volgende
 bestanden:
 - `wordlist.txt`
-- `basiswoorden-gekeurd.txt`
-- `basiswoorden-ongekeurd.txt`
-- `flexies-ongekeurd.txt`
+- `datetimeversion.txt`
 
 Deze zijn aangevuld met een aantal hulpbestanden:
-- `wordparts.tsv`
-- `corrections.tsv`
-- `romeinse-cijfers.txt`
-- `datetimeversion.txt`
+- `elements/basiswoorden-gekeurd.txt`
+- `elements/basiswoorden-ongekeurd.txt`
+- `elements/flexies-ongekeurd.txt`
+- `elements/wordparts.tsv`
+- `elements/corrections.tsv`
+- `elements/romeinse-cijfers.txt`
 
 De complete woordenlijst is te vinden in het
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
@@ -47,17 +47,22 @@ dat kom meer dan 4.000 keer voor. Alle woorden zijn alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort). Dit bestand is
 samengesteld uit de volgende drie bestanden.
 
+De datum, de tijd en het versienummer van al deze bestanden is te vinden in
+[datetimeversion.txt](datetimeversion.txt).
+
 De door de Taalunie gekeurde
 [basiswoorden](https://nl.wikipedia.org/wiki/Lemma_(naslagwerk)) zoals `tafel`
-zijn te vinden in [basiswoorden-gekeurd.txt](basiswoorden-gekeurd.txt). Dit zijn
+zijn te vinden in
+[elements/basiswoorden-gekeurd.txt](elements/basiswoorden-gekeurd.txt). Dit zijn
 er ongeveer 200.000 stuks. Ongekeurde basiswoorden, eigennamen zoals `Jansen`,
 toponiemen zoals `Schin op Geul` en samenstellingen met een eigennaam zoals
 `Facebookgroep` zijn in het bestand
-[basiswoorden-ongekeurd.txt](basiswoorden-ongekeurd.txt) te vinden. Dit zijn er
-ongeveer 41.000 stuks. In het bestand
-[flexies-ongekeurd.txt](flexies-ongekeurd.txt) zijn er ongeveer 170.000
-ongekeurde [flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals
-`stoeltjes` te vinden.
+[elements/basiswoorden-ongekeurd.txt](elements/basiswoorden-ongekeurd.txt) te
+vinden. Dit zijn er ongeveer 41.000 stuks. In het bestand
+[elements/flexies-ongekeurd.txt](elements/flexies-ongekeurd.txt) zijn er
+ongeveer 170.000 ongekeurde
+[flexies](https://nl.wikipedia.org/wiki/Flexie_(taalkunde)) zoals `stoeltjes` te
+vinden.
 
 Let op dat deze verdeling in oude versies van deze woordenlijst niet heel strikt
 was. Daardoor kunnen in de gekeurde basiswoorden kunnen ook eigennamen en
@@ -70,22 +75,20 @@ Er is een apart bestand met delen van woorden die een spatie bevatten. Dit is
 een [TSV-bestand](https://en.wikipedia.org/wiki/Tab-separated_values) met in de
 tweede kolom een or meer woorden waar dit deel vandaag komt. Indien dat meerdere
 woorden zijn, zijn die gescheiden door een puntkomma. Dit bestand heet
-[wordparts.tsv](parts-of-words.tsv) en bevat 1.000 delen van woorden die vaak
-gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`. Let op, in dit
-bestand staan ook woorden in die niet in de woordenlijst staan maar in verkorte
-vorm worden gebruikt. Voorbeelden zijn `voor-` uit `voor- en nadelen` en `-zus`
-in `tweelingbroer of -zus`.
+[elements/wordparts.tsv](elements/parts-of-words.tsv) en bevat 1.000 delen van
+woorden die vaak gebruikt worden. Een voorbeeld is `hoc` van `ad hoc;post hoc`.
+Let op, in dit bestand staan ook woorden in die niet in de woordenlijst staan
+maar in verkorte vorm worden gebruikt. Voorbeelden zijn `voor-` uit
+`voor- en nadelen` en `-zus` in `tweelingbroer of -zus`.
 
 Ook is er een bestand met 16.000 fout gespelde woorden. Dit is
-[errors.tsv](errors.tsv) en is ook in TSV-formaat. In de tweede kolom staan nul
-of meerdere correcties, gescheiden met een puntkomma. De meest relevante
-correctie staat dan vooraan.
+[elements/corrections.tsv](elements/corrections.tsv) en is ook in TSV-formaat.
+In de tweede kolom staan nul of meerdere correcties, gescheiden met een
+puntkomma. De meest relevante correctie staat dan vooraan.
 
-Verder staan in het bestand [romeinse-cijfers.txt](romeinse-cijfers.txt) 4.000
-Romeinse cijfers.
-
-De datum, de tijd en het versienummer van al deze bestanden is te vinden in
-[datetimeversion.txt](datetimeversion.txt).
+Verder staan in het bestand
+[elements/romeinse-cijfers.txt](elements/romeinse-cijfers.txt) 4.000 Romeinse
+cijfers.
 
 ## Optioneel
 
@@ -98,7 +101,8 @@ bijvoorbeeld bestanden met woorden:
 - die verouderd of archaïsch zijn
 - die om verwarring te voorkomen niet geschikt zijn voor spellingcontrole
 
-Het is ook mogelijk om maatwerkbestanden in een versie op te nemen.
+Zie voorlopig de directory `experimenteel`. Het is ook mogelijk om
+maatwerkbestanden in een versie op te nemen.
 
 ## Karakters
 
