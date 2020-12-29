@@ -25,7 +25,7 @@ Voor vragen over licenties of bronvermelding, contacteer a.u.b. OpenTaal.
    https://creativecommons.org/licenses/by/3.0/legalcode.txt (see also below)
 7. Makergeschiedenis:
    © 2020 OpenTaal (Simon Brouwer, Sander van Geloven)
-   © 2006 - 2010 OpenTaal (Ruud Baars, Simon Brouwer)
+   © 2006 - 2011 OpenTaal (Ruud Baars, Simon Brouwer)
    © 2001 - 2005 Simon Brouwer e.a.
    © 1996 Nederlandstalige TeX Gebruikersgroep
 8. Ondersteuning: Stichting OpenTaal is een vrijwilligersorganisatie die door de
@@ -66,7 +66,7 @@ For questions regarding licenses or source attribution, please contact OpenTaal.
    https://creativecommons.org/licenses/by/3.0/legalcode.txt (see also below)
 7. Creator history:
    © 2020 OpenTaal (Simon Brouwer, Sander van Geloven)
-   © 2006 - 2010 OpenTaal (Ruud Baars, Simon Brouwer)
+   © 2006 - 2011 OpenTaal (Ruud Baars, Simon Brouwer)
    © 2001 - 2005 Simon Brouwer and others
    © 1996 Nederlandstalige TeX Gebruikersgroep
 8. Support: Stichting OpenTaal is a volunteer organisation which is designated
