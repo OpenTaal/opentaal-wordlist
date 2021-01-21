@@ -21095,6 +21095,7 @@ bomende
 bomenlanen
 bomenrijen
 bomentuinen
+bomenwachten
 bomers
 bomexplosies
 bomfragmenten
@@ -27989,6 +27990,7 @@ coronabrandhaarden
 coronacijfers
 coronadiploma's
 coronadoden
+coronahufters
 coronaire
 coronale
 coronalijers
@@ -27996,6 +27998,8 @@ coronamaatregelen
 coronapatiënten
 coronapensen
 corona's
+coronaspugers
+coronavaccins
 coronavirussen
 Coroniaanse
 Coronianen
@@ -35409,6 +35413,7 @@ droefgeestige
 droefgeestiger
 droefgeestigste
 droefst
+droeftoeters
 droegen
 droesems
 droeve
@@ -36891,6 +36896,7 @@ eenentwintigde
 eenentwintigjarigen
 eenentwintigt
 eengezinshuizen
+eengezinskoopwoningen
 eengezinswoningen
 eenhandige
 eenheden
@@ -47523,6 +47529,7 @@ gekker
 gekkerds
 gekkere
 gekkernijen
+gekkies
 gekkigheden
 gekkinnen
 gekkinnetje
@@ -74960,6 +74967,7 @@ kooide
 kooi-eenden
 kooigevechten
 kooihondje
+kooiingangen
 kooikers
 kooilampje
 kooilieden
@@ -111225,6 +111233,7 @@ prikpennen
 prikpillen
 prikposten
 prikstokken
+prikstraten
 prikt
 prikte
 prikten
@@ -113142,6 +113151,7 @@ qualitate-quafuncties
 quango's
 Quangs
 quanten
+quarantainecoaches
 quarantaine-inrichtingen
 quarantainemaatregelen
 quarantaines
@@ -117684,6 +117694,7 @@ riviergezichten
 riviergoden
 rivierkaarten
 rivierkreeften
+rivierkreeftje
 rivierkreeftjes
 rivierkribben
 rivierlandschappen
@@ -158198,6 +158209,7 @@ wapperend
 wapperende
 wappers
 wappert
+wappies
 war
 warandaatje
 waranda's
@@ -160256,6 +160268,7 @@ weigerende
 weigerige
 weigeringen
 weigeringsgronden
+weigerklanten
 weigert
 weigronden
 weikazen
@@ -166230,6 +166243,7 @@ zwaardlenen
 zwaardridders
 zwaardschedes
 zwaardslagen
+zwaardslikkers
 zwaardvechtend
 zwaardvechtende
 zwaardvechters
