@@ -2506,6 +2506,7 @@ aardgastankers
 aardgasterminals
 aardgasvelden
 aardgasvoorraden
+aardgasvrije
 aardgaswinsten
 aardgeesten
 aardgewassen
@@ -10566,6 +10567,7 @@ avondjurken
 avondjurkje
 avondjurkjes
 avondklokken
+avondklokrellers
 avondkranten
 avondlessen
 avondliederen
@@ -20905,6 +20907,7 @@ boezeltje
 boezemde
 boezemden
 boezemkaden
+boezemkades
 boezemlanden
 boezempje
 boezempjes
@@ -22264,6 +22267,9 @@ boxermotors
 boxers
 boxershorts
 boxjes
+boxkleden
+boxkleedje
+boxkleedjes
 Boxmeerse
 boxplots
 Boxtelse
@@ -43456,6 +43462,7 @@ gameservers
 gamesites
 gamet
 gameten
+gamewinkelketens
 gammaflitsen
 gammaglobulinen
 gammaglobulines
@@ -76823,6 +76830,7 @@ kruisbeelden
 kruisbeeldje
 kruisbeeldjes
 kruisbekken
+kruisbesmettingen
 kruisbessen
 kruisbessenstruiken
 kruisbestuivingen
@@ -90110,6 +90118,7 @@ mp3-spelers
 M-profielen
 mp's
 MRI-scans
+mRNA-vaccins
 m's
 Mucha's
 mudden
@@ -95379,6 +95388,7 @@ omstuwd
 omstuwde
 omstuwden
 omstuwt
+OMT-adviezen
 omtover
 omtoverde
 omtoverden
@@ -105198,6 +105208,7 @@ Pallieters
 palliums
 palmachtige
 palmaressen
+palmblaadje
 palmblaadjes
 palmbladen
 palmbladeren
@@ -106987,6 +106998,7 @@ perfectionisten
 perfectionistische
 perfectst
 perfectums
+perfluoralkylstoffen
 perforatielijntje
 perforaties
 perforatoren
@@ -117721,6 +117733,7 @@ Riza's
 rizoforen
 RNA-moleculen
 RNA-molecules
+RNA-vaccins
 roadblocks
 roadies
 roadmanagers
@@ -118879,6 +118892,7 @@ roomkaasje
 roomkaasjes
 roomkazen
 roomkleurige
+roomkoppen
 roommeters
 roomsausen
 roomsausje
@@ -125318,6 +125332,7 @@ slavenopstanden
 slavenschepen
 slavenzielen
 slavernijmonumenten
+slavernijtentoonstellingen
 slavinken
 slavinnen
 slavinnetje
@@ -129298,6 +129313,7 @@ squaws
 Srananmans
 Sri Lankaanse
 Sri Lankanen
+SRV-wagens
 s's
 SSD's
 SS'ers
@@ -145782,6 +145798,7 @@ vectoren
 vectorruimten
 vectorruimtes
 vectortekeningen
+vectorvaccins
 Veda's
 vedelaars
 vedelde
@@ -154822,6 +154839,7 @@ voltogen
 voltooi
 voltooide
 voltooiden
+voltooidlevenwetten
 voltooiend
 voltooiende
 voltooiingen
@@ -159654,6 +159672,7 @@ weggekruist
 weggekwijnd
 weggekwijnde
 weggelachen
+weggelakt
 weggelaten
 weggelegd
 weggelegde
@@ -159875,6 +159894,8 @@ wegkwijnende
 wegkwijnt
 weglaat
 weglaatbare
+weglak
+weglakt
 weglatingen
 weglatingstekens
 wegleg
@@ -161288,6 +161309,7 @@ Whitleys
 Whitneys
 whizzkids
 whodunits
+WHO-onderzoekers
 Wibo's
 Wichards
 wichel
@@ -163485,6 +163507,7 @@ zadeldakjes
 zadelde
 zadeldekken
 zadelden
+zadeldiefstallen
 zadelgewrichten
 zadelklevers
 zadelklevertje
@@ -165583,7 +165606,6 @@ zondagsmissen
 zondagsopenstellingen
 zondagspakken
 zondagsplichten
-zondagspreek
 zondagspreken
 zondagsrijders
 zondagsschilders
