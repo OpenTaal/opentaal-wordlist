@@ -20083,7 +20083,6 @@ bloemenstalletjes
 bloemenstoeten
 bloementapijten
 bloementelers
-bloementjes
 bloementuinen
 bloementuintje
 bloemenvazen
@@ -72122,6 +72121,7 @@ kinnen
 kinnetjes
 Kinrooise
 Kins
+kinwarmers
 kiosken
 kioskhouders
 kipfilets
@@ -123667,6 +123667,7 @@ seksrobots
 seksrobotten
 seksscènes
 seksschandalen
+seksschommels
 seksshops
 sekssites
 seksslaven
@@ -133385,6 +133386,7 @@ subschalen
 subscripties
 subsecties
 subsectoren
+subsets
 subsidiabele
 subsidiaire
 subsidieaanvragen
@@ -162854,6 +162856,7 @@ woonwagens
 woonwagenstandplaatsen
 woonwagenterreinen
 woonwagentje
+woonwagentjes
 woonwensen
 woon-werkprojecten
 woonwijken
@@ -165553,6 +165556,7 @@ zomerregens
 zomerreisje
 zomerresidenties
 zomerschoenen
+zomerschoentjes
 zomerscholen
 zomerse
 zomerseizoenen
