@@ -38,6 +38,8 @@ Deze zijn aangevuld met een aantal hulpbestanden:
 - `elements/wordparts.tsv`
 - `elements/corrections.tsv`
 - `elements/romeinse-cijfers.txt`
+- `elements/wordlist-ascii.txt`
+- `elements/romeinse-non-ascii.txt`
 
 De complete woordenlijst is te vinden in het
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
@@ -88,7 +90,17 @@ puntkomma. De meest relevante correctie staat dan vooraan.
 
 Verder staan in het bestand
 [elements/romeinse-cijfers.txt](elements/romeinse-cijfers.txt) 4.000 Romeinse
-cijfers.
+cijfers. Een versie van de woordenlijst in
+[ASCII](https://nl.wikipedia.org/wiki/ASCII_(tekenset)) is te vinden in
+[elements/wordlist-ascii.txt](elements/wordlist-ascii.txt). Dit is geen
+extended ASCII, dus bevat deze lijst geen woorden met `é`, `ï`, etc. Let op:
+deze lijst heeft geen woorden waar accenten van letters zijn verwijderd! Het
+woord `café` zit niet in deze lijst maar  `cafe` dus ook niet. Neem
+contact op als het wenselijk is woorden van accenten te strippen en op te nemen.
+
+Woorden met niet-ASCII-karakters zijn te vinden in
+[elements/romeinse-non-ascii.txt](elements/romeinse-non-ascii.txt). Neem contact
+op als ook een woordenlijst in exteded ASCII gewenst is.
 
 ## Optioneel
 
@@ -107,16 +119,10 @@ maatwerkbestanden in een versie op te nemen.
 ## Karakters
 
 In het huidige tijdperk van Unicode is deze woordenlijst voorzien van karakters
-die **niet** deel uitmaken van
-[ASCII](https://nl.wikipedia.org/wiki/ASCII_(tekenset)). Voorbeelden hiervan
+die **niet** deel uitmaken van (extended) ASCII. Voorbeelden hiervan
 zijn cijfers in super- en subscript zoals een `₂` in `CO₂-emissie` en `³` in
-`m³`. Als er een behoefte is aan bestanden uit deze woordenlijst die alleen maar
-ASCII-tekens bevatten, neem dan [contact](https://www.opentaal.org/contact) op
-met Stichting OpenTaal.
-
-Let op, dit heeft als impact dat bepaalde woorden ontdubbeld moeten worden,
-sommige woorden en foutcorrecties zullen verdwijnen. Omdat we het gebruik van
-Unicode aanbevelen, hebben we deze ondersteuning voor ASCII momenteel niet.
+`m³`. Let op, veelvoorkomende karakters zoals `é`, `ë` en `ï` maken wel deel uit
+van extended ASCII en Unicode maar niet van de basis ASCII.
 
 Een ander project van OpenTaal biedt histogrammen van de letterfrequenties van
 de woordenlijst. Wanneer deze is bijgewerkt zal er hier een link naar worden

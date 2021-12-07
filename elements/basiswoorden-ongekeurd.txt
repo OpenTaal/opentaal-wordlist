@@ -4252,6 +4252,7 @@ Bokhorst
 Bokhove
 Bokhoven
 Bokito
+bokitoproof
 Bokkers
 Bokkum
 Bokma
@@ -4413,6 +4414,7 @@ Boomaerts
 Booman
 Boomdijk
 Boomen
+boomer
 Boomgaard
 Boomgaardlaan
 Boomgaardstraat
@@ -7228,6 +7230,7 @@ coronahufter
 coronalijer
 coronamaatregel
 coronamoe
+coronamoeheid
 coronapatiënt
 coronapens
 coronaproblematiek
@@ -7312,6 +7315,7 @@ covalent
 covariantie
 covariantiefunctie
 COVID-19
+covidioot
 Cox
 Cozijn
 Cozijnsen
@@ -13478,6 +13482,7 @@ Gobardhan
 Gobi
 Gobind
 Gobiwoestijn
+godan
 Godart
 Goddijn
 Godding
@@ -16313,6 +16318,7 @@ Hoepertingen
 Hoeselt
 Hoesen
 Hoessein
+hoestschaamte
 Hoet
 Hoetelmans
 Hoetink
@@ -17686,6 +17692,7 @@ Inia
 inkomenssubsidie
 Inkscape
 INL
+in  levenden lijve
 Innemee
 inneuken
 Innsbruck
@@ -18885,6 +18892,7 @@ Jungerius
 Jungfrau
 Juninho
 Junior
+Juniper
 Junne
 Juno
 Junolaan
@@ -20399,6 +20407,7 @@ Knotwilg
 KNRM
 KNSB
 Knubben
+knuffelcontact
 Knuffelsgracht
 Knuiman
 Knuit
@@ -20524,6 +20533,7 @@ Koffijberg
 Kofi
 Kofschip
 Kofstraat
+kogeltrein
 Kogerpolder
 Kogge
 Koggel
@@ -29718,6 +29728,7 @@ Newtonstraat
 Newtonweg
 New York
 New York Times
+Nextcloud
 Nexus
 Ng
 NG
@@ -29779,6 +29790,7 @@ Nicoline
 Nicolle
 Nicosia
 Nidal
+nidan
 Niebeek
 Nieberg
 Niebert
@@ -30582,6 +30594,7 @@ Nuri
 Nuria
 Nurmohamed
 Nürnberg
+Nuspell
 Nusselder
 Nuth
 Nutma
@@ -31010,6 +31023,7 @@ onderzoekssubsidie
 Onegameer
 Ong
 ongecorreleerd
+ongeïnformeerdheid
 ongelden
 Ongeren
 Onink
@@ -31032,6 +31046,7 @@ Onstwedde
 Onstwedder
 Onstweds
 Ontginningsweg
+ontvrienden
 Onur
 onversleuteld
 Onvlee
@@ -35680,6 +35695,7 @@ Samsam
 Samsen
 Samsom
 Samson
+samsonseks
 Samsung
 Samsung-concern
 Samuel
@@ -35693,6 +35709,7 @@ Sanae
 Sanches
 Sanchez
 Sancho
+sandan
 Sandberg
 Sandbergen
 Sandd
@@ -36848,11 +36865,13 @@ Shi
 Shijonawate
 Shimon
 Shin
+shinkansen
 Shira
 Shire
 Shirin
 Shirley
 Shlomo
+shodan
 Shona
 Shu
 si
@@ -42264,6 +42283,7 @@ Virginia
 Virginie
 Virgo
 Virolastraat
+viruswappie
 Visbrug
 Visch
 viscoseoplossing
@@ -45134,6 +45154,7 @@ yogaën
 Yogyakarta
 Yolanda
 Yolande
+yondan
 Yong
 Yoni
 Yonne

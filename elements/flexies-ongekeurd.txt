@@ -28244,6 +28244,7 @@ covers
 coverstory's
 covert
 coverversies
+covidioten
 covoorzitters
 cowboyfilms
 cowboyhoeden
@@ -74082,6 +74083,7 @@ knuffelbeesten
 knuffelbeestje
 knuffelbeestjes
 knuffelberen
+knuffelcontacten
 knuffelde
 knuffelden
 knuffeldieren
@@ -98884,6 +98886,8 @@ ontvreemdden
 ontvreemde
 ontvreemdingen
 ontvreemdt
+ontvriend
+ontvriendt
 ontvroor
 ontvroren
 ontwaak
