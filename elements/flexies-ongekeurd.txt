@@ -7271,6 +7271,7 @@ airconditioningsystemen
 aircootje
 airco's
 aircospecialisten
+airfryers
 airhostessen
 airmarshals
 airmiles
@@ -7668,6 +7669,7 @@ allesvernietigendste
 allesverslindende
 allesverwoestende
 allesverzengende
+allesvullers
 alleswetende
 alliages
 alliantiepartners
@@ -8615,6 +8617,7 @@ antifascisten
 antifascistische
 antifonen
 anti-Franse
+antigeentesten
 antigenen
 antigevoelens
 antigifcentra
@@ -9408,6 +9411,8 @@ armbanden
 armbandhorloges
 armbandje
 armbandjes
+armbeschermer
+armbeschermers
 armbesturen
 armbewegingen
 armdikke
@@ -28002,6 +28007,7 @@ coronalijers
 coronamaatregelen
 coronapatiënten
 coronapensen
+coronapuppy's
 corona's
 coronaspugers
 coronavaccins
@@ -28495,6 +28501,7 @@ cryptocommunisten
 cryptofoons
 cryptografische
 cryptogrammen
+cryptovaluta's
 Crystals
 c's
 csardassen
@@ -31014,6 +31021,7 @@ deurdrangers
 deuren
 deurgaten
 deurgrepen
+deurhorren
 deurkettingen
 deurklinken
 deurkloppers
@@ -32498,6 +32506,7 @@ Djamila's
 Django's
 djatibomen
 djati's
+djcursussen
 djellaba's
 djembés
 djeroeks
@@ -32949,6 +32958,7 @@ Domenico's
 domesticeerde
 domestieken
 domheden
+domheidsspecialisten
 domheren
 domicilieerde
 domicilieerden
@@ -35310,6 +35320,7 @@ driftigst
 driftigste
 driftkikkers
 driftkikkertje
+driftkikkertjes
 driftkoppen
 driftmatige
 drijf
@@ -35406,6 +35417,7 @@ drinkwaternormen
 drinkwaterproblemen
 drinkwatersystemen
 drinkwatertanks
+drinkwaterttappunten
 drinkwatervoorzieningen
 Driss'
 drive-ins
@@ -40749,6 +40761,9 @@ festivalkranten
 festivalletje
 festivalletjes
 festivallocaties
+festivalmunten
+festivalmuntje
+festivalmuntjes
 festivalorganisaties
 festivalorganisatoren
 festivalpodia
@@ -43880,12 +43895,14 @@ gaswolken
 gatdoeken
 gatenkazen
 gatenplanten
+gatenzagen
 gates
 gatlikkerijen
 gatlikkers
 gatlikte
 gatsometers
 gatten
+gatzagen
 gaucho's
 gaufreerde
 Gaukes
@@ -44249,7 +44266,6 @@ gebarricadeerde
 gebarsten
 gebaseballd
 gebased
-gebaseerd
 gebaseerde
 gebaseerden
 gebasket
@@ -49442,7 +49458,6 @@ genoeglijkheden
 genoeglijkste
 genoegt
 genoegzame
-genoemde
 genoemden
 genoffels
 genoffeltje
@@ -56251,6 +56266,7 @@ grondzaken
 grondzeeën
 grondzeilen
 grondzeilers
+grondzuigers
 grondzuilen
 Groningers
 grootaandeelhouders
@@ -56802,6 +56818,7 @@ haarstilisten
 haarstrengen
 haarstukjes
 haarstukken
+haarstylingsapparaten
 haart
 haartjes
 haartransplantaties
@@ -59811,6 +59828,7 @@ hetaeren
 hete
 heteluchtballonnen
 heteluchtballons
+heteluchtfriteuses
 heteluchtkachels
 heteluchtkanonnen
 heteluchtmotoren
@@ -68000,6 +68018,7 @@ jeukende
 jeukerige
 jeukt
 jeukten
+jeuktweets
 jeukziekten
 jeukziektes
 jeuzel
@@ -72117,6 +72136,7 @@ kinkhoorns
 kinkhorens
 kinkje
 kinkjes
+kinmaskers
 kinnebakken
 kinnen
 kinnetjes
@@ -73352,6 +73372,7 @@ kloffies
 klojo's
 klokbekers
 klokbloemen
+klokboren
 klok-en-hamerspellen
 klokgevels
 klokgeveltje
@@ -76995,6 +77016,7 @@ kubusjes
 kubussen
 kubusvormige
 kuchend
+kuchschermen
 kucht
 kuchte
 kuchten
@@ -86222,7 +86244,6 @@ meestbegunstigde
 meestbegunstigingsclausules
 meestbelovende
 meestbiedenden
-meeste
 meesten
 meesterachtige
 meesterbreinen
@@ -92631,6 +92652,7 @@ neusklanken
 neusknijpers
 neusnijpers
 neusoperaties
+neusperen
 neuspeuterend
 neuspeuterende
 neuspleisters
@@ -96110,6 +96132,7 @@ onderduikt
 onderduimse
 onderduwt
 ondereinden
+onderfamilies
 onderga
 ondergaand
 ondergaande
@@ -103323,6 +103346,7 @@ oud-Sovjetrepublieken
 oud-spelers
 oud-spitsen
 oud-sporters
+oud-SS'ers
 oudst
 oud-staatssecretarissen
 oudsten
@@ -106530,6 +106554,7 @@ pedofiele
 pedofielen
 pedofilienetwerken
 pedofiliezaken
+pedojagers
 pedologen
 pedologische
 pedometers
@@ -107066,6 +107091,7 @@ perkte
 perkten
 Perla's
 Perles
+permalinks
 permanente
 permanenter
 permanentjes
@@ -111245,9 +111271,11 @@ prikkers
 prikkertjes
 prikklokken
 priklimonades
+priknachten
 prikpennen
 prikpillen
 prikposten
+prikregistraties
 prikstokken
 prikstraten
 prikt
@@ -112568,6 +112596,7 @@ prulachtige
 pruldichters
 prullenbakje
 prullenbakken
+prullenbakvaccins
 prullenkramen
 prullenmanden
 prullenmandje
@@ -112917,6 +112946,7 @@ punkers
 punkgroepen
 punkgroepje
 punkkapsels
+punkrockbands
 punkrockers
 punks
 punksongs
@@ -113095,6 +113125,7 @@ puzzelde
 puzzelden
 puzzelgames
 puzzelkubussen
+puzzelmatten
 puzzelritten
 puzzels
 puzzelspelletje
@@ -113148,6 +113179,7 @@ Qasims
 Qatarese
 Q-koortspatiënten
 QR-codes
+QR-tegels
 q's
 q'tje
 q'tjes
@@ -113365,6 +113397,7 @@ raamschilderingen
 raamsponningen
 raamstijlen
 raamt
+raamuitzetters
 raamvertellingen
 raamwerken
 raamwerkje
@@ -118131,6 +118164,7 @@ rolfilms
 Rolfs
 rolgordijnen
 rolhandelingen
+rolhouders
 rolkeien
 rolkragen
 rolladen
@@ -119289,6 +119323,8 @@ rozijntje
 rozijntjes
 Rozina's
 r's
+RSS-feeds
+RSS-lezers
 rubberachtige
 rubberballen
 rubberbanden
@@ -121897,6 +121933,7 @@ schildvormige
 schildwachten
 schildwachthuisjes
 schildwachts
+schildwespen
 schilferachtige
 schilferde
 schilferden
@@ -122933,6 +122970,8 @@ schroefaskokers
 schroefassen
 schroefbacteriën
 schroefbanken
+schroefbitje
+schroefbitjes
 schroefbladen
 schroefboren
 schroefboten
@@ -123320,6 +123359,7 @@ schuurfeesten
 schuurkerken
 schuurkurken
 schuurmachientje
+schuurmachientjes
 schuurmachines
 schuurmiddelen
 schuurpalen
@@ -123446,6 +123486,9 @@ sculpturale
 sculpturen
 sculptuurtje
 sculptuurtjes
+SD-kaarten
+SD-kaartje
+SD-kaartjes
 seal
 sealde
 sealt
@@ -126557,6 +126600,7 @@ snelwegen
 snelwegers
 snelweggebruikers
 snelwerkende
+snelzeikers
 snelzeilers
 sneppen
 sneppers
@@ -127497,6 +127541,7 @@ spadesteken
 spadestelen
 SP-afdelingen
 spagaten
+spaghettibandjes
 spaghettivreters
 spaghettiwesterns
 spakerige
@@ -127780,6 +127825,7 @@ speelgoedberen
 speelgoeddieren
 speelgoederen
 speelgoedfabrikanten
+speelgoedfans
 speelgoedgeweertje
 speelgoedgeweertjes
 speelgoedhuisjes
@@ -131164,6 +131210,7 @@ stijloefeningen
 stijlopvattingen
 stijlperioden
 stijlperiodes
+stijlspecifieke
 stijltje
 stijltjes
 stijltuinen
@@ -134585,6 +134632,7 @@ tai-chiet
 taifoens
 taiga's
 taikoens
+taikonauten
 taillebanden
 tailleerde
 taillelijnen
@@ -135267,6 +135315,7 @@ tegelvloeren
 tegelwanden
 tegelwerken
 tegelzetters
+tegelzettersgereedschappen
 tegemoetgekomen
 tegemoetgetreden
 tegemoetgezien
@@ -137553,6 +137602,9 @@ tienjarigen
 tienkoppige
 tienlingen
 tienmannen
+tienminutengesprekje
+tienminutengesprekjes
+tienminutengesprekken
 tienponders
 tienregelige
 tienrittenkaarten
@@ -138808,6 +138860,7 @@ toetrokken
 toetsaanslagen
 toetsbare
 toetscijfers
+toetsenbordapps
 toetsenborden
 toetsenbordje
 toetsenbordjes
@@ -139923,6 +139976,7 @@ traites
 traiteurs
 trajectbegeleiders
 trajectcontroles
+trajectcontrolesystemen
 trajectdelen
 trajecten
 trajectkaarten
@@ -140063,6 +140117,7 @@ transformerend
 transformerende
 transfusiereacties
 transfusies
+transgenderatleten
 transgenders
 transgene
 transigeerde
@@ -144514,6 +144569,7 @@ ultrageheime
 ultrakorte
 ultralichte
 ultralinkse
+ultralopers
 ultramarijne
 ultramicroscopen
 ultramoderne
@@ -161941,6 +161997,7 @@ windgaten
 windgeneratoren
 windgenerators
 windgevoelige
+windgongen
 windhaken
 windhanen
 windharpen
@@ -165987,6 +166044,7 @@ zoutpotten
 zoutraffinaderijen
 zoutst
 zoutste
+zoutstenen
 zoutstrooiers
 zoutten
 zouttuinen
@@ -166501,6 +166559,7 @@ zweefde
 zweefden
 zweefmolens
 zweefmomenten
+zweefparasols
 zweefrekken
 zweefsporen
 zweeft

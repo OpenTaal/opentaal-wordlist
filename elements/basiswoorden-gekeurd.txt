@@ -58469,6 +58469,7 @@ gebarenschat
 gebarenspel
 gebarentaal
 gebarentolk
+gebaseerd
 gebazel
 gebbe
 gebbetje
@@ -108779,6 +108780,7 @@ meestbegunstigd
 meestbegunstigingsbehandeling
 meestbegunstigingsclausule
 meestbiedende
+meeste
 meestemmen
 meestendeels
 meestentijds
