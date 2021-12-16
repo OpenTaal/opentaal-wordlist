@@ -1,3 +1,11 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/opentaal/opentaal-wordlist)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/opentaal/opentaal-wordlist)
+![GitHub Repo stars](https://img.shields.io/github/stars/opentaal/opentaal-wordlist)
+![GitHub watchers](https://img.shields.io/github/watchers/opentaal/opentaal-wordlist)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/opentaal)
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/opentaal)
+
+
 _for English, please see below_
 
 
@@ -184,6 +192,8 @@ Help ons vrije en open Nederlandse schrijftools te ontwikkelen. Doneer
 belastingvrij aan onze ANBI via https://www.opentaal.org/vrienden-van-opentaal
 of contacteer ons als je woordenlijsten of databasevaardigheden te bieden hebt.
 
+Doneren is ook mogelijk met <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 # Dutch word list
 
@@ -272,3 +282,5 @@ this, please contact [TaalTik](https://taaltik.nl).
 Please, help us create free and open Dutch writing tools. Donate tax free to our
 foundation at https://www.opentaal.org/vrienden-van-opentaal or contact us is
 you have word lists to database skills to offer.
+
+Donating is also possible with <noscript><a href="https://liberapay.com/opentaal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
