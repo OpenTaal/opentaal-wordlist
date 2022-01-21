@@ -496,6 +496,7 @@ Addis Abebaër
 Addis Abebiet
 Addis Abebitisch
 Ade
+à decharge
 Adegeest
 Adegem
 Adel
@@ -663,6 +664,7 @@ Agterberg
 Agterbos
 Agterdenbos
 Agterhuis
+AH
 Ahinsaweg
 Ahlers
 Ahmad
@@ -765,6 +767,7 @@ Akzo
 AkzoNobel
 Al
 Alabama
+à-la-cartemenu
 Alain
 Alam
 Alan
@@ -4048,7 +4051,7 @@ BMW
 BMX
 BNN
 BNN'er
-BNR
+BNR Nieuwsradio
 Bo
 Boakye
 Boarnsterhim
@@ -12764,6 +12767,7 @@ Garst
 Garsthuizen
 Gary
 Garyp
+gasbesluit
 Gasfabriekstraat
 Gashouderstraat
 Gaslaan
@@ -43930,6 +43934,7 @@ Werkendams
 werkgelegenheidsmaatregel
 werkgelegenheidssubsidie
 Werkhoven
+werkwoordstijd
 Werleman
 Werm
 Wermink
@@ -44216,7 +44221,7 @@ W.F. Hermans
 W.G. van de Hulst
 WhatsApp
 WhatsApp-dienst
-Whatsappgroep
+whatsappgroep
 WhatsApp-groep
 White
 Whitley
@@ -45367,6 +45372,8 @@ YouTube
 YouTube-account
 YouTubekanaal
 YouTube-kanaal
+youtubevideo
+YouTubevideo
 Ype
 Ypecolsga
 Ypenburg

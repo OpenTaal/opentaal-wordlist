@@ -7350,6 +7350,7 @@ aksen
 aksten
 akten
 aktetassen
+à-la-cartemenu's
 à-la-carterestaurants
 Alains
 Alana's
@@ -19588,7 +19589,10 @@ bladziekten
 bladziektes
 bladzijden
 bladzijdes
+bladzijdetje
+bladzijdetjes
 bladzijtje
+bladzijtjes
 blaffend
 blaffende
 blafferds
@@ -20500,6 +20504,8 @@ bodysuits
 bodywarmers
 Boechoutse
 Boeddhabeelden
+Boeddhabeeldje
+Boeddhabeeldjes
 boeddha's
 boeddhisten
 boeddhistische
@@ -21936,6 +21942,7 @@ Boukjes
 boulangers
 boulevardbladen
 boulevardje
+boulevardjes
 boulevardkranten
 boulevards
 bourbons
@@ -25194,6 +25201,7 @@ chakra's
 chalcedonen
 Chaldeeërs
 chaletje
+chaletjes
 chalets
 challengers
 challes
@@ -75459,6 +75467,7 @@ koraalvissen
 koraalvissers
 koraalwieren
 Korangeleerden
+Koranlessen
 korans
 Koranscholen
 Koranspreuken
@@ -161134,6 +161143,7 @@ werkwinkels
 werkwoordelijke
 werkwoorden
 werkwoordstammen
+werkwoordstijden
 werkwoordsvormen
 werkzaamst
 werkzame
@@ -161385,7 +161395,12 @@ wezensvreemde
 wezentje
 wezentjes
 whatsapp
+whatsappgroepen
 WhatsAppgroepen
+whatsappgroepje
+WhatsAppgroepje
+whatsappgroepjes
+WhatsAppgroepjes
 wherry's
 whiplashes
 whirlpools
@@ -163427,6 +163442,12 @@ Youps
 Youri's
 Yousefs
 Youssefs
+youtubevideootje
+YouTubevideootje
+youtubevideootjes
+YouTubevideootjes
+youtubevideo's
+YouTubevideo's
 Ypenburgse
 Ypes
 ypsilons
