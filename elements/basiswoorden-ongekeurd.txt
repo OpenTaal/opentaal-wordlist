@@ -7786,6 +7786,7 @@ Dantumadiel
 Dantzig
 Dany
 Dao
+DAO
 Daoud
 Daoudi
 Dap
@@ -9126,6 +9127,7 @@ Diertens
 diervoederfabrikant
 Dierx
 Diesel
+dieselgate
 Dieselstraat
 Dieselweg
 Diessen
@@ -9920,6 +9922,7 @@ Drijverspad
 Drimmelen
 Drin
 drinkwatertappunt
+drinkwaterttappunt
 Driss
 Drissen
 Dr. J.F. Nassylaan
@@ -11114,6 +11117,7 @@ Emily
 Emin
 Emine
 Emir
+emissieschandaal
 Emke
 Emma
 Emmahof
@@ -11491,6 +11495,7 @@ Etersheim
 Ethaanstraat
 Ethan
 Ethem
+Ethereum
 Etherpad
 Ethiopië
 Ethiopiër
@@ -12079,6 +12084,7 @@ Firat
 Firdgum
 Firefox
 Firing
+Firo
 Fischer
 Fiselier
 Fisscher
@@ -12320,6 +12326,7 @@ Fox-IT
 Foxwolde
 Fraamklap
 Fraanje
+fracking
 Fraikin
 Framboos
 Frambozenstraat
@@ -23015,6 +23022,7 @@ Linting
 Lintjens
 Lintsen
 Lintvelde
+lintvoeg
 Linus
 Linus Torvalds
 Linux
@@ -23073,6 +23081,7 @@ Lisztstraat
 Lit
 Lita
 Litani
+Litecoin
 Lith
 Lithoijen
 Litjens
@@ -34076,6 +34085,12 @@ Rechtseenheidskamer
 Rechtstraat
 rechtvaardigheidsbeginsel
 Recourt
+recruit
+recruiting
+recruitment
+recruitmentbureau
+recruitmentproces
+recruitmentsite
 Rectum
 Reda
 Redan
@@ -34265,6 +34280,14 @@ Reker
 Rekkem
 Rekken
 Rekordbox
+rekruteerder
+rekruteringsbedrijf
+rekruteringsbereik
+rekruteringsbureau
+rekruteringscampagne
+rekruteringsgebied
+rekruteringspotentieel
+rekruteringsveld
 Rekveld
 Relegem
 Reling

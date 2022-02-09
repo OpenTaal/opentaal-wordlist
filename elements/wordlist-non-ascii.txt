@@ -44,6 +44,7 @@ actiescène
 actiescènes
 actuariële
 Addis Abebaër
+à decharge
 adenoïde
 Adriënne
 Adriënnes
@@ -89,6 +90,8 @@ Aïsha
 Aïsha's
 aïssen
 à la carte
+à-la-cartemenu
+à-la-cartemenu's
 à-la-carterestaurant
 à-la-carterestaurants
 à la minute
