@@ -169219,7 +169219,7 @@ toetsenbediening
 toetsenblok
 toetsenblokkering
 toetsenbord
-toetsenbordverlichiting
+toetsenbordverlichting
 toetsencombinatie
 toetseninstrument
 toetsenist
