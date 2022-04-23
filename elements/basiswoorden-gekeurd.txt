@@ -89975,7 +89975,7 @@ klavierspeelster
 klavierspel
 klavierspeler
 klaviertafel
-klavierverlichiting
+klavierverlichting
 klavierwerk
 Klebsiella
 kledder
@@ -169219,7 +169219,7 @@ toetsenbediening
 toetsenblok
 toetsenblokkering
 toetsenbord
-toetsenbordverlichiting
+toetsenbordverlichting
 toetsencombinatie
 toetseninstrument
 toetsenist
