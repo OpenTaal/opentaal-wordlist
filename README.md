@@ -47,7 +47,7 @@ Deze zijn aangevuld met een aantal hulpbestanden:
 - `elements/corrections.tsv`
 - `elements/romeinse-cijfers.txt`
 - `elements/wordlist-ascii.txt`
-- `elements/romeinse-non-ascii.txt`
+- `elements/wordlist-non-ascii.txt`
 
 De complete woordenlijst is te vinden in het
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
@@ -107,7 +107,7 @@ woord `café` zit niet in deze lijst maar  `cafe` dus ook niet. Neem
 contact op als het wenselijk is woorden van accenten te strippen en op te nemen.
 
 Woorden met niet-ASCII-karakters zijn te vinden in
-[elements/romeinse-non-ascii.txt](elements/romeinse-non-ascii.txt). Neem contact
+[elements/wordlist-non-ascii.txt](elements/wordlist-non-ascii.txt). Neem contact
 op als ook een woordenlijst in exteded ASCII gewenst is.
 
 ## Optioneel
