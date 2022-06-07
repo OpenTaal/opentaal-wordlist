@@ -156663,6 +156663,7 @@ vredeshandhavers
 vredesinitiatieven
 vredesinspanningen
 vredeskansen
+vredeskoersen
 vredeskussen
 vredesmachten
 vredesmarsen
@@ -156670,13 +156671,18 @@ vredesmilitairen
 vredesmissies
 vredesoffensieven
 vredesonderhandelaars
+vredesonderhandelingen
 vredesondersteunende
 vredesoperaties
 vredesorganisaties
 vredesovereenkomsten
+vredespijpen
+vredespijpje
+vredespijpjes
 vredesplannen
 vredespogingen
 vredesprijzen
+vredesproblematieken
 vredesprocessen
 vredesprojecten
 vredessoldaten
