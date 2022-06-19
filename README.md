@@ -53,7 +53,7 @@ De complete woordenlijst is te vinden in het
 [UTF-8 Unicode](https://nl.wikipedia.org/wiki/UTF-8) tekstbestand genaamd
 [wordlist.txt](wordlist.txt). Elke regel bevat een apart woord en in totaal zijn
 dat er meer dan 400.000 woorden. Let op, een woord kan een spatie bevatten en
-dat kom meer dan 4.000 keer voor. Alle woorden zijn alfabetisch gesorteerd met
+dat komt meer dan 4.000 keer voor. Alle woorden zijn alfabetisch gesorteerd met
 [`sort`](http://www.gnu.org/software/coreutils/sort). Dit bestand is
 samengesteld uit de volgende drie bestanden.
 
