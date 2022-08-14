@@ -6697,6 +6697,7 @@ circuitgericht
 Ciro
 Cis
 Cisco
+cisgender
 Ciska
 Ciskaukasië
 Ciske
@@ -13037,6 +13038,7 @@ Gemonde
 Gemondseweg
 Gemser
 Genderen
+genderfluïde
 Genders
 Gendringen
 Gendringer
@@ -17803,6 +17805,7 @@ internetencyclopedie
 Internet Explorer
 Interpay
 Interpolis
+intersekse
 intimiteitsvacuüm
 intracutaan
 Intratuin
@@ -30364,6 +30367,7 @@ Nolten
 Nolting
 Nomden
 Nona
+non-binair
 Nonkes
 Nonnekes
 Nonnenstraat
@@ -32194,6 +32198,7 @@ Panningen
 Panoramaweg
 Panoven
 Panovenweg
+panseksueel
 Pansier
 Pansters
 Pantanal
@@ -32449,6 +32454,7 @@ Pavlov
 Pax
 PayPal
 Paz
+PBM
 P.C. Boutensstraat
 P.C. Hooftlaan
 P C Hooftstraat
