@@ -9643,6 +9643,7 @@ artsen
 artsenbezoeken
 artsenbezoekers
 artsenbezoeksters
+artsendiploma's
 artsenijen
 artsenmonsters
 artsenorganisaties
@@ -10284,6 +10285,7 @@ autodate
 autodatet
 autodatete
 autodealers
+autodeelsystemen
 autodelers
 autodeuren
 autodidacte
@@ -11613,6 +11615,7 @@ bankgelden
 bankgirocentrales
 bankgiro's
 bankgroepen
+bankheffingen
 bankhouders
 bankierde
 bankierend
@@ -11670,6 +11673,7 @@ bankstaten
 bankstellen
 bankstelletje
 bankstelsels
+bankstructuren
 banksystemen
 bankt
 banktarieven
@@ -28761,6 +28765,7 @@ cybercafés
 cybercriminelen
 cybercritica
 cyberdaders
+cybernauten
 cybernetische
 cyberpunks
 cyberverzekeringen
@@ -64940,6 +64945,7 @@ inhoudend
 inhoudende
 inhoudingen
 inhoudingsplichtigen
+inhoudloze
 inhoudsbepalingen
 inhoudsloze
 inhoudsmaten
@@ -81967,6 +81973,7 @@ locatiesubsidies
 locatiesystemen
 locatieven
 Lochemse
+lockdowns
 lockers
 locoburgemeesters
 locomobielen
@@ -87180,6 +87187,7 @@ Merles
 Merlijns
 Merlins
 Merlots
+Meroïtische
 meroniemen
 Merovingers
 merriepaarden
@@ -141152,6 +141160,7 @@ T-shirts
 Tsjaadse
 Tsjadische
 Tsjechen
+Tsjechoslowaakse
 Tsjerks
 Tsjetsjeens
 Tsjetsjeense
@@ -163745,6 +163754,7 @@ zakflaconnetje
 zakflacons
 zakhorloges
 Zaki's
+zakjapanners
 zakje
 zakjes
 zakkammen
