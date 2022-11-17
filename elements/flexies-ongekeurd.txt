@@ -2594,6 +2594,9 @@ Aärons
 Aarschotse
 aarsdarmen
 aarsgaten
+aarsgeweien
+aarsgeweitje
+aarsgeweitjes
 aarsopeningen
 aarsvinnen
 aart
@@ -9643,6 +9646,7 @@ artsen
 artsenbezoeken
 artsenbezoekers
 artsenbezoeksters
+artsendiploma's
 artsenijen
 artsenmonsters
 artsenorganisaties
@@ -10284,6 +10288,7 @@ autodate
 autodatet
 autodatete
 autodealers
+autodeelsystemen
 autodelers
 autodeuren
 autodidacte
@@ -11613,6 +11618,7 @@ bankgelden
 bankgirocentrales
 bankgiro's
 bankgroepen
+bankheffingen
 bankhouders
 bankierde
 bankierend
@@ -11670,6 +11676,7 @@ bankstaten
 bankstellen
 bankstelletje
 bankstelsels
+bankstructuren
 banksystemen
 bankt
 banktarieven
@@ -20441,6 +20448,9 @@ bochtje
 bochtjes
 bockbieren
 bockbiertje
+bockworsten
+bockworstje
+bockworstjes
 bodega's
 bodekamers
 bodemanalyses
@@ -21020,6 +21030,7 @@ bolgewassen
 bolhoeden
 boliden
 bolides
+Bolivariaanse
 bolivars
 Boliviaanse
 Bolivianen
@@ -23228,6 +23239,7 @@ bruggenmannen
 bruggenwachters
 bruggepensioneerden
 bruggetjes
+brughagedissen
 brugjaren
 brugje
 brugjes
@@ -24022,10 +24034,13 @@ burinnen
 burinnetje
 burinnetjes
 burins
+burl
 burlde
+burlden
 burlend
 burleske
 burlesker
+burlt
 burn-outs
 burrito's
 bursalen
@@ -28761,6 +28776,7 @@ cybercafés
 cybercriminelen
 cybercritica
 cyberdaders
+cybernauten
 cybernetische
 cyberpunks
 cyberverzekeringen
@@ -31480,6 +31496,7 @@ dicterende
 dictionaires
 dictionairetje
 didactici
+didactieken
 didactische
 didactischer
 Didamse
@@ -41808,6 +41825,7 @@ flinters
 flintertje
 flintertjes
 Flints
+flipflops
 flip-overs
 flippend
 flipperautomaten
@@ -42900,6 +42918,7 @@ frijnt
 frikadellen
 frikadelletje
 frikadelletjes
+frikandelbroodjes
 frikandellen
 frikandelletje
 frikandelletjes
@@ -57198,10 +57217,15 @@ halveringstijden
 hamams
 Hamasstrijders
 hamblokjes
+hamburgerbakkers
+hamburgerbanen
 hamburgerketens
+hamburgerkramen
 hamburgerrestaurants
 hamburgers
 hamburgertenten
+hamburgertje
+hamburgertjes
 Hamburgse
 hameien
 hamelbouten
@@ -64940,6 +64964,7 @@ inhoudend
 inhoudende
 inhoudingen
 inhoudingsplichtigen
+inhoudloze
 inhoudsbepalingen
 inhoudsloze
 inhoudsmaten
@@ -68738,6 +68763,7 @@ kaaiden
 kaaiers
 kaaigelden
 kaailopers
+Kaaimaneilandse
 kaaimannen
 kaaimans
 kaaimuren
@@ -72724,6 +72750,7 @@ klavierinstrumenten
 klavierspelers
 klaviertje
 klaviertjes
+klavierverlichtingen
 klavierwerken
 klazen
 Klazina's
@@ -74916,6 +74943,7 @@ konen
 konfijt
 konfijtte
 kongeralen
+Kongolese
 kongsi's
 konijnen
 konijnenbergen
@@ -77966,6 +77994,7 @@ Kyo's
 Kyrans
 Kyra's
 kyuexamens
+kyu-examens
 KZ's
 laad
 laadbakje
@@ -81752,6 +81781,7 @@ lintjesjagers
 lintmeters
 Lintse
 lintvissen
+lintvoegen
 lintvormige
 lintwormen
 lintwormpjes
@@ -81967,6 +81997,7 @@ locatiesubsidies
 locatiesystemen
 locatieven
 Lochemse
+lockdowns
 lockers
 locoburgemeesters
 locomobielen
@@ -87180,6 +87211,7 @@ Merles
 Merlijns
 Merlins
 Merlots
+Meroïtische
 meroniemen
 Merovingers
 merriepaarden
@@ -99959,6 +99991,7 @@ Oost-Afrikaanse
 Oostakkerse
 Oost-Aziatische
 Oostbloklanden
+Oost-Caribische
 Oost-Duitsers
 oostelijke
 oostelijker
@@ -118972,6 +119005,7 @@ rookwolkje
 rookwolkjes
 rookworsten
 rookworstje
+rookworstjes
 rookzuilen
 roomblanke
 roomde
@@ -124480,6 +124514,7 @@ sierlijsten
 sierlijstje
 sierplanten
 sierpleisters
+Sierraleoonse
 sierranden
 sierrandje
 Sierra's
@@ -141152,6 +141187,7 @@ T-shirts
 Tsjaadse
 Tsjadische
 Tsjechen
+Tsjecho-Slowaakse
 Tsjerks
 Tsjetsjeens
 Tsjetsjeense
@@ -163438,8 +163474,12 @@ Yoeri's
 yogaat
 yogade
 yogaden
+yogadocenten
+yogaënd
 yogahoudingen
+yoga-instructeurs
 yogajuffen
+yogaleraars
 yogaleraren
 yogaleraressen
 yogalessen
@@ -163745,6 +163785,7 @@ zakflaconnetje
 zakflacons
 zakhorloges
 Zaki's
+zakjapanners
 zakje
 zakjes
 zakkammen
@@ -166192,6 +166233,7 @@ zuidpoolgebieden
 zuidpoolreizen
 zuidpoolreizigers
 Zuid-Soedanezen
+Zuid-Sudanese
 Zuid-Vlaamse
 zuidwaartse
 zuidwestelijker

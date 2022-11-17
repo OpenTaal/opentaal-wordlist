@@ -1,0 +1,13 @@
+{
+    "name": "meervouden voor zelfstandige naamwoorden",
+    "version": "0.0.1",
+    "description": "lijst en generator voor meervouden op basis van woordenlijst",
+    "main": "fetchplurals.js",
+    "scripts": {
+        "irregulars": "nodem ./irregulars.js",
+        "start": "node ./fetchplurals.js"
+    },
+    "author": "Kurt Beheydt <kurt@postduif.be>",
+    "license": "ISC",
+    "dependencies": {}
+}

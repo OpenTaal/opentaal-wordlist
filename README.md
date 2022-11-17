@@ -5,7 +5,6 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/opentaal)
 ![Liberapay patrons](https://img.shields.io/liberapay/patrons/opentaal)
 
-
 _for English, please see below_
 
 

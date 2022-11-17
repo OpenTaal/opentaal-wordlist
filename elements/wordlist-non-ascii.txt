@@ -3570,6 +3570,8 @@ mensenzeeën
 ME-patiënt
 ME-patiënten
 mer à boire
+Meroïtisch
+Meroïtische
 Mesopotamië
 mesozoïcum
 mét
@@ -5751,6 +5753,7 @@ Yalçin
 Yalçins
 Yaoundé
 yogaën
+yogaënd
 zaalpatiënten
 Zaïre
 Zaïrees
@@ -5831,6 +5834,7 @@ Zuid-Azië
 Zuid-Italië
 Zuidoost-Azië
 Zuid-Ossetië
+Zuid-Rhodesië
 zuivelcoöperatie
 zuivelcoöperaties
 zúlke
