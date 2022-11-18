@@ -14,11 +14,6 @@ try {
 var nouns = JSON.parse(fs.readFileSync(path.join(__dirname, irregularFile), "utf8"));
 var words = fs.readFileSync(path.join(__dirname, "../wordlist.txt"), "utf8").toString().split("\n");
 
-/*
-var words = ["schaaf", "golf", "maan", "jaar", "dar"];
-var nouns = {};
-*/
-
 var checkPlural = function (word) {
   if (!word.match(/^[a-zA-Z]*/g)) {
     console.log("niet alpha");
