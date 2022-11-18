@@ -180,7 +180,8 @@ var irregulars = {
   trans: "transen",
   wals: "walsen",
   wens: "wensen",
-  zeis: "zeisen"
+  zeis: "zeisen",
+  einde: ["eindes", "einden"]
 };
 
 // https://e-ans.ivdnt.org/topics/pid/ans03050402lingtopic

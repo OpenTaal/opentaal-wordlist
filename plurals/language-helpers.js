@@ -32,6 +32,14 @@ exports.endsWithSingleConsonant = word => {
   return word.match(/\w*[aeiou][bcdfghjklmnpqrstvwxyz]\b/);
 };
 
+exports.endswithStemloosVowel = word => {
+  return word.match(/\w*[aeiou][aeiou][tkfschp]\b/);
+};
+
+exports.endswithStemloos = word => {
+  return word.match(/\w*[bcdfghjklmnpqrstvwxyz][tkfschp]\b/);
+};
+
 exports.doesPluralExists = plural => {
   return plurals.includes(plural);
 };

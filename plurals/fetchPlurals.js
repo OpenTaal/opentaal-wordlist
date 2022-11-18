@@ -14,7 +14,12 @@ try {
 var nouns = JSON.parse(fs.readFileSync(path.join(__dirname, irregularFile), "utf8"));
 var words = fs.readFileSync(path.join(__dirname, "../wordlist.txt"), "utf8").toString().split("\n");
 
-var checkPlural = function(word) {
+/*
+var words = ["schaaf", "golf", "maan", "jaar", "dar"];
+var nouns = {};
+*/
+
+var checkPlural = function (word) {
   if (!word.match(/^[a-zA-Z]*/g)) {
     console.log("niet alpha");
     return false;
@@ -49,6 +54,15 @@ var checkPlural = function(word) {
     }
   }
   if (helpers.endsWithDoubleConsonant(word)) {
+    if (helpers.endswithStemloos(word)) {
+      var lastCharacter = word.charAt(word.length - 1);
+      basicword = word.substring(0, word.length - 1);
+      lastCharacter = lastCharacter.replace("f", "v");
+      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+        nouns[word] = basicword + lastCharacter + "en";
+        return true;
+      }
+    }
     if (helpers.doesPluralExists(word + "en")) {
       nouns[word] = word + "en";
       return true;
@@ -59,9 +73,26 @@ var checkPlural = function(word) {
     }
   }
   if (helpers.endsWithSingleConsonant(word)) {
+    var lastCharacter = word.charAt(word.length - 1);
+    basicword = word.substring(0, word.length - 2);
+    if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+      nouns[word] = basicword + lastCharacter + "en";
+      return true;
+    }
+    
     if (helpers.doesPluralExists(word + word.slice(-1) + "en")) {
       nouns[word] = word + word.slice(-1) + "en";
-      return true;      
+      return true;
+    }
+
+    if (helpers.endswithStemloosVowel(word)) {
+      var lastCharacter = word.charAt(word.length - 1);
+      basicword = word.substring(0, word.length - 2);
+      lastCharacter = lastCharacter.replace("f", "v");
+      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+        nouns[word] = basicword + lastCharacter + "en";
+        return true;
+      }
     }
   }
 
@@ -80,13 +111,12 @@ var checkPlural = function(word) {
 };
 
 words.forEach((word, index) => {
-
   console.log(word);
   checkPlural(word);
- 
 });
 
 console.log(nouns);
+
 
 let data = JSON.stringify(nouns);
 fs.writeFile(path.join(__dirname, outputFile), data, err => {
