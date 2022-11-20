@@ -181,7 +181,10 @@ var irregulars = {
   wals: "walsen",
   wens: "wensen",
   zeis: "zeisen",
-  einde: ["eindes", "einden"]
+  einde: ["eindes", "einden"],
+  symbool: "symbolen",
+  knop: ["knopen", "knoppen"],
+  lid: "leden"
 };
 
 // https://e-ans.ivdnt.org/topics/pid/ans03050402lingtopic

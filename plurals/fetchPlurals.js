@@ -88,6 +88,11 @@ var checkPlural = function (word) {
         nouns[word] = basicword + lastCharacter + "en";
         return true;
       }
+      lastCharacter = lastCharacter.replace("s", "z");
+      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+        nouns[word] = basicword + lastCharacter + "en";
+        return true;
+      }
     }
   }
 
