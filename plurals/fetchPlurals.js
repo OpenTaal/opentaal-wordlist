@@ -57,6 +57,11 @@ var checkPlural = function (word) {
         nouns[word] = basicword + lastCharacter + "en";
         return true;
       }
+      lastCharacter = lastCharacter.replace("s", "z");
+      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+        nouns[word] = basicword + lastCharacter + "en";
+        return true;
+      }
     }
     if (helpers.doesPluralExists(word + "en")) {
       nouns[word] = word + "en";
@@ -67,7 +72,7 @@ var checkPlural = function (word) {
       return true;
     }
   }
-  if (helpers.endsWithSingleConsonant(word)) {
+  if (helpers.endsWithConsonant(word)) {
     var lastCharacter = word.charAt(word.length - 1);
     basicword = word.substring(0, word.length - 2);
     if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
@@ -82,16 +87,32 @@ var checkPlural = function (word) {
 
     if (helpers.endswithStemloosVowel(word)) {
       var lastCharacter = word.charAt(word.length - 1);
-      basicword = word.substring(0, word.length - 2);
-      lastCharacter = lastCharacter.replace("f", "v");
-      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
-        nouns[word] = basicword + lastCharacter + "en";
-        return true;
-      }
-      lastCharacter = lastCharacter.replace("s", "z");
-      if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
-        nouns[word] = basicword + lastCharacter + "en";
-        return true;
+      basicword = word.substring(0, word.length - 1);
+
+      if (helpers.endsWithSingleConsonant(basicword)) {
+        basicword = word.substring(0, word.length - 2);
+        lastCharacter = lastCharacter.replace("f", "v");
+        console.log(basicword + lastCharacter + "en");
+        if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+          nouns[word] = basicword + lastCharacter + "en";
+          return true;
+        }
+        lastCharacter = lastCharacter.replace("s", "z");
+        if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+          nouns[word] = basicword + lastCharacter + "en";
+          return true;
+        }
+      } else {
+        lastCharacter = lastCharacter.replace("f", "v");
+        if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+          nouns[word] = basicword + lastCharacter + "en";
+          return true;
+        }
+        lastCharacter = lastCharacter.replace("s", "z");
+        if (helpers.doesPluralExists(basicword + lastCharacter + "en")) {
+          nouns[word] = basicword + lastCharacter + "en";
+          return true;
+        }
       }
     }
   }

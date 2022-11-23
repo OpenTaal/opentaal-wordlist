@@ -183,8 +183,7 @@ var irregulars = {
   zeis: "zeisen",
   einde: ["eindes", "einden"],
   symbool: "symbolen",
-  knop: ["knopen", "knoppen"],
-  lid: "leden"
+  knop: ["knopen", "knoppen"]
 };
 
 // https://e-ans.ivdnt.org/topics/pid/ans03050402lingtopic
