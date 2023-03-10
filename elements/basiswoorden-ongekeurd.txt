@@ -1,5 +1,13 @@
+010
+013
+020
+030
 030303
+040
+050
 06-dealer
+070
+080
 0-jarig
 0-jarige
 1000-jarig
@@ -26599,6 +26607,7 @@ Mingersberg
 Mingus
 Minh
 Minheere
+minisfinx
 Minjon
 Mink
 Minka
