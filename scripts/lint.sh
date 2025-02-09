@@ -1,9 +1,18 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
-# sudo apt-get -y install devscripts
+echo '* CHECKBASHISMS'
 checkbashisms *.sh
 
-# pip install -U pylint pyflakes mypy
-pylint *.py
-pyflakes *.py
-mypy *.py
+FILES='*.py'
+echo '* PYDOCSTYLE'
+pydocstyle --convention=numpy $FILES
+echo '* FLAKE8'
+flake8 --ignore E501 $FILES
+echo '* PYLINT'
+pylint --notes FIXME $FILES
+echo '* PYFLAKES'
+pyflakes $FILES
+echo '* PYRIGHT-ALRIGHT'
+pyright-alright $FILES
+echo '* MYPY'
+mypy $FILES
