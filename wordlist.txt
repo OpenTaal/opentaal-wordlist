@@ -84934,6 +84934,7 @@ discussiedeelnemer
 discussiedeelnemers
 discussiedraad
 discussieer
+discussieerbaar
 discussieerde
 discussieerden
 discussieert
@@ -401751,6 +401752,7 @@ winti's
 Wintjens
 Wintjes
 Wintraecken
+winwinleningen
 win-winsituatie
 win-winsituaties
 winzieke
@@ -410748,6 +410750,7 @@ Zonhovenaar
 Zonhovens
 Zonhovense
 Zoniënwoud
+zoniet
 Zonjee
 zonk
 zonkant
